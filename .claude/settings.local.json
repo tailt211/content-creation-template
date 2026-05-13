@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.facebook.com)",
+      "Read(//c/My folder/work/fb content agent/context/**)",
+      "Read(//c/My folder/work/**)",
+      "WebSearch"
+    ]
+  }
+}

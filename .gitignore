@@ -1,0 +1,41 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.svg
+*.ico
+*.tiff
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webm
+*.m4v
+
+# Context folder images
+context/products/**/*.jpg
+context/products/**/*.jpeg
+context/products/**/*.png
+context/logo/**/*.jpg
+context/logo/**/*.jpeg
+context/logo/**/*.png
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.env.local
+
+# Dependencies
+node_modules/

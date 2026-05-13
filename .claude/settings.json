@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Le Tan Tai/.claude/projects/c--My-folder-work-prompt-content-creation-template/memory/**)",
+      "Bash(rm \"C:\\\\Users\\\\Le Tan Tai\\\\.claude\\\\projects\\\\c--My-folder-work-prompt-content-creation-template\\\\memory\\\\feedback_opening_style.md\" \"C:\\\\Users\\\\Le Tan Tai\\\\.claude\\\\projects\\\\c--My-folder-work-prompt-content-creation-template\\\\memory\\\\feedback_no_repeat.md\" \"C:\\\\Users\\\\Le Tan Tai\\\\.claude\\\\projects\\\\c--My-folder-work-prompt-content-creation-template\\\\memory\\\\feedback_product_naming.md\")"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Le Tan Tai\\.claude\\projects\\c--My-folder-work-prompt-content-creation-template\\memory"
+    ]
+  }
+}
