@@ -31,7 +31,7 @@
 - Thanh toán: tiền mặt hoặc chuyển khoản, thường cuối tuần hoặc cuối tháng
 
 ### Pain points
-- Khó tìm nguồn **cá saba, cá trích ép trứng, hải sản Nhật** đạt chuẩn, có giấy tờ đầy đủ
+- Khó tìm nguồn **cá saba, cá trích ép trứng, hải sản Nhật** đạt chuẩn
 - Nhà cung cấp cũ hay **tự ý đổi size/quy cách** mà không báo trước — làm xáo trộn menu
 - Hàng đông lạnh hay bị **glazing nhiều** — cân thì đủ nhưng thịt thực tế thiếu, ảnh hưởng định lượng món
 - Giao **không đúng giờ** khiến bếp không kịp rã đông trước giờ mở cửa
@@ -53,7 +53,7 @@
 - Có kiến thức chuyên sâu: phân biệt **sashimi-grade vs cooking-grade**, **IQF vs block frozen**, **glazing %**, **size count**
 - Ghét nhất: hàng **không đồng đều** (size loạn, chất lượng lúc tốt lúc xấu) — phá vỡ consistency của thực đơn Nhật
 - Ưu tiên hàng **đã sơ chế sẵn đúng quy cách Nhật** — fillet đúng kiểu, không xương, giữ form sau rã đông
-- Tin tưởng vào **nhà cung cấp có CO/CQ Nhật, giấy kiểm dịch đầy đủ** — không chấp nhận hàng mờ xuất xứ
+- Tin tưởng vào **nhà cung cấp có xuất xứ rõ ràng** — không chấp nhận hàng mờ xuất xứ
 
 ### Hành vi mua hàng / ảnh hưởng
 - Kiểm tra hàng khi nhận — màu sắc, mùi, độ ẩm sau rã đông, kết cấu thịt
@@ -65,7 +65,7 @@
 - Hàng đông lạnh **rã đông xong bị nhão, mất nước nhiều** — không đạt chuẩn sashimi hay nigiri
 - **Glazing % cao** làm sai định lượng công thức, ảnh hưởng cost per dish
 - Nhà cung cấp không cung cấp **thông tin kỹ thuật**: xuất xứ cụ thể, hạn dùng, cách rã đông đúng cho từng loại hải sản Nhật
-- Hàng thực phẩm Nhật **không rõ nguồn gốc, thiếu giấy tờ** — không dám đưa lên menu cao cấp
+- Hàng thực phẩm Nhật **không rõ nguồn gốc** — không dám đưa lên menu cao cấp
 - Khó tìm hàng như **cá trích ép trứng (shishamo), cá saba Nhật** đủ chuẩn tại TP.HCM
 
 ---
@@ -82,7 +82,7 @@
 ### Tâm lý & Giá trị
 - Nhìn nhà cung cấp như **đối tác kinh doanh dài hạn** — chất lượng nguyên liệu là nền tảng uy tín nhà hàng
 - Quan tâm đến **Food Cost %** — muốn kiểm soát giá đầu vào ổn định theo tháng/quý
-- Coi trọng **chứng từ, hóa đơn đỏ, CO/CQ nhập khẩu Nhật** — cần cho kế toán, kiểm toán và thể hiện với khách Nhật
+- Coi trọng **chứng từ, hóa đơn đỏ** — cần cho kế toán, kiểm toán
 - Muốn **một đầu mối duy nhất** cung cấp đủ hải sản và thực phẩm Nhật — giảm phức tạp vận hành
 - Cân nhắc kỹ trước khi đổi nhà cung cấp — nhưng sẵn sàng đổi nếu bị thất hứa 2–3 lần
 
@@ -94,9 +94,9 @@
 - Cần **hóa đơn đỏ VAT** — bắt buộc với đơn vị có kế toán chính thức
 
 ### Pain points
-- Khó tìm **nhà cung cấp thực phẩm Nhật uy tín** có CO/CQ nhập khẩu đầy đủ tại TP.HCM
+- Khó tìm **nhà cung cấp thực phẩm Nhật uy tín** tại TP.HCM
 - Nhà cung cấp **không ổn định giá** theo mùa — làm khó kiểm soát food cost nhà hàng Nhật (cost cao hơn trung bình)
-- Thiếu **hóa đơn đỏ / chứng từ hợp lệ** — không hạch toán được, không giải thích với khách Nhật
+- Thiếu **hóa đơn đỏ / chứng từ hợp lệ** — không hạch toán được
 - Không đủ **đa dạng mặt hàng Nhật** — vẫn phải mua thêm từ nhiều mối, tốn công quản lý
 - Lo ngại **an toàn vệ sinh thực phẩm** — chỉ cần 1 sự cố là ảnh hưởng uy tín cả nhà hàng, đặc biệt với khách Nhật khắt khe
 
@@ -149,11 +149,11 @@
 - Lướt Facebook chủ yếu buổi tối (21h–23h) hoặc giữa giờ nghỉ trưa
 - Dừng lại khi thấy ảnh sản phẩm đẹp, giá cụ thể, hoặc nhắc đến món Nhật quen thuộc (saba, shishamo)
 - Hiếm khi đọc hết bài dài — cần hook mạnh ở 2 dòng đầu nhắc đến nguyên liệu Nhật cụ thể
-- Hay inbox hỏi giá và có CO/CQ không — ít khi comment công khai
+- Hay inbox hỏi giá — ít khi comment công khai
 
 ### Persona 2 — Bếp trưởng Nhật / Itamae
 - Theo dõi nhiều trang ngành: nhà cung cấp thực phẩm Nhật, nhà hàng Nhật, food blogger chuyên Nhật
-- Dừng lại khi thấy nội dung kỹ thuật thực sự có giá trị: tiêu chuẩn sashimi-grade, cách nhận biết shishamo chất lượng
+- Dừng lại khi thấy nội dung kỹ thuật thực sự có giá trị: cách nhận biết hàng chất lượng, cách chế biến sashimi
 - Có xu hướng lưu bài hoặc share vào group bếp Nhật nếu nội dung chuyên sâu
 - Thường tag đồng nghiệp hoặc chuyển link cho chủ nhà hàng nếu thấy sản phẩm Nhật phù hợp
 

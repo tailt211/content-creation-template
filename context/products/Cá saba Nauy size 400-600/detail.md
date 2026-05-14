@@ -12,7 +12,6 @@
 - **Bảo quản:** -18°C trở xuống
 - **Hạn sử dụng:** 18 tháng kể từ ngày sản xuất
 - **Đóng gói:** Thùng carton 20kg — "Distributed and stored below -18°C"
-- **Giấy tờ:** CO/CQ xuất xứ Na Uy (EFTA), giấy kiểm dịch nhập khẩu, VSATTP
 
 ## Quy cách đóng gói
 - Thùng carton xanh lam đặc trưng Nils Sperre AS, dây đai xanh

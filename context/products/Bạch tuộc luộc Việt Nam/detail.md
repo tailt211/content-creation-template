@@ -42,13 +42,6 @@
 - **Tako yaki niku (蛸焼肉風)** — nướng than hoa kiểu bbq Nhật, chấm tare
 - Xào bơ tỏi nước tương — fusion Nhật phổ thông
 
-## Điểm bán hàng (cho content)
-- **IQF từng con** — lấy đúng số lượng cần, không hao hụt, kiểm soát food cost chính xác — đặc biệt quan trọng với takoyaki cần cân đúng định lượng
-- **Màu đỏ-cam tự nhiên sau luộc đúng chuẩn** — không tẩy trắng, không phụ gia — thể hiện qua màu sắc rõ ràng trong ảnh
-- **Kết cấu dai giòn sau rã đông** — tiêu chuẩn tối quan trọng cho tako sashimi và takoyaki, ổn định từng lô
-- **Đã luộc chín sẵn** — bếp không cần xử lý thêm, tiết kiệm 20–30 phút/ca so với mua bạch tuộc sống
-- **Nguồn gốc Việt Nam rõ ràng** — đánh bắt tự nhiên, không nuôi công nghiệp
-
 ## Hình ảnh sản phẩm
 - z7798291191190_e88701963f83eb1177ee5eeb97d00738.jpg _(thùng xốp nhiều con — thể hiện màu sắc và hình dạng tổng thể)_
 - z7798291193306_fc0c0831054ad707e46614511218de9c.jpg _(cận nhiều con, màu đỏ-cam rõ — ảnh đẹp nhất thể hiện chất lượng)_

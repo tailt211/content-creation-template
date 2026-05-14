@@ -18,7 +18,6 @@
 - Trọng lượng thực: 100g / khay (net weight sau khi loại bao bì)
 - Đóng thùng carton, mỗi thùng nhiều khay — hỏi đại lý để biết số khay/thùng theo lô
 - Bao bì in song ngữ: tiếng Trung + tiếng Anh, logo Clearwater rõ ràng, cờ Canada
-- Giấy tờ: CO/CQ Canada, giấy kiểm dịch nhập khẩu, VSATTP
 
 ## Thông số kỹ thuật
 - **Trạng thái:** Thịt sò đã cắt lát mỏng, định hình sẵn — dùng ngay không cần sơ chế thêm
@@ -43,13 +42,6 @@
 **Ứng dụng khác:**
 - Khai vị theo phần — đóng gói 100g/khay kiểm soát định lượng dễ dàng
 - Bento set hoặc kaiseki nhẹ
-
-## Điểm bán hàng (cho content)
-- **Clearwater — thương hiệu hải sản Canada uy tín hàng đầu**, được xuất khẩu vào Nhật Bản và thị trường cao cấp toàn cầu
-- **Wild-caught Bắc Đại Tây Dương** — không nuôi trồng, vị tự nhiên, kết cấu chắc đặc trưng hải sản vùng nước lạnh
-- **Đóng khay 100g định hình sẵn** — không cần sơ chế, kiểm soát định lượng chính xác, phù hợp set menu và bento
-- **CO/CQ Canada + giấy kiểm dịch nhập khẩu đầy đủ** — sushi bar và omakase có thể trình khách khi hỏi xuất xứ
-- **Ảnh bao bì minh họa nigiri sushi** — nhà sản xuất định vị rõ đây là sản phẩm dùng cho sushi/sashimi
 
 ## Hình ảnh sản phẩm
 - z7798282793223_99437cb2c2d32a4494481deb9867058b.jpg _(thùng hàng, nhiều khay — thể hiện quy mô lô hàng)_
