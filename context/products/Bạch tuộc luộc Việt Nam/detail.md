@@ -30,10 +30,6 @@
 - **Tako nigiri** — lát vòi xếp trên cơm sushi, buộc nori — phổ biến trong izakaya và sushi bar
 - **Tako su (蛸酢)** — sashimi bạch tuộc với giấm ponzu, khai vị nhẹ
 
-**Takoyaki & Okonomiyaki:**
-- **Takoyaki (たこ焼き)** — thái hạt lựu ~1cm, bỏ vào bột, nướng viên — đây là ứng dụng tiêu thụ lượng lớn nhất trong nhà hàng Nhật tại Việt Nam
-- Bạch tuộc IQF từng con — lấy đúng lượng, không hao hụt khi cân định lượng takoyaki
-
 **Salad & Gỏi:**
 - **Sunomono (酢の物)** — gỏi giấm Nhật với dưa leo, rong biển, bạch tuộc — khai vị thanh mát
 - **Tako salad** — trộn với rau kiểu Nhật-Tây

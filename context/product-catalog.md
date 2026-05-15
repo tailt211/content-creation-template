@@ -95,5 +95,5 @@ Khi tạo bài đăng Facebook cho một sản phẩm:
    - **Value post:** tips kỹ thuật liên quan sản phẩm (rã đông, bảo quản, ứng dụng bếp)
    - **Trust post:** nhấn vào xuất xứ, chất lượng nhập khẩu — phù hợp sản phẩm nhập khẩu (saba, cá trích Nissi/Sword, lườn cá kiếm)
 3. **Chọn ảnh** theo số lượng đề xuất ở trên — hoặc theo yêu cầu cụ thể. Nếu không có yêu cầu, chọn ngẫu nhiên từ danh sách ảnh trong detail.md.
-4. **Tham chiếu brand-guideline.md** và **marketing-channels.md** để đảm bảo đúng tone, format và style — đặc biệt: không dùng từ "tươi sống" cho hàng đông lạnh.
+4. **Tham chiếu brand-guideline.md** và **marketing-channels.md** để đảm bảo đúng tone, format và style
 5. **Tham chiếu customer-persona.md** để xác định đúng đối tượng bài đang hướng tới (chủ quán / bếp trưởng / F&B manager).

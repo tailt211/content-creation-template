@@ -31,17 +31,21 @@ Bình Minh SG tin rằng một bếp nhà hàng Nhật vận hành tốt cần n
 ## Tone of Voice
 
 ### Nguyên tắc chung
-**Là:** Giọng PR sản phẩm — tự tin, rõ ràng, có thông tin thực. Giới thiệu sản phẩm bằng cách nêu vai trò của nó trong bếp Nhật, rồi giải thích điều làm nó khác biệt so với hàng thông thường — bằng thông số, hình ảnh cảm quan, hoặc kết quả cụ thể khi dùng. Tính từ hoa mỹ được dùng nhưng phải đi kèm bằng chứng. Không sến.
+**Thân bài là:** Giọng PR sản phẩm — tự tin, chuyên nghiệp, rõ ràng, có thông tin thực. Không sến.
 
-**Không là:** Bản thông số kỹ thuật liệt kê từ trên xuống dưới. Giọng kể chuyện cảm xúc kiểu "người trong bếp nói với người trong bếp". Câu chuyển tiếp PR công ty giả tạo ("Bình Minh SG cam kết...", "Đó là điều chúng tôi mang đến...").
+**Thân bài không là:** Bản thông số kỹ thuật liệt kê từ trên xuống dưới. Câu chuyển tiếp PR công ty giả tạo ("Bình Minh SG cam kết...", "Đó là điều chúng tôi mang đến...").
+
+**Tiêu đề và mở bài:** Dùng đúng 1 query duy nhất: `[tên sản phẩm] blog review ẩm thực Nhật` — không search thêm query nào khác, không thêm từ mô tả vào truy vấn. Từ kết quả trang 1, chọn tối đa 1 bài mỗi loại trang theo thứ tự ưu tiên: **page nhà hàng review → food review → page bán hàng → post Facebook → blog cá nhân**. Lấy insight từ loại trang ưu tiên cao nhất tìm được. Chắt lọc 1–2 insight hay nhất → dùng chính những ý đó làm nội dung tiêu đề và mở bài. Không tự nghĩ góc khác ngoài những gì research cho thấy. Không nhắm persona, không có góc chiến lược. Kết thúc đoạn mở bắt buộc có 1 câu nối vào sản phẩm Bình Minh SG, giọng PR tự nhiên.
 
 **Xưng hô nhất quán:** Xưng "chúng tôi" — gọi khách là "anh/chị"
+
+**Tiêu đề và mở bài — tự do theo tone blog ẩm thực:**
+Dùng đúng 1 query duy nhất: `[tên sản phẩm] blog review ẩm thực Nhật` — không search thêm query nào khác, không thêm từ mô tả vào truy vấn. Từ kết quả trang 1, chọn tối đa 1 bài mỗi loại trang theo thứ tự ưu tiên: **page nhà hàng review → food review → page bán hàng → post Facebook → blog cá nhân**. Lấy insight từ loại trang ưu tiên cao nhất tìm được. Chắt lọc 1–2 insight hay nhất → dùng chính những ý đó làm nội dung tiêu đề và mở bài. Không tự nghĩ góc khác ngoài những gì research cho thấy. Không sao chép nguyên vẹn, không sai thông tin sản phẩm. Không nhắm vào persona nào, không có góc chiến lược. Kết thúc đoạn mở bằng 1 câu nối vào sản phẩm của Bình Minh SG, giọng PR sản phẩm tự nhiên — bắt buộc có, không để ví dụ cố định.
 
 ### Tone theo kênh
 
 **Facebook:** giọng PR sản phẩm — xem chi tiết trong marketing-channels.md
 **Zalo / Tin nhắn trực tiếp:** ngắn, rõ, đúng việc — bảng giá, thông số, lịch giao dạng bảng hoặc bullet
-**Tài liệu / Catalog / Hợp đồng:** thông tin đầy đủ, rõ ràng, dùng bảng biểu — không cần ngôn ngữ cảm xúc
 
 ### Ví dụ SAI
 
@@ -49,9 +53,7 @@ Bình Minh SG tin rằng một bếp nhà hàng Nhật vận hành tốt cần n
 
 > "Tươi như vừa đánh lên" ← hàng đông lạnh, nói sai là mất uy tín ngay
 
-> "Xin chào các bạn, hôm nay mình muốn giới thiệu đến các bạn một sản phẩm..." ← sáo rỗng, mở đầu yếu
-
-> "Bình Minh SG mang đến đúng điều đó." / "Đó là tiêu chí chúng tôi dùng để tuyển chọn từng lô." ← câu chuyển tiếp "chốt" giả tạo, đọc là biết AI viết — bỏ đi
+> "Bình Minh SG mang đến đúng điều đó." / "Đó là tiêu chí chúng tôi dùng để tuyển chọn từng lô." ← câu chuyển tiếp "chốt" giả tạo ở thân bài, đọc là biết AI viết — bỏ đi
 
 > "Nguồn hàng tuyển chọn kỹ lưỡng, chất lượng vượt trội." ← tính từ đứng một mình không có bằng chứng
 
@@ -156,6 +158,5 @@ Bình Minh SG tin rằng một bếp nhà hàng Nhật vận hành tốt cần n
 - ❌ Không viết caption kiểu "siêu rẻ siêu ngon" — mất uy tín với đối tác nhà hàng
 - ❌ Không dùng ảnh hải sản kém chất lượng hoặc ảnh stock vô hồn
 - ❌ Không bỏ thông tin quy cách và giá trong ảnh product — khách B2B cần biết ngay
-- ❌ Không dùng ngôn ngữ "tươi sống", "vừa đánh lên", "sống ngay tại bờ" — hàng đông lạnh, nói sai là mất tin
 - ❌ Không chụp ảnh khối đá đông nguyên cục làm ảnh đại diện sản phẩm — phải chụp hàng đã sơ chế/rã đông
 - ❌ Không hứa thời gian giao nếu không chắc — uy tín B2B xây bằng sự đúng hẹn
