@@ -1,35 +1,52 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+File này được Claude đọc tự động khi mở folder — áp dụng cho Claude Code, Cowork và mọi môi trường Claude.
 
-## What This Repo Is
+## Repo này là gì
 
-A content creation template system for **Hải Sản Bình Minh Sài Gòn (Bình Minh SG)** — a B2B frozen seafood and Japanese food supplier targeting Japanese restaurants in TP.HCM and Hà Nội. The repo contains structured context files used to prompt AI-generated marketing content (Facebook posts, Zalo messages, catalog copy).
+Hệ thống context và template tạo content marketing cho **Hải Sản Bình Minh Sài Gòn (Bình Minh SG)** — nhà cung cấp hải sản đông lạnh và thực phẩm Nhật B2B cho nhà hàng Nhật tại TP.HCM và Hà Nội.
 
-There is no code to build, lint, or test. All work here is editing Markdown context files and producing written content based on them.
-
-## Context Files — Luôn đọc trước khi tạo content
-
-Trước khi viết bất kỳ bài content nào, đọc các file sau:
-
-| File | Vai trò |
-|---|---|
-| `context/brand-guideline.md` | Tone of voice, màu sắc, phong cách hình ảnh, những điều không được làm |
-| `context/customer-persona.md` | 4 persona (chủ quán / bếp trưởng / F&B manager / người mua lẻ) — xác định đối tượng trước khi chọn format bài |
-| `context/marketing-channels.md` | Cấu trúc bài Facebook (Dạng 1A–5), tone theo kênh, hashtag, lịch content, CTA chuẩn |
-| `context/product-catalog.md` | Danh mục 9 sản phẩm, USP tổng quan, link đến detail.md từng sản phẩm |
-
-Với từng sản phẩm cụ thể, đọc thêm `context/products/[tên sản phẩm]/detail.md` để lấy thông số đầy đủ, ứng dụng bếp và danh sách ảnh.
+Không có code để build hay test. Toàn bộ công việc là đọc context files và tạo written content.
 
 ---
 
-## Detailed Rules
+## Đọc file nào cho task nào
 
-Detailed rules are in `.claude/rules/`:
+### Viết bài Facebook / Zalo / catalog copy
+1. `context/brand-guideline.md` — tone, màu sắc, những điều không được làm
+2. `context/marketing-channels.md` — cấu trúc bài (Dạng 1A–5), hashtag, CTA chuẩn
+3. `context/customer-persona.md` — dùng để chọn **format và thân bài** phù hợp; không ảnh hưởng đến tiêu đề và mở bài
+4. `context/product-catalog.md` → link đến `context/products/[tên]/detail.md` của sản phẩm cụ thể
+5. **Research blog ẩm thực viral về sản phẩm** — dùng đúng 1 query duy nhất: `[tên sản phẩm] blog review ẩm thực Nhật` (ví dụ: "râu bạch tuộc Nhật tako blog review ẩm thực Nhật"). Không search thêm query nào khác, không thêm từ mô tả vào truy vấn. Từ kết quả trang 1, chọn tối đa 1 bài mỗi loại trang theo thứ tự ưu tiên: **page nhà hàng review → food review → page bán hàng → post Facebook → blog cá nhân**. Khi viết bài, lấy insight từ loại trang ưu tiên cao nhất tìm được — nếu có page nhà hàng review thì dùng đó trước, không có thì xuống food review, v.v. **Khi dùng WebFetch để đọc bài blog: prompt phải yêu cầu trích nguyên văn phần mở đầu bài — là những đoạn văn giới thiệu xuất hiện trước khi bài đi vào các mục/tiêu đề nội dung chính. Không tóm tắt, không phân loại, không bỏ đoạn nào, lấy đúng thứ tự từ đầu bài.** Sau khi có nguyên văn, tự đánh giá đoạn nào phù hợp nhất để làm mở bài (không nhất thiết phải độc đáo hay hay nhất — chỉ cần phù hợp). Chắt lọc 1–2 ý hay nhất rồi dùng chính những ý đó làm nội dung tiêu đề và mở bài. Không tự nghĩ góc khác ngoài những gì research cho thấy. Không sao chép nguyên vẹn, không sai lệch thông tin sản phẩm. Không nhắm persona, không có góc chiến lược. Kết thúc đoạn mở bắt buộc có 1 câu nối vào sản phẩm Bình Minh SG, giọng PR tự nhiên.
 
-| Rule file | Covers |
+### Thêm sản phẩm mới vào catalog
+Dùng skill có sẵn — nói tự nhiên "tạo detail cho [tên sản phẩm]" hoặc gõ:
+```
+/product-detail-generator [tên folder sản phẩm]
+```
+Skill sẽ tự scan ảnh, research, tạo `detail.md` và cập nhật `product-catalog.md`.
+
+### Cập nhật thông tin thương hiệu / persona
+Chỉnh sửa trực tiếp file liên quan trong `context/`.
+
+---
+
+## Cấu trúc context
+
+| File / Folder | Vai trò |
 |---|---|
-| `context-file-architecture.md` | File layout in `context/`, when to edit each file, how to add new products |
-| `tone-and-language.md` | Voice, forbidden phrases, icon usage, CTA style |
-| `facebook-post-formats.md` | Dạng 1A–5 structures, CTA block, hashtag strategy, content calendar |
-| `products-and-personas.md` | Quick reference for all 6 products, 4 customer personas, content workflow |
+| `context/brand-guideline.md` | Tone of voice, màu sắc, phong cách ảnh, những điều cấm |
+| `context/customer-persona.md` | 4 persona: chủ quán / bếp trưởng / F&B manager / người mua lẻ |
+| `context/marketing-channels.md` | Cấu trúc bài Facebook (Dạng 1A–5), tone theo kênh, lịch content |
+| `context/product-catalog.md` | Danh mục 9 sản phẩm, USP tổng quan, link đến detail.md |
+| `context/products/[tên]/detail.md` | Thông số đầy đủ, ứng dụng bếp Nhật, danh sách ảnh từng sản phẩm |
+| `context/logo/Binh Minh logo.jpg` | Logo thương hiệu — dùng khi cần đặt vào tài liệu hoặc mockup |
+
+---
+
+## Quy tắc chung
+
+- Không viết bài mà chưa đọc `brand-guideline.md` — dễ sai tone
+- Không tự bịa USP hay thông số kỹ thuật sản phẩm — lấy từ `detail.md`
+- Khi không chắc thông tin → ghi "(cần xác nhận)", không đoán mò
+- **Bắt buộc research blog ẩm thực viral về sản phẩm** — dùng đúng 1 query duy nhất: `[tên sản phẩm] blog review ẩm thực Nhật`. Không search thêm query nào khác, không thêm từ mô tả vào truy vấn. Từ kết quả trang 1, chọn tối đa 1 bài mỗi loại trang theo thứ tự ưu tiên: **page nhà hàng review → food review → page bán hàng → post Facebook → blog cá nhân**. Khi viết bài, lấy insight từ loại trang ưu tiên cao nhất tìm được. **Khi dùng WebFetch: prompt phải yêu cầu trích nguyên văn phần mở đầu bài theo thứ tự từ đầu — là những đoạn văn xuất hiện trước khi bài đi vào các mục/tiêu đề nội dung chính. Không tóm tắt, không phân loại, không bỏ đoạn nào.** Sau khi có nguyên văn, tự đánh giá đoạn nào phù hợp nhất để làm mở bài. Chắt lọc 1–2 ý hay nhất rồi dùng chính những ý đó làm nội dung tiêu đề và mở bài. Không tự nghĩ góc khác ngoài những gì research cho thấy. Không sao chép nguyên vẹn, không sai lệch thông tin sản phẩm. Không nhắm persona, không có góc chiến lược. Kết thúc đoạn mở bắt buộc có 1 câu nối vào sản phẩm Bình Minh SG, giọng PR tự nhiên.
