@@ -13,7 +13,7 @@
 ## Quy cách đóng gói
 - Thùng xốp trắng, in logo **NISSI** và chữ Nhật **"刺身にしん"** nổi bật trên thùng
 - Bên trong: gói hút chân không hoặc khay xốp đóng màng — bảo quản trứng không bị vỡ hạt
-- Đơn vị tính: gói / hộp / thùng — hỏi trực tiếp để biết quy cách cụ thể từng đợt nhập
+- **Đơn vị tính:** Kg — 2kg/hộp
 - Nhãn bao bì tiếng Nhật + tiếng Anh
 
 ## Phân loại theo màu nhãn

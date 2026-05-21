@@ -1,0 +1,550 @@
+{
+    "_meta": {
+        "template_name": "Hải Sản Bình Minh Sài Gòn — Brand Image Prompt Template",
+        "version": "4.0",
+        "brand_guideline_ref": "brand-guideline.md — Last update: 2026-05-13",
+        "template_image_ref": "post-product-template-1.png — FIXED, không thay đổi",
+        "mục_đích": "Template chuẩn tạo ảnh sản phẩm bằng AI image generation (Midjourney, DALL-E, Adobe Firefly, Flux). Output phải trông giống post-product-template-1.png — chỉ khác phần nội dung sản phẩm.",
+        "ghi_chú_field": "Các field {} là placeholder — điền khi dùng. Các field không có {} là CỐ ĐỊNH."
+    },
+    "inputs": {
+        "mô_tả": "Hệ thống nhận đúng 2 inputs (input_1 đã được fix cứng). Output dựa hoàn toàn trên layout của post-product-template-1.png.",
+        "input_1_banner_template": {
+            "tên": "Ảnh banner template gốc",
+            "file": "post-product-template-1.png",
+            "trạng_thái": "CỐ ĐỊNH — không thay đổi qua các lần dùng",
+            "mô_tả": "Ảnh banner sản phẩm Trứng cá hồi Nissi AC — là layout gốc chuẩn thương hiệu Bình Minh SG. Mọi output phải tái hiện đúng cấu trúc này.",
+            "không_cần_upload_lại": true,
+            "layout_đã_extract": "Xem section 'layout' bên dưới — đã phân tích và hardcode đầy đủ"
+        },
+        "input_2_tên_sản_phẩm": {
+            "tên": "Tên sản phẩm",
+            "kiểu": "string",
+            "bắt_buộc": true,
+            "ví_dụ": "Trứng cá hồi Nissi AC",
+            "dùng_để_điền": [
+                "Headline Zone A",
+                "Badge Zone B",
+                "Tên trong prompt AI",
+                "_meta.sản_phẩm"
+            ]
+        },
+        "input_3_ảnh_sản_phẩm": {
+            "tên": "Ảnh box / package / sản phẩm gốc",
+            "kiểu": "image file (JPG / PNG / WEBP)",
+            "bắt_buộc": true,
+            "dùng_để_extract": {
+                "màu_sản_phẩm": {
+                    "mô_tả": "Màu chủ đạo của sản phẩm thực tế — dùng cho lifestyle shot và label",
+                    "output_field": "thông_tin_sản_phẩm.màu_bao_bì"
+                },
+                "text_trên_bao_bì": {
+                    "mô_tả": "OCR toàn bộ: tên, xuất xứ, trọng lượng, bảo quản, thành phần, chứng nhận",
+                    "output_fields": [
+                        "tên_sản_phẩm_gốc",
+                        "xuất_xứ",
+                        "quy_cách",
+                        "bảo_quản",
+                        "thành_phần",
+                        "chứng_nhận"
+                    ]
+                },
+                "logo_nhà_sản_xuất": {
+                    "mô_tả": "Tên + mô tả logo nhà sản xuất in trên bao bì",
+                    "output_fields": [
+                        "thương_hiệu_gốc",
+                        "logo_gốc_mô_tả"
+                    ]
+                }
+            }
+        }
+    },
+    "extraction_rules": {
+        "input_1": "ĐÃ CỐ ĐỊNH — không extract, đọc trực tiếp từ section 'layout' bên dưới",
+        "từ_input_3_package": {
+            "bước_1": "OCR toàn bộ text — ưu tiên text lớn trước",
+            "bước_2": "Phân loại: tên SP / xuất xứ / thông số / chứng nhận / logo chữ",
+            "bước_3": "Trích 3 màu nổi bật nhất của SẢN PHẨM (không phải brand)",
+            "bước_4": "Nhận diện logo thương hiệu gốc — tên, vị trí, màu",
+            "bước_5": "Mô tả hình dạng bao bì: khay / túi / hộp / lon"
+        },
+        "mapping": {
+            "input_2_→": "_meta + thông_tin_sản_phẩm.tên_sản_phẩm + Zone A headline + Zone B badge",
+            "input_3_→": "thông_tin_sản_phẩm (tất cả) + màu_sản_phẩm_đặc_trưng + prompts"
+        }
+    },
+    "brand_identity": {
+        "tên_đầy_đủ": "Hải Sản Bình Minh Sài Gòn",
+        "tên_viết_tắt": "Bình Minh SG",
+        "tagline_thương_hiệu": "Chuẩn chất — Đúng giờ — Đủ số lượng.",
+        "logo": {
+            "mô_tả": "Cá ngừ silhouette gradient Ocean Navy→Cobalt Blue + địa cầu Sky Blue bên phải + chữ 'BÌNH MINH SG' Bold Cobalt Blue bên dưới",
+            "màu_trong_logo": {
+                "thân_cá": "#1B2D6B → #2E6DB4 (gradient)",
+                "địa_cầu": "#5BB0E8",
+                "highlight": "#FFFFFF",
+                "chữ_BÌNH_MINH_SG": "#2E6DB4"
+            },
+            "vị_trí_trên_banner": "Góc trên phải — CỐ ĐỊNH",
+            "nền_tại_vị_trí": "Trắng (Zone A nền trắng) — dùng logo màu gốc, không cần bản trắng",
+            "kích_thước_ước_tính": "~80–90px chiều rộng"
+        },
+        "màu_sắc": {
+            "_nguồn": "brand-guideline.md + phân tích post-product-template-1.png",
+            "ocean_navy": {
+                "hex": "#1B2D6B",
+                "dùng_cho": [
+                    "badge brush stroke",
+                    "USP icon disc",
+                    "section header band",
+                    "CTA box",
+                    "footer",
+                    "headline text trên nền trắng"
+                ]
+            },
+            "cobalt_blue": {
+                "hex": "#2E6DB4",
+                "dùng_cho": [
+                    "section header 'Ứng dụng đa dạng'",
+                    "icon accent",
+                    "checklist icon",
+                    "chữ logo"
+                ]
+            },
+            "sky_blue": {
+                "hex": "#5BB0E8",
+                "dùng_cho": [
+                    "badge '500g/khay' và label trọng lượng overlay",
+                    "địa cầu logo",
+                    "icon accent nhẹ"
+                ]
+            },
+            "ice_white": {
+                "hex": "#F4F8FC",
+                "dùng_cho": [
+                    "nền chính toàn banner",
+                    "nền Zone A, B, D, E"
+                ]
+            },
+            "white": {
+                "hex": "#FFFFFF",
+                "dùng_cho": [
+                    "text trên nền tối",
+                    "icon trên disc tối",
+                    "nền ảnh studio"
+                ]
+            },
+            "charcoal": {
+                "hex": "#1C1C2E",
+                "dùng_cho": [
+                    "body text trên nền sáng"
+                ]
+            },
+            "salmon_orange": {
+                "hex": "#E8622A",
+                "dùng_cho": [
+                    "text 'CHIẾT KHẤU...' trong CTA",
+                    "số điện thoại highlight"
+                ],
+                "cảnh_báo": "Chỉ dùng cho 1–2 điểm nhấn CTA, KHÔNG dùng làm badge trọng lượng"
+            },
+            "frost_blue": {
+                "hex": "#A8D8EA",
+                "dùng_cho": [
+                    "badge nhiệt độ -18°C nếu cần"
+                ]
+            },
+            "màu_CẤM": [
+                "màu nâu ấm",
+                "hồng",
+                "pastel",
+                "vàng",
+                "đỏ thuần"
+            ]
+        },
+        "typography": {
+            "_nguồn": "brand-guideline.md + font nhận diện từ post-product-template-1.png",
+            "headline": {
+                "font": "Montserrat ExtraBold / Be Vietnam Pro ExtraBold",
+                "weight": "800",
+                "dùng_cho": "Tên sản phẩm chính Zone A",
+                "màu": "#1B2D6B trên nền trắng"
+            },
+            "script_tagline": {
+                "font": "Script/Handwriting italic (Dancing Script, SVN-Playlist Script)",
+                "dùng_cho": "CHỈ cho tagline cảm xúc Zone A và Zone B — tối đa 2 dòng",
+                "màu": "#1B2D6B"
+            },
+            "body": {
+                "font": "Be Vietnam Pro Regular / Nunito",
+                "weight": "400–600",
+                "dùng_cho": "Caption icon, mô tả, body text",
+                "màu": "#1C1C2E trên nền sáng / #FFFFFF trên nền tối"
+            },
+            "specs": {
+                "font": "Roboto Mono / JetBrains Mono",
+                "dùng_cho": "Trọng lượng, quy cách kỹ thuật, nhiệt độ"
+            },
+            "cta": {
+                "font": "Be Vietnam Pro Bold ALL CAPS",
+                "dùng_cho": "Nút LIÊN HỆ NGAY, CHIẾT KHẤU...",
+                "màu": "#FFFFFF hoặc #E8622A"
+            }
+        },
+        "footer_cố_định": {
+            "nền": "#1B2D6B",
+            "màu_text": "#FFFFFF",
+            "layout": "3 cột đều nhau, full width",
+            "các_mục": [
+                {
+                    "icon": "xe tải",
+                    "tiêu_đề": "GIAO HÀNG TOÀN QUỐC",
+                    "phụ_đề": "Nhanh chóng - Đúng giờ"
+                },
+                {
+                    "icon": "hộp đóng gói",
+                    "tiêu_đề": "ĐÓNG GÓI CHUYÊN NGHIỆP",
+                    "phụ_đề": "Giữ trọn chất lượng"
+                },
+                {
+                    "icon": "điện thoại",
+                    "tiêu_đề": "HỖ TRỢ TƯ VẤN 24/7",
+                    "phụ_đề": "Tận tâm - Nhanh chóng"
+                }
+            ]
+        }
+    },
+    "layout": {
+        "_ref": "Hardcoded từ post-product-template-1.png — đây là cấu trúc cố định cho mọi output",
+        "định_dạng": "portrait",
+        "tỉ_lệ": "4:5",
+        "nền_canvas_chính": "#FFFFFF hoặc #F4F8FC (Ice White) — toàn bộ banner nền TRẮNG/SÁNG, ngoại trừ footer",
+        "hệ_lưới": "Kết hợp: full-width stacked + 2-cột linh hoạt",
+        "padding_nội_tại_blocks": "10–14px",
+        "border_radius": "6–8px cho block/badge; 50% cho icon disc và circle crop",
+        "zones": [
+            {
+                "id": "ZONE_A",
+                "tên": "Header — Tên sản phẩm",
+                "vị_trí": "top",
+                "chiều_cao": "~18% tổng chiều cao",
+                "nền": "#FFFFFF với hiệu ứng watercolor/texture nhẹ, có trang trí lá cây xanh góc trên-trái",
+                "trang_trí": "Nhánh lá xanh tươi (plant decoration) — góc trên bên trái, tự nhiên, lấn vào frame",
+                "layout": "2 cột: 65% trái (text) | 35% phải (logo)",
+                "thành_phần": [
+                    {
+                        "tên": "Tagline phụ",
+                        "nội_dung": "{tagline_phụ}",
+                        "font": "Script italic",
+                        "size": "~22–26px",
+                        "màu": "#1B2D6B",
+                        "vị_trí": "Trên cùng bên trái, trước headline"
+                    },
+                    {
+                        "tên": "Headline chính",
+                        "nội_dung": "{tên_sản_phẩm}",
+                        "font": "Montserrat ExtraBold / Be Vietnam Pro ExtraBold",
+                        "size": "~52–62px (dominant element)",
+                        "màu": "#1B2D6B",
+                        "vị_trí": "Chiếm phần lớn bên trái Zone A"
+                    },
+                    {
+                        "tên": "Logo Bình Minh SG",
+                        "nội_dung": "CỐ ĐỊNH",
+                        "phiên_bản": "Logo màu gốc (navy + sky blue) — vì nền trắng",
+                        "vị_trí": "Góc trên bên phải, ~80–90px rộng"
+                    }
+                ],
+                "nguồn": "input_2 (headline) — logo cố định"
+            },
+            {
+                "id": "ZONE_B",
+                "tên": "Badge dòng + Tagline + USP Icons + Hero Product",
+                "vị_trí": "upper-middle",
+                "chiều_cao": "~27% tổng chiều cao",
+                "nền": "#FFFFFF / #F4F8FC tiếp nối từ Zone A",
+                "layout": "2 cột: 55% trái (text & icons) | 45% phải (ảnh sản phẩm)",
+                "thành_phần_trái": [
+                    {
+                        "tên": "Badge dòng sản phẩm",
+                        "nội_dung": "{badge_dòng}",
+                        "style": "Hình chữ nhật bo tròn với BRUSH STROKE TEXTURE (texture sơn/bàn chải) — nền navy #1B2D6B, text #FFFFFF Bold",
+                        "font": "Be Vietnam Pro Bold ~14–15px",
+                        "ghi_chú": "Phải có hiệu ứng brush stroke — không phải hình chữ nhật phẳng đơn thuần"
+                    },
+                    {
+                        "tên": "Tagline chính",
+                        "nội_dung": "{tagline_chính}",
+                        "font": "Script italic cursive",
+                        "size": "~28–34px",
+                        "màu": "#1B2D6B"
+                    },
+                    {
+                        "tên": "USP Icon Row",
+                        "layout": "5 icon xếp hàng ngang, spacing đều",
+                        "mỗi_icon": {
+                            "disc": "Hình tròn nền #1B2D6B (Ocean Navy) — đường kính ~40px",
+                            "icon": "Icon trắng #FFFFFF bên trong disc",
+                            "caption": "Be Vietnam Pro Regular ~10px, màu #1C1C2E, center-align bên dưới"
+                        },
+                        "nguồn": "input_3 (USP phù hợp sản phẩm)"
+                    }
+                ],
+                "thành_phần_phải": [
+                    {
+                        "tên": "Hero product shot",
+                        "mô_tả": "Ảnh sản phẩm trên tay hoặc flat — nền trắng studio, nhãn bao bì rõ",
+                        "nền_ảnh": "#FFFFFF (studio clean)",
+                        "góc_chụp": "3/4 từ trước-dưới lên hoặc flat"
+                    },
+                    {
+                        "tên": "Label trọng lượng overlay",
+                        "nội_dung": "{label_quy_cách}",
+                        "hình_dạng": "Circle badge",
+                        "nền": "#5BB0E8 (Sky Blue) — KHÔNG dùng Salmon Orange",
+                        "màu_text": "#FFFFFF",
+                        "font": "Be Vietnam Pro Bold ~18–22px",
+                        "vị_trí": "Overlay góc phải-dưới của ảnh hero"
+                    }
+                ],
+                "nguồn": "input_2 (badge + tagline) + input_3 (USP icons, label, ảnh hero)"
+            },
+            {
+                "id": "ZONE_C",
+                "tên": "Lifestyle + Gift Box (2 cột dọc — chạy qua 2 tầng)",
+                "vị_trí": "middle",
+                "chiều_cao": "~30% tổng chiều cao",
+                "layout": "2 cột 50/50 — CẢ HAI cột chạy dọc xuống, kết hợp với Zone D bên dưới",
+                "cột_trái_50%": {
+                    "tên": "Lifestyle hero shot",
+                    "chiều_cao_cột": "100% Zone C",
+                    "mô_tả": "Ảnh thực phẩm phong cách Nhật — sản phẩm là chủ thể, spoon/bowl/plate",
+                    "phong_cách_nhiếp_ảnh": {
+                        "style": "Food editorial Nhật Bản, moody",
+                        "ghi_chú_màu": "Màu trong ảnh lifestyle là màu của THỰC PHẨM (cam đỏ của ikura, xanh của wasabi...) — nền ảnh theo brand guideline nên là tối/xám, nhưng template gốc dùng tông ấm tự nhiên",
+                        "ánh_sáng": "Side light, tôn kết cấu sản phẩm",
+                        "góc_chụp": "45° từ trên xuống hoặc ngang",
+                        "đạo_cụ": "Bát/đĩa sứ/gỗ tối màu, muỗng, chopsticks — Nhật tính"
+                    },
+                    "nguồn": "input_3 (màu sản phẩm thực tế → tông màu lifestyle)"
+                },
+                "cột_phải_50%": {
+                    "tên": "Gift Box / Bộ sản phẩm",
+                    "chiều_cao_cột": "100% Zone C + 100% Zone D (cột phải chạy dọc suốt)",
+                    "mô_tả": "Ảnh bộ sản phẩm đầy đủ trong hộp quà / trên nền sạch",
+                    "phong_cách": "Flat lay 60°, overhead ánh sáng trắng đều",
+                    "nền_ảnh": "#FFFFFF hoặc kraft nâu nhạt (hộp carton)",
+                    "yêu_cầu": "Thấy rõ bao bì gốc, logo nhà sản xuất, số lượng trong bộ",
+                    "nguồn": "input_3 (logo & bao bì gốc)"
+                }
+            },
+            {
+                "id": "ZONE_D",
+                "tên": "Ứng dụng món ăn (cột trái) — cột phải tiếp tục Gift Box từ Zone C",
+                "vị_trí": "lower-middle",
+                "chiều_cao": "~15% tổng chiều cao",
+                "layout": "2 cột 50/50 — cột TRÁI: ứng dụng | cột PHẢI: tiếp nối gift box từ Zone C",
+                "cột_trái_50%": {
+                    "thành_phần": [
+                        {
+                            "tên": "Header band 'Ứng dụng đa dạng'",
+                            "nền": "#2E6DB4 (Cobalt Blue)",
+                            "màu_text": "#FFFFFF",
+                            "font": "Be Vietnam Pro Bold ~13px",
+                            "style": "Hình chữ nhật band full width cột trái, padding ~6px"
+                        },
+                        {
+                            "tên": "3 ảnh ứng dụng tròn",
+                            "layout": "Hàng ngang, 3 ảnh kích thước bằng nhau",
+                            "mỗi_ảnh": {
+                                "hình_dạng": "Circle crop",
+                                "viền": "2px solid #1B2D6B",
+                                "caption": "Be Vietnam Pro Bold ALL CAPS ~11px, màu #1C1C2E, center bên dưới"
+                            },
+                            "nguồn": "input_3 (gợi ý món ăn phù hợp sản phẩm)"
+                        }
+                    ]
+                },
+                "cột_phải_50%": {
+                    "ghi_chú": "Tiếp nối gift box từ Zone C — không có element riêng"
+                }
+            },
+            {
+                "id": "ZONE_E",
+                "tên": "Quy cách + Cam kết chất lượng + CTA",
+                "vị_trí": "bottom-content",
+                "chiều_cao": "~10% tổng chiều cao",
+                "nền": "#FFFFFF / #F4F8FC",
+                "layout": "3 cột đều nhau",
+                "cột_1_quy_cách": {
+                    "header": {
+                        "text": "QUY CÁCH",
+                        "nền": "#1B2D6B",
+                        "màu": "#FFFFFF",
+                        "font": "Be Vietnam Pro Bold ~12px"
+                    },
+                    "items": [
+                        "Mỗi item: icon tick màu #2E6DB4 + text Roboto Mono Regular ~12px",
+                        "Nguồn: input_3 (OCR bao bì)"
+                    ]
+                },
+                "cột_2_cam_kết": {
+                    "header": {
+                        "text": "CAM KẾT CHẤT LƯỢNG",
+                        "nền": "#1B2D6B",
+                        "màu": "#FFFFFF",
+                        "font": "Be Vietnam Pro Bold ~12px"
+                    },
+                    "layout_icons": "2×2 grid — 4 icon tròn #5BB0E8 + nhãn Be Vietnam Pro Regular ~11px bên dưới",
+                    "icon_tròn_size": "~32px đường kính"
+                },
+                "cột_3_cta": {
+                    "nền": "#1B2D6B",
+                    "border_radius": "8px",
+                    "các_dòng": [
+                        {
+                            "text": "LIÊN HỆ NGAY",
+                            "font": "Be Vietnam Pro Bold ALL CAPS",
+                            "size": "~16px",
+                            "màu": "#FFFFFF"
+                        },
+                        {
+                            "text": "Để nhận báo giá tốt nhất và ưu đãi cho nhà hàng",
+                            "font": "Be Vietnam Pro Regular",
+                            "size": "~10px",
+                            "màu": "#FFFFFF"
+                        },
+                        {
+                            "text": "CHIẾT KHẤU HẤP DẪN CHO ĐƠN SỈ",
+                            "font": "Be Vietnam Pro Bold",
+                            "size": "~12px",
+                            "màu": "#E8622A"
+                        },
+                        {
+                            "text": "0778.602.024",
+                            "font": "Be Vietnam Pro ExtraBold",
+                            "size": "~20–22px",
+                            "màu": "#E8622A"
+                        }
+                    ]
+                },
+                "nguồn": "input_3 (quy cách) + brand_identity (CTA cố định)"
+            },
+            {
+                "id": "ZONE_F",
+                "tên": "Footer — CỐ ĐỊNH",
+                "vị_trí": "bottom",
+                "chiều_cao": "~8% tổng chiều cao",
+                "ghi_chú": "Lấy nguyên từ brand_identity.footer_cố_định — KHÔNG chỉnh sửa"
+            }
+        ]
+    },
+    "thông_tin_sản_phẩm": {
+        "_ghi_chú": "TRỐNG trong template — được điền từ input_2 và input_3",
+        "tên_sản_phẩm": "{từ input_2}",
+        "tên_sản_phẩm_gốc": "{OCR bao bì — input_3}",
+        "dòng_sản_phẩm": "{phân tích từ input_3}",
+        "thương_hiệu_gốc": "{nhận diện logo — input_3}",
+        "logo_gốc_mô_tả": "{hình dạng, màu, vị trí trên bao bì}",
+        "xuất_xứ": "{OCR — input_3}",
+        "quy_cách": [
+            "{size/trọng lượng/đơn vị}"
+        ],
+        "bảo_quản": "{OCR — input_3}",
+        "thành_phần": "{OCR — input_3 nếu có}",
+        "chứng_nhận": [
+            "{JAS / HACCP / ISO... nếu có}"
+        ],
+        "màu_bao_bì": {
+            "màu_1_sản_phẩm": "{màu thực tế của sản phẩm — hex}",
+            "màu_2": "{màu phụ bao bì}",
+            "màu_3": "{màu thứ 3 nếu có}"
+        },
+        "tagline_phụ": "{ví dụ: Trứng cá hồi cao cấp}",
+        "tagline_chính": "{3–5 từ cảm xúc/đặc tính}",
+        "badge_dòng": "{thương hiệu gốc + mã SP + đặc điểm xuất xứ}",
+        "label_quy_cách": "{trọng lượng chính, ví dụ: 500g/khay}",
+        "usp_icons": [
+            {
+                "icon": "{icon_1}",
+                "caption": "{mô tả}"
+            },
+            {
+                "icon": "{icon_2}",
+                "caption": "{mô tả}"
+            },
+            {
+                "icon": "{icon_3}",
+                "caption": "{mô tả}"
+            },
+            {
+                "icon": "{icon_4}",
+                "caption": "{mô tả}"
+            },
+            {
+                "icon": "{icon_5}",
+                "caption": "{mô tả}"
+            }
+        ],
+        "cam_kết_chất_lượng": [
+            {
+                "icon": "{icon}",
+                "nhãn": "{cam kết 1}"
+            },
+            {
+                "icon": "{icon}",
+                "nhãn": "{cam kết 2}"
+            },
+            {
+                "icon": "{icon}",
+                "nhãn": "{cam kết 3}"
+            },
+            {
+                "icon": "{icon}",
+                "nhãn": "{cam kết 4}"
+            }
+        ],
+        "ứng_dụng": [
+            {
+                "tên_món": "{MÓN 1}",
+                "mô_tả_ảnh": "{gợi ý chụp}"
+            },
+            {
+                "tên_món": "{MÓN 2}",
+                "mô_tả_ảnh": "{gợi ý chụp}"
+            },
+            {
+                "tên_món": "{MÓN 3}",
+                "mô_tả_ảnh": "{gợi ý chụp}"
+            }
+        ]
+    },
+    "output_schema": {
+        "mô_tả": "2 inputs → 1 file JSON data hoàn chỉnh (bao gồm cả prompts sẵn sàng dùng)",
+        "file_output": "{slug_sản_phẩm}_image_data.json",
+        "prompts_bao_gồm": [
+            "hero_product_shot (EN + VI)",
+            "lifestyle_shot (EN + VI)",
+            "gift_box_shot (EN + VI)",
+            "ứng_dụng_shots x3 (EN + VI)",
+            "negative_prompt",
+            "technical_params"
+        ]
+    },
+    "prompt_structure": {
+        "cấu_trúc": "[Loại ảnh] + [Mô tả SP chi tiết] + [Phong cách nhiếp ảnh] + [Ánh sáng] + [Màu chủ đạo] + [Đạo cụ & nền] + [Kỹ thuật]",
+        "negative_prompt_cố_định": "blurry, low quality, distorted text, watermark, overexposed, plastic-looking, fake food, amateur photography, cartoon, illustration, 3D render, warm brown background, warm yellow lighting, neon colors, pink background, yellow background, pastel, frozen unprepared seafood block, washed out, deformed hands, grain, noise",
+        "style_keywords_cố_định": [
+            "Vietnamese premium seafood import product photography",
+            "Japanese food commercial advertising style",
+            "professional B2B food supplier",
+            "clean appetizing and fresh"
+        ],
+        "technical_params": {
+            "aspect_ratio": "4:5",
+            "quality": "ultra high detail, 4K, photorealistic",
+            "midjourney_suffix": "--ar 4:5 --q 2 --style raw",
+            "firefly_style": "Photo, Hyper Realistic"
+        }
+    }
+}

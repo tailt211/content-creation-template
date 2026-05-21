@@ -11,7 +11,7 @@
 - **Đóng gói:** Khay xốp trắng đậy màng trong + hộp carton bao ngoài — thùng xốp lạnh
 
 ## Quy cách
-- Đơn vị tính: khay 500g hoặc theo lô đặc biệt
+- **Đơn vị tính:** Hộp — 500g/hộp
 - Khay xốp trắng, nắp màng trong suốt — nhìn rõ trứng từ bên ngoài
 - Hạt trứng size vừa — kích thước đồng nhất giữa các khay, dễ định lượng khi chia phần
 - Hạt riêng biệt — không cục lại, tiện lấy lượng chính xác

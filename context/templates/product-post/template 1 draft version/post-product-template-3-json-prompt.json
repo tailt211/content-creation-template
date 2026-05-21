@@ -1,0 +1,442 @@
+{
+  "_meta": {
+    "template_name": "Bình Minh SG — Brand Image Prompt Template",
+    "version": "2.0",
+    "mục_đích": "Template chuẩn dùng để tạo ảnh sản phẩm bằng AI image generation (Midjourney, DALL-E, Adobe Firefly, Flux, v.v.)",
+    "ghi_chú_field": "Các field có dấu {} là placeholder — cần điền khi dùng. Các field không có {} là cố định theo brand Bình Minh SG."
+  },
+  "inputs": {
+    "mô_tả": "Hệ thống nhận đúng 3 inputs để tạo ra JSON data + prompt text hoàn chỉnh",
+    "input_1_banner_template": {
+      "tên": "Ảnh banner thương hiệu mẫu",
+      "kiểu": "image file (JPG / PNG / WEBP)",
+      "mô_tả": "Ảnh banner sản phẩm hoàn chỉnh đã có — dùng làm reference style cho thương hiệu Bình Minh SG",
+      "bắt_buộc": true,
+      "dùng_để_extract": [
+        "Bố cục tổng thể (số zone, tỉ lệ cột, thứ tự từ trên xuống)",
+        "Bảng màu thương hiệu (primary, secondary, accent, neutral)",
+        "Hệ thống typography (font style cho từng loại text)",
+        "Phong cách nhiếp ảnh (studio vs lifestyle, tông màu, ánh sáng)",
+        "Các thành phần UI cố định (badge, icon row, section header, footer)",
+        "Tone & mood tổng thể"
+      ],
+      "ghi_chú": "Chỉ cần 1 ảnh banner bất kỳ của thương hiệu là đủ để AI học style"
+    },
+    "input_2_tên_sản_phẩm": {
+      "tên": "Tên sản phẩm",
+      "kiểu": "string (văn bản)",
+      "mô_tả": "Tên đầy đủ của sản phẩm cần tạo ảnh",
+      "bắt_buộc": true,
+      "ví_dụ": "Trứng cá hồi Nissi AC",
+      "dùng_để_điền": [
+        "Main headline (Zone A)",
+        "Tên trong badge dòng sản phẩm (Zone B)",
+        "Tên trong các đoạn prompt AI",
+        "Metadata file"
+      ]
+    },
+    "input_3_ảnh_sản_phẩm": {
+      "tên": "Ảnh box / package / sản phẩm gốc",
+      "kiểu": "image file (JPG / PNG / WEBP)",
+      "mô_tả": "Ảnh chụp hộp, bao bì, túi hoặc chính sản phẩm thực tế — dùng để AI đọc thông tin",
+      "bắt_buộc": true,
+      "dùng_để_extract": {
+        "màu_sắc_bao_bì": {
+          "mô_tả": "Màu chủ đạo trên bao bì/hộp sản phẩm",
+          "output_field": "thông_tin_sản_phẩm.màu_bao_bì",
+          "dùng_cho": "Label overlay, badge màu sắc đặc trưng sản phẩm"
+        },
+        "text_trên_bao_bì": {
+          "mô_tả": "Đọc toàn bộ chữ có trên bao bì (tên, xuất xứ, quy cách, ngày sản xuất, bảo quản, thành phần, chứng nhận)",
+          "output_fields": [
+            "thông_tin_sản_phẩm.tên_sản_phẩm_gốc",
+            "thông_tin_sản_phẩm.xuất_xứ",
+            "thông_tin_sản_phẩm.quy_cách",
+            "thông_tin_sản_phẩm.bảo_quản",
+            "thông_tin_sản_phẩm.thành_phần",
+            "thông_tin_sản_phẩm.chứng_nhận"
+          ]
+        },
+        "logo_nhà_sản_xuất_gốc": {
+          "mô_tả": "Nhận diện logo/tên thương hiệu nhà sản xuất in trên bao bì",
+          "output_fields": [
+            "thông_tin_sản_phẩm.thương_hiệu_gốc",
+            "thông_tin_sản_phẩm.logo_gốc_mô_tả"
+          ],
+          "dùng_cho": "Ghi nhận thương hiệu nguồn gốc, xuất hiện trong ảnh gift box shot"
+        }
+      }
+    }
+  },
+  "extraction_rules": {
+    "mô_tả": "Quy tắc xử lý từng input — AI cần tuân thủ khi phân tích ảnh",
+    "từ_input_1_banner": {
+      "bước_1": "Chia ảnh thành các zone theo chiều dọc, đánh số A → F từ trên xuống",
+      "bước_2": "Với mỗi zone: xác định màu nền, layout cột, các thành phần có mặt",
+      "bước_3": "Trích xuất bảng màu — lấy tối đa 8 màu, phân loại: primary / secondary / accent / neutral",
+      "bước_4": "Phân tích typography — với mỗi loại text: font style, weight, size tương đối, màu",
+      "bước_5": "Ghi nhận các element cố định thương hiệu: logo vị trí, footer nội dung, icon style"
+    },
+    "từ_input_3_package": {
+      "bước_1": "OCR toàn bộ text hiển thị — ưu tiên text lớn trước, text nhỏ sau",
+      "bước_2": "Phân loại text: tên sản phẩm / xuất xứ / thông số kỹ thuật / cảnh báo / logo chữ",
+      "bước_3": "Trích màu chủ đạo bao bì — lấy 3 màu nổi bật nhất (Hex hoặc mô tả)",
+      "bước_4": "Nhận diện logo thương hiệu gốc — ghi tên, vị trí trên bao bì, màu logo",
+      "bước_5": "Mô tả hình dạng bao bì: khay / túi / hộp / lon / chai — kích cỡ ước tính"
+    },
+    "mapping_sang_json_output": {
+      "mô_tả": "Sau khi extract xong, map dữ liệu vào các section của data JSON",
+      "input_1_→": "brand_identity + layout + hướng_dẫn_ảnh",
+      "input_2_→": "thông_tin_sản_phẩm.tên_sản_phẩm + _meta",
+      "input_3_→": "thông_tin_sản_phẩm (tất cả sub-fields) + màu_sắc_sản_phẩm_đặc_trưng"
+    }
+  },
+  "brand_identity": {
+    "tên_thương_hiệu": "Bình Minh SG",
+    "số điện thoại": "0778.602.024",
+    "logo": {
+      "hình_dạng": "hình tròn",
+      "vị_trí_mặc_định": "góc trên bên phải",
+      "kích_thước": "60–70px đường kính",
+      "viền": "2px solid #FFFFFF",
+      "màu_nền": "#1A237E",
+      "màu_text": "#FFFFFF",
+      "nội_dung": "biểu tượng cá + địa cầu + chữ BÌNH MINH SG",
+      "ghi_chú": "Logo phải luôn xuất hiện cùng tên thương hiệu, không tách rời — KHÔNG thay đổi qua các sản phẩm"
+    },
+    "màu_sắc_thương_hiệu": {
+      "primary_navy": {
+        "hex": "#1A237E",
+        "dùng_cho": [
+          "nền chính",
+          "footer",
+          "CTA box",
+          "section header"
+        ]
+      },
+      "secondary_blue": {
+        "hex": "#1565C0",
+        "dùng_cho": [
+          "badge viền",
+          "icon fill",
+          "heading phụ",
+          "checklist icon"
+        ]
+      },
+      "accent_orange": {
+        "hex": "#E65100",
+        "dùng_cho": [
+          "badge sản phẩm",
+          "CTA highlight",
+          "label trọng lượng",
+          "số điện thoại"
+        ]
+      },
+      "amber_product": {
+        "hex": "#FF8F00",
+        "dùng_cho": [
+          "màu sản phẩm thực phẩm mặc định — override bằng màu thực tế từ input_3"
+        ]
+      },
+      "white": {
+        "hex": "#FFFFFF",
+        "dùng_cho": [
+          "text trên nền tối",
+          "icon fill",
+          "viền logo"
+        ]
+      },
+      "light_grey": {
+        "hex": "#F5F5F5",
+        "dùng_cho": [
+          "nền block quy cách / specs"
+        ]
+      },
+      "forest_green": {
+        "hex": "#2E7D32",
+        "dùng_cho": [
+          "icon tự nhiên/organic",
+          "badge chất lượng"
+        ]
+      }
+    },
+    "typography": {
+      "font_headline": {
+        "gợi_ý": "SVN-Gilroy ExtraBold hoặc Montserrat ExtraBold",
+        "weight": "800–900",
+        "dùng_cho": "tên sản phẩm chính, headline lớn nhất ảnh",
+        "màu": "#FFFFFF trên nền navy"
+      },
+      "font_script": {
+        "gợi_ý": "SVN-Playlist Script, Dancing Script, Pacifico",
+        "style": "italic / cursive",
+        "dùng_cho": "tagline cảm xúc, dòng phụ artisan",
+        "màu": "#FFFFFF hoặc navy đậm"
+      },
+      "font_body": {
+        "gợi_ý": "SVN-Gilroy Regular/Medium hoặc Montserrat Regular",
+        "weight": "400–600",
+        "dùng_cho": "body text, caption, specs, footer",
+        "màu": "#FFFFFF trên nền tối / #1A237E trên nền sáng"
+      },
+      "font_cta": {
+        "gợi_ý": "SVN-Gilroy Bold hoặc Montserrat Bold",
+        "style": "ALL CAPS, letter-spacing rộng",
+        "dùng_cho": "CTA button, số điện thoại",
+        "màu": "#E65100 hoặc #FFFFFF"
+      }
+    },
+    "footer_cố_định": {
+      "ghi_chú": "KHÔNG thay đổi qua các sản phẩm — là nhận diện thương hiệu cố định",
+      "nền": "#1A237E",
+      "màu_text": "#FFFFFF",
+      "layout": "3 cột đều nhau, full width",
+      "các_mục": [
+        {
+          "icon": "xe tải",
+          "tiêu_đề": "Giao hàng toàn quốc",
+          "phụ_đề": "Nhanh chóng - Đúng giờ"
+        },
+        {
+          "icon": "hộp quà",
+          "tiêu_đề": "Đóng gói chuyên nghiệp",
+          "phụ_đề": "Giữ trọn chất lượng"
+        },
+        {
+          "icon": "điện thoại",
+          "tiêu_đề": "Hỗ trợ tư vấn 24/7",
+          "phụ_đề": "Tận tâm - Nhanh chóng"
+        }
+      ]
+    }
+  },
+  "layout": {
+    "định_dạng": "portrait",
+    "tỉ_lệ_khuyến_nghị": "4:5 hoặc 1:1",
+    "hệ_lưới": "2 cột linh hoạt (50/50 hoặc 60/40)",
+    "khoảng_cách_giữa_zones": "8–12px",
+    "padding_nội_tại": "10–14px",
+    "border_radius_chuẩn": "6–8px cho box/badge; 50% cho icon và ảnh tròn",
+    "zones": [
+      {
+        "id": "ZONE_A",
+        "tên": "Header — Tiêu đề sản phẩm",
+        "vị_trí": "top",
+        "chiều_cao_ước_tính": "15–18%",
+        "nền": "#1A237E",
+        "layout_nội_tại": "left: tiêu đề | right: logo thương hiệu",
+        "thành_phần": [
+          "{tagline_phụ} — font script, italic, màu trắng",
+          "{tên_sản_phẩm} — font headline ExtraBold, size lớn nhất ảnh, màu trắng",
+          "Logo Bình Minh SG — CỐ ĐỊNH, góc trên phải"
+        ],
+        "nguồn_dữ_liệu": "input_2 (tên sản phẩm) + input_3 (tagline gợi ý từ bao bì)"
+      },
+      {
+        "id": "ZONE_B",
+        "tên": "Badge + Hero Product Shot",
+        "vị_trí": "upper-middle",
+        "chiều_cao_ước_tính": "25–30%",
+        "layout_nội_tại": "60% trái: text & icons | 40% phải: ảnh sản phẩm",
+        "thành_phần_trái": [
+          "{badge_dòng_sản_phẩm} — nền #E65100, text trắng bold",
+          "{tagline_chính} — font script italic",
+          "5 USP icons — hàng ngang, caption dưới mỗi icon"
+        ],
+        "thành_phần_phải": [
+          "{ảnh_hero_sản_phẩm} — studio trắng, góc 3/4",
+          "{label_quy_cách} — circle badge cam, overlay trên ảnh"
+        ],
+        "nguồn_dữ_liệu": "input_3 (màu bao bì → badge màu; text bao bì → specs & label)"
+      },
+      {
+        "id": "ZONE_C",
+        "tên": "Lifestyle Hero Image",
+        "vị_trí": "middle",
+        "chiều_cao_ước_tính": "30–35%",
+        "layout_nội_tại": "full width",
+        "thành_phần": [
+          "{ảnh_lifestyle} — moody/natural light, sản phẩm là chủ thể"
+        ],
+        "ghi_chú_nhiếp_ảnh": "Màu sản phẩm thực tế (từ input_3) quyết định tông màu chủ đạo của ảnh lifestyle",
+        "nguồn_dữ_liệu": "input_3 (màu sản phẩm thực tế)"
+      },
+      {
+        "id": "ZONE_D",
+        "tên": "Ứng dụng + Hộp quà / Bộ sản phẩm",
+        "vị_trí": "lower-middle",
+        "chiều_cao_ước_tính": "20–25%",
+        "layout_nội_tại": "50% trái: ứng dụng | 50% phải: gift box / bộ sản phẩm",
+        "thành_phần_trái": [
+          "Header box 'Ứng dụng đa dạng' — CỐ ĐỊNH label, nền navy",
+          "{n} ảnh tròn circle-crop — viền navy, caption ALL CAPS"
+        ],
+        "thành_phần_phải": [
+          "{ảnh_gift_box} — flat lay từ trên, thấy rõ branding và bao bì gốc"
+        ],
+        "nguồn_dữ_liệu": "input_3 (logo & bao bì gốc hiển thị trong ảnh gift box)"
+      },
+      {
+        "id": "ZONE_E",
+        "tên": "Specs + Chất lượng + CTA",
+        "vị_trí": "bottom-content",
+        "chiều_cao_ước_tính": "15–18%",
+        "layout_nội_tại": "3 cột đều: specs | quality badges | CTA",
+        "thành_phần": [
+          "Cột 1 — Quy cách: {danh_sách_specs} từ text bao bì",
+          "Cột 2 — Cam kết: 4 icon tròn + nhãn cố định thương hiệu",
+          "Cột 3 — CTA box: text kêu gọi + số điện thoại màu cam"
+        ],
+        "nguồn_dữ_liệu": "input_3 (specs từ OCR bao bì) + brand_identity (CTA cố định)"
+      },
+      {
+        "id": "ZONE_F",
+        "tên": "Footer thương hiệu",
+        "vị_trí": "bottom",
+        "chiều_cao_ước_tính": "8–10%",
+        "ghi_chú": "CỐ ĐỊNH — lấy nguyên từ brand_identity.footer_cố_định, không chỉnh sửa"
+      }
+    ]
+  },
+  "thông_tin_sản_phẩm": {
+    "_ghi_chú": "Section này TRỐNG trong template — được điền tự động từ input_2 và input_3",
+    "tên_sản_phẩm": "{từ input_2}",
+    "tên_sản_phẩm_gốc": "{OCR từ input_3 — tên in trên bao bì}",
+    "dòng_sản_phẩm": "{phân tích từ input_3}",
+    "thương_hiệu_gốc": "{nhận diện logo từ input_3}",
+    "logo_gốc_mô_tả": "{mô tả logo nhà sản xuất: hình dạng, màu, vị trí trên bao bì}",
+    "xuất_xứ": "{OCR từ input_3}",
+    "quy_cách": [
+      "{OCR từ input_3 — size, trọng lượng, đơn vị}"
+    ],
+    "bảo_quản": "{OCR từ input_3}",
+    "thành_phần": "{OCR từ input_3 nếu có}",
+    "chứng_nhận": [
+      "{OCR từ input_3 — ISO, HACCP, JAS, v.v. nếu có}"
+    ],
+    "màu_bao_bì": {
+      "màu_1_chủ_đạo": "{hex hoặc mô tả — extract từ input_3}",
+      "màu_2": "{hex hoặc mô tả}",
+      "màu_3": "{hex hoặc mô tả}"
+    },
+    "tagline_phụ": "{gợi ý dựa trên loại sản phẩm}",
+    "tagline_chính": "{ngắn gọn 3–5 từ, thể hiện cảm xúc/đặc tính nổi bật}",
+    "badge_dòng": "{tên đầy đủ — thương hiệu gốc + đặc điểm chuẩn xuất xứ}",
+    "label_quy_cách_overlay": "{trọng lượng/đơn vị chính}",
+    "usp_icons": [
+      {
+        "icon": "{icon_1}",
+        "caption": "{mô_tả_1}"
+      },
+      {
+        "icon": "{icon_2}",
+        "caption": "{mô_tả_2}"
+      },
+      {
+        "icon": "{icon_3}",
+        "caption": "{mô_tả_3}"
+      },
+      {
+        "icon": "{icon_4}",
+        "caption": "{mô_tả_4}"
+      },
+      {
+        "icon": "{icon_5}",
+        "caption": "{mô_tả_5}"
+      }
+    ],
+    "cam_kết_chất_lượng": [
+      {
+        "icon": "{icon}",
+        "nhãn": "{cam_kết_1}"
+      },
+      {
+        "icon": "{icon}",
+        "nhãn": "{cam_kết_2}"
+      },
+      {
+        "icon": "{icon}",
+        "nhãn": "{cam_kết_3}"
+      },
+      {
+        "icon": "{icon}",
+        "nhãn": "{cam_kết_4}"
+      }
+    ],
+    "ứng_dụng": [
+      {
+        "tên_món": "{MÓN_1}",
+        "mô_tả_ảnh": "{gợi ý chụp phù hợp sản phẩm}"
+      },
+      {
+        "tên_món": "{MÓN_2}",
+        "mô_tả_ảnh": "{gợi ý chụp}"
+      },
+      {
+        "tên_món": "{MÓN_3}",
+        "mô_tả_ảnh": "{gợi ý chụp}"
+      }
+    ]
+  },
+  "hướng_dẫn_ảnh": {
+    "_ghi_chú": "Phần màu_chủ_đạo trong lifestyle_shot được fill từ màu_bao_bì extract của input_3",
+    "hero_product_shot": {
+      "phong_cách": "studio clean, nền trắng hoặc xám nhạt",
+      "ánh_sáng": "ánh sáng trắng đều, softbox",
+      "góc_chụp": "3/4 nghiêng từ phía trước-trên",
+      "yêu_cầu": "thấy rõ nhãn & branding trên bao bì (tham chiếu input_3)"
+    },
+    "lifestyle_shot": {
+      "phong_cách": "moody natural light, nền thủ công (gỗ/đá/vải)",
+      "ánh_sáng": "side light tự nhiên ấm, một phía",
+      "góc_chụp": "45° từ trên xuống nghiêng",
+      "màu_chủ_đạo": "{fill từ màu_bao_bì.màu_1_chủ_đạo của sản phẩm}",
+      "đạo_cụ": "bát/đĩa ceramic, muỗng gỗ — phù hợp văn hoá ẩm thực sản phẩm"
+    },
+    "gift_box_shot": {
+      "phong_cách": "flat lay, nền trung tính",
+      "ánh_sáng": "overhead đều, không bóng đổ mạnh",
+      "góc_chụp": "thẳng từ trên xuống hoặc 60° nghiêng",
+      "yêu_cầu": "thấy rõ cả bộ sản phẩm, bao bì gốc và logo nhà sản xuất (từ input_3)"
+    },
+    "ứng_dụng_shots": {
+      "phong_cách": "editorial food, thực tế và thèm ăn",
+      "format": "circle crop, viền navy 2px",
+      "yêu_cầu": "thấy rõ sản phẩm trong món ăn thành phẩm"
+    }
+  },
+  "output_schema": {
+    "mô_tả": "Cấu trúc output được tạo ra sau khi xử lý 3 inputs",
+    "file_1_data_json": {
+      "tên": "{tên_sản_phẩm_slug}_image_data.json",
+      "nội_dung": "Toàn bộ template này với tất cả {} đã được điền — thông tin từ 3 inputs"
+    },
+    "file_2_prompts": {
+      "tên": "{tên_sản_phẩm_slug}_prompts.json",
+      "nội_dung": "Các đoạn prompt AI sẵn sàng dùng",
+      "bao_gồm": [
+        "prompt_hero_product_shot",
+        "prompt_lifestyle_shot",
+        "prompt_gift_box_shot",
+        "prompt_ứng_dụng_shots (x3)",
+        "negative_prompt_chung",
+        "style_keywords"
+      ]
+    }
+  },
+  "prompt_structure": {
+    "cấu_trúc_chuẩn": "[Loại ảnh], [Mô tả sản phẩm chi tiết], [Phong cách nhiếp ảnh], [Ánh sáng], [Màu sắc chủ đạo], [Đạo cụ & nền], [Chi tiết kỹ thuật]",
+    "negative_prompt_chung": "blurry, low quality, distorted text, watermark, overexposed, plastic-looking, fake food, unsaturated, washed out colors, amateur, cartoon, 3D render",
+    "style_keywords_cố_định": [
+      "Vietnamese premium food product photography",
+      "commercial advertising style",
+      "appetizing and fresh",
+      "high-end seafood branding"
+    ],
+    "technical_params": {
+      "aspect_ratio": "4:5",
+      "quality": "ultra high detail, 4K",
+      "rendering": "photorealistic"
+    }
+  }
+}

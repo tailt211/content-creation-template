@@ -1,0 +1,707 @@
+{
+    "_meta": {
+        "template_name": "Hải Sản Bình Minh Sài Gòn — Product Banner Design Spec",
+        "version": "5.0",
+        "template_image": "post-product-template-1.png — FIXED LAYOUT REFERENCE",
+        "brand_guideline": "brand-guideline.md — 2026-05-13",
+        "mục_đích": "Design spec đủ chi tiết để tái tạo chính xác layout post-product-template-1.png chỉ bằng 2 inputs: tên sản phẩm + ảnh bao bì. Output là banner sản phẩm Bình Minh SG chuẩn thương hiệu.",
+        "quy_ước": {
+            "FIXED": "Không thay đổi qua các sản phẩm — copy y chang từ template",
+            "{variable}": "Điền từ input sản phẩm",
+            "px": "Đơn vị tương đối, chuẩn trên canvas 1080×1350px (4:5)"
+        }
+    },
+    "inputs": {
+        "input_1": {
+            "tên": "Banner template gốc",
+            "file": "post-product-template-1.png",
+            "trạng_thái": "FIXED — layout đã hardcode trong spec này, không cần truyền vào",
+            "canvas_gốc": "1080 × 1350px, 4:5, 72dpi"
+        },
+        "input_2": {
+            "tên": "Tên sản phẩm",
+            "kiểu": "string",
+            "bắt_buộc": true,
+            "điền_vào": [
+                "Zone A › headline",
+                "Zone B › badge_dòng",
+                "prompt AI"
+            ]
+        },
+        "input_3": {
+            "tên": "Ảnh bao bì / sản phẩm gốc",
+            "kiểu": "image file",
+            "bắt_buộc": true,
+            "extract": {
+                "text_ocr": "Tên gốc, xuất xứ, trọng lượng, bảo quản, thành phần, chứng nhận",
+                "màu_sản_phẩm": "Màu thực tế của sản phẩm — dùng cho lifestyle shot và label màu",
+                "logo_nsx": "Tên + mô tả logo nhà sản xuất"
+            }
+        }
+    },
+    "canvas": {
+        "kích_thước": "1080 × 1350px",
+        "tỉ_lệ": "4:5",
+        "nền_chính": "#FFFFFF",
+        "padding_ngoài": "0px — elements chạm cạnh canvas",
+        "font_stack": "Montserrat, Be Vietnam Pro, Nunito, Roboto Mono"
+    },
+    "brand_assets": {
+        "logo_bình_minh_sg": {
+            "mô_tả_hình": "Cá ngừ silhouette gradient Ocean Navy (#1B2D6B) sang Cobalt Blue (#2E6DB4), vây có highlight trắng, mắt cá là chấm trắng. Địa cầu grid-line màu Sky Blue (#5BB0E8) đặt góc phải thân cá. Phía dưới: chữ 'BÌNH MINH SG' Bold Sans-serif màu #2E6DB4.",
+            "nền_logo": "Trong suốt — logo đặt trực tiếp lên nền trắng Zone A",
+            "kích_thước_trên_banner": "W: ~160px, H: ~160px (bao gồm chữ bên dưới)",
+            "vị_trí": "Góc trên phải, margin-top: 24px, margin-right: 20px",
+            "FIXED": true
+        },
+        "màu": {
+            "ocean_navy": "#1B2D6B",
+            "cobalt_blue": "#2E6DB4",
+            "sky_blue": "#5BB0E8",
+            "ice_white": "#F4F8FC",
+            "white": "#FFFFFF",
+            "charcoal": "#1C1C2E",
+            "salmon_orange": "#E8622A",
+            "frost_blue": "#A8D8EA"
+        },
+        "font": {
+            "display_extrabold": "Montserrat ExtraBold, 800",
+            "script_italic": "Dancing Script Bold / SVN-Playlist Script, italic",
+            "body_bold": "Be Vietnam Pro Bold, 700",
+            "body_regular": "Be Vietnam Pro Regular, 400",
+            "mono": "Roboto Mono Regular, 400"
+        }
+    },
+    "design_spec": {
+        "ZONE_A": {
+            "tên": "Header — Tên sản phẩm",
+            "vị_trí": "y: 0 → ~243px (18% canvas)",
+            "nền": "#FFFFFF",
+            "hiệu_ứng_nền": "Không gradient, không texture — trắng phẳng",
+            "trang_trí_lá_cây": {
+                "FIXED": true,
+                "data_hiển_thị": {
+                    "loại_lá": "Tropical leaves — monstera hoặc lá dài nhọn, ảnh thật không vector",
+                    "màu_lá": "Xanh lá tươi, tự nhiên, không filter, opacity 100%",
+                    "vị_trí": "Góc trên bên trái, lấn vào frame ~180px từ trái và ~150px từ trên",
+                    "z_order": "Phía sau text, không che headline"
+                },
+                "mô_tả": "Nhánh lá xanh tươi (tropical leaves / monstera hoặc lá dài nhọn) — ảnh thật, không vector",
+                "vị_trí": "Góc trên bên trái, lấn vào frame ~180px từ trái và ~150px từ trên",
+                "màu_lá": "Xanh lá tươi, tự nhiên — không filter",
+                "blend": "Lá nằm phía sau text, không che headline",
+                "opacity": "100%"
+            },
+            "tagline_phụ": {
+                "nội_dung": "{tagline_phụ} — ví dụ: 'Trứng cá hồi cao cấp'",
+                "font": "script_italic",
+                "size": "42px",
+                "màu": "#1B2D6B",
+                "vị_trí": "x: 28px từ trái, y: 32px từ đầu zone",
+                "line_height": "1.2",
+                "letter_spacing": "0px"
+            },
+            "headline_chính": {
+                "nội_dung": "{tên_sản_phẩm} — ví dụ: 'Trứng cá hồi Nissi AC'",
+                "font": "display_extrabold",
+                "size": "72px",
+                "màu": "#1B2D6B",
+                "vị_trí": "x: 28px từ trái, bên dưới tagline_phụ, gap: 4px",
+                "max_width": "680px (không lấn sang vùng logo)",
+                "line_height": "1.1",
+                "word_wrap": "Nếu tên dài > 680px: xuống dòng tự động, size giảm xuống 60px",
+                "ghi_chú": "Đây là element to nhất và đậm nhất toàn banner"
+            },
+            "logo": {
+                "FIXED": true,
+                "data_hiển_thị": {
+                    "hình": "Cá ngừ silhouette gradient Ocean Navy (#1B2D6B) → Cobalt Blue (#2E6DB4), vây highlight trắng, mắt cá chấm trắng, địa cầu grid-line Sky Blue (#5BB0E8) góc phải thân cá",
+                    "chữ": "BÌNH MINH SG — Bold Sans-serif màu #2E6DB4, bên dưới hình cá",
+                    "kích_thước": "~160 × 160px (bao gồm chữ)",
+                    "vị_trí": "Góc trên phải Zone A — margin-top: 24px, margin-right: 20px",
+                    "nền": "Trong suốt, đặt trực tiếp trên nền trắng"
+                },
+                "ref": "brand_assets.logo_bình_minh_sg",
+                "vị_trí": "Góc trên phải Zone A, căn phải canvas"
+            }
+        },
+        "ZONE_B": {
+            "tên": "Badge dòng + Tagline + USP Icons + Hero Product Shot",
+            "vị_trí": "y: ~243px → ~607px (27% canvas)",
+            "nền": "#FFFFFF tiếp nối Zone A — không có đường kẻ phân cách",
+            "layout": "2 cột: cột trái 580px | cột phải 500px",
+            "badge_dòng_sản_phẩm": {
+                "nội_dung": "{badge_dòng} — ví dụ: 'Ikura Nissi AC — Hạt cam đỏ chuẩn Nhật'",
+                "hình_dạng": "Hình chữ nhật với HIỆU ỨNG BRUSH STROKE — hai cạnh đầu/cuối có viền lượn không đều như nét cọ sơn, không phải rectangle phẳng",
+                "nền": "#1B2D6B",
+                "width": "~520px",
+                "height": "~44px",
+                "padding": "10px 18px",
+                "border_radius": "Không dùng border-radius chuẩn — cạnh được tạo bằng SVG brush stroke path",
+                "font": "body_bold",
+                "size": "22px",
+                "màu_text": "#FFFFFF",
+                "vị_trí": "x: 28px, y: 12px từ đầu Zone B",
+                "FIXED_style": true,
+                "data_hiển_thị_style": {
+                    "hình_dạng": "Brush stroke SVG path — 2 cạnh trái/phải lượn tự nhiên như nét cọ, không bo tròn đều",
+                    "màu_nền": "#1B2D6B",
+                    "màu_chữ": "#FFFFFF",
+                    "font": "Be Vietnam Pro Bold 700, 22px",
+                    "kích_thước": "~520 × 44px, padding 10px 18px",
+                    "vị_trí": "x: 28px từ trái, y: 12px từ đầu Zone B"
+                },
+                "variable_content": true
+            },
+            "tagline_chính": {
+                "nội_dung": "{tagline_chính} — ví dụ: 'Căng – Nổ – Đúng vị'",
+                "font": "script_italic",
+                "size": "54px",
+                "màu": "#1B2D6B",
+                "vị_trí": "x: 28px, bên dưới badge_dòng, gap: 10px",
+                "line_height": "1.2"
+            },
+            "usp_icon_row": {
+                "FIXED_style": true,
+                "data_hiển_thị_style": {
+                    "số_lượng_icon": 5,
+                    "layout": "Hàng ngang, spacing đều, tổng width ~560px",
+                    "disc": "Hình tròn 72px, nền #1B2D6B, icon trắng ~36px centered",
+                    "caption": "Be Vietnam Pro Regular 18px, màu #1C1C2E, center dưới disc, gap 6px, max 2 dòng 100px",
+                    "gap_giữa_items": "16px",
+                    "vị_trí": "x: 28px, bên dưới tagline_chính, gap: 16px"
+                },
+                "variable_content": true,
+                "layout": "5 icon xếp hàng ngang, spacing đều nhau, tổng width ~560px",
+                "mỗi_icon_element": {
+                    "disc": {
+                        "hình_dạng": "Hình tròn",
+                        "diameter": "72px",
+                        "nền": "#1B2D6B",
+                        "icon_bên_trong": "Icon trắng #FFFFFF, kích thước ~36px, centered trong disc",
+                        "style_icon": "Flat, stroke đều, không gradient"
+                    },
+                    "caption": {
+                        "font": "body_regular",
+                        "size": "18px",
+                        "màu": "#1C1C2E",
+                        "align": "Center bên dưới disc",
+                        "gap_với_disc": "6px",
+                        "max_width": "100px",
+                        "line_height": "1.3",
+                        "max_lines": "2 dòng"
+                    },
+                    "gap_giữa_items": "16px"
+                },
+                "vị_trí": "x: 28px, bên dưới tagline_chính, gap: 16px",
+                "icon_list": [
+                    {
+                        "icon": "{usp_icon_1}",
+                        "caption": "{usp_caption_1}"
+                    },
+                    {
+                        "icon": "{usp_icon_2}",
+                        "caption": "{usp_caption_2}"
+                    },
+                    {
+                        "icon": "{usp_icon_3}",
+                        "caption": "{usp_caption_3}"
+                    },
+                    {
+                        "icon": "{usp_icon_4}",
+                        "caption": "{usp_caption_4}"
+                    },
+                    {
+                        "icon": "{usp_icon_5}",
+                        "caption": "{usp_caption_5}"
+                    }
+                ]
+            },
+            "hero_product_shot": {
+                "vị_trí": "Cột phải Zone B — x: 580px → 1080px, y: 0 → 364px (trong zone)",
+                "kích_thước_ảnh": "~500px × ~370px",
+                "brief_nhiếp_ảnh": {
+                    "subject": "Bao bì sản phẩm — {mô_tả_bao_bì_từ_input_3}",
+                    "cách_cầm": "Bàn tay nữ da sáng cầm từ phía dưới, ngón tay đỡ đáy bao bì, bao bì hướng về phía viewer",
+                    "góc": "3/4 từ dưới-trước lên, nghiêng ~15° về phải — thấy rõ mặt trước bao bì",
+                    "background": "#FFFFFF — studio clean, không bóng đổ",
+                    "lighting": "Softbox đều từ trên, không harsh shadow, catch-light nhỏ trên bao bì nhựa/bóng",
+                    "focus": "Toàn bộ bao bì sắc nét, đặc biệt nhãn và logo nhà sản xuất",
+                    "label_visibility": "Nhãn sản phẩm (tên, logo nhà sản xuất, mã sản phẩm) phải đọc được rõ ràng"
+                },
+                "blend_with_bg": "Nền trắng ảnh blend seamless với nền trắng Zone B"
+            },
+            "label_trọng_lượng": {
+                "nội_dung": "{label_quy_cách} — ví dụ: '500g/khay'",
+                "hình_dạng": "Hình tròn hoàn hảo",
+                "diameter": "110px",
+                "nền": "#5BB0E8",
+                "font": "body_bold",
+                "size": "26px",
+                "màu_text": "#FFFFFF",
+                "text_align": "Center",
+                "vị_trí": "Overlay góc phải-dưới của hero_product_shot, offset: x -20px, y -20px so với góc dưới-phải ảnh",
+                "shadow": "drop-shadow: 0 3px 8px rgba(0,0,0,0.20)",
+                "FIXED_style": true,
+                "data_hiển_thị_style": {
+                    "hình_dạng": "Hình tròn 110px, nền #5BB0E8 (Sky Blue)",
+                    "chữ": "Be Vietnam Pro Bold 26px, màu #FFFFFF, căn giữa",
+                    "shadow": "drop-shadow 0 3px 8px rgba(0,0,0,0.20)",
+                    "vị_trí": "Overlay góc phải-dưới hero shot, offset x -20px y -20px"
+                },
+                "variable_content": true
+            }
+        },
+        "ZONE_C": {
+            "tên": "Lifestyle Shot (trái) + Gift Box (phải) — 2 cột chạy dọc, kết hợp Zone D",
+            "vị_trí_tổng": "y: ~607px → ~1080px (35% canvas — Zone C + D gộp lại)",
+            "layout": "2 cột cứng: cột trái 540px | cột phải 540px",
+            "ghi_chú": "Hai cột này chạy từ y:607 xuống ~y:1080, bên trong mỗi cột có sub-layout riêng",
+            "cột_trái": {
+                "ZONE_C_trái": {
+                    "tên": "Lifestyle hero shot",
+                    "vị_trí": "x:0, y:607px, W:540px, H:~290px",
+                    "brief_nhiếp_ảnh": {
+                        "style": "Food editorial phong cách Nhật Bản — sản phẩm là chủ thể tuyệt đối",
+                        "subject": "{mô_tả_sản_phẩm_trong_bối_cảnh} — ví dụ: 'Muỗng gỗ múc đầy trứng cá hồi Ikura'",
+                        "góc": "45° từ trên-bên xuống, camera hơi nghiêng phải",
+                        "ánh_sáng": "Side light tự nhiên từ cạnh phải, tạo chiều sâu và shadow nhẹ — KHÔNG overhead flat",
+                        "background": "Bề mặt gỗ tự nhiên tông tối ấm hoặc đá tối — tôn màu sản phẩm lên",
+                        "đạo_cụ": "Muỗng/đũa gỗ tối màu + bát/đĩa ceramic Nhật (xám-xanh wabi-sabi) + một vài đạo cụ Nhật tính (lá shiso, đũa tre...)",
+                        "màu_focal": "{màu_1_sản_phẩm từ input_3} — màu thực tế sản phẩm phải là điểm sáng nhất frame",
+                        "depth_of_field": "Sản phẩm chính sắc nét, background hơi bokeh nhẹ",
+                        "crop": "Ảnh fill toàn bộ vùng — không có khoảng trắng"
+                    }
+                },
+                "ZONE_D_trái": {
+                    "tên": "Ứng dụng món ăn",
+                    "vị_trí": "x:0, y:~897px, W:540px, H:~183px",
+                    "header_band": {
+                        "FIXED": true,
+                        "data_hiển_thị": {
+                            "text": "Ứng dụng đa dạng",
+                            "màu_nền": "#2E6DB4 (Cobalt Blue)",
+                            "màu_chữ": "#FFFFFF",
+                            "font": "Be Vietnam Pro Bold 22px, không uppercase",
+                            "kích_thước": "200 × 36px, padding 6px 16px",
+                            "góc": "Vuông — chỉ bo 2 góc phải (hoặc full vuông)",
+                            "vị_trí": "x: 16px từ trái cột, y: 8px từ đầu Zone D"
+                        },
+                        "text": "Ứng dụng đa dạng",
+                        "font": "body_bold",
+                        "size": "22px",
+                        "màu_text": "#FFFFFF",
+                        "nền": "#2E6DB4",
+                        "width": "200px",
+                        "height": "36px",
+                        "padding": "6px 16px",
+                        "border_radius": "0px — góc vuông hoặc chỉ bo 2 góc phải",
+                        "vị_trí": "x:16px từ trái cột, y:8px từ đầu zone D",
+                        "uppercase": false
+                    },
+                    "application_photos": {
+                        "layout": "3 ảnh hàng ngang, căn đều trong 540px",
+                        "mỗi_ảnh": {
+                            "hình_dạng": "Circle crop — hình tròn hoàn hảo",
+                            "diameter": "130px",
+                            "border": "3px solid #1B2D6B",
+                            "object_fit": "cover — ảnh fill toàn hình tròn, không letterbox",
+                            "caption": {
+                                "font": "body_bold",
+                                "size": "18px",
+                                "màu": "#1C1C2E",
+                                "align": "center",
+                                "uppercase": true,
+                                "gap_với_ảnh": "6px"
+                            }
+                        },
+                        "gap_giữa_ảnh": "14px",
+                        "vị_trí": "y: 52px từ đầu Zone D trái (bên dưới header_band)",
+                        "danh_sách": [
+                            {
+                                "tên_món": "{ứng_dụng_1}",
+                                "brief_ảnh": "{mô_tả_ảnh_1}"
+                            },
+                            {
+                                "tên_món": "{ứng_dụng_2}",
+                                "brief_ảnh": "{mô_tả_ảnh_2}"
+                            },
+                            {
+                                "tên_món": "{ứng_dụng_3}",
+                                "brief_ảnh": "{mô_tả_ảnh_3}"
+                            }
+                        ]
+                    }
+                }
+            },
+            "cột_phải": {
+                "tên": "Gift Box / Bộ sản phẩm — chạy suốt từ Zone C đến hết Zone D",
+                "vị_trí": "x:540px, y:607px, W:540px, H:~473px",
+                "brief_nhiếp_ảnh": {
+                    "style": "Product flat lay thương mại — clean và chuyên nghiệp",
+                    "subject": "Bộ sản phẩm đầy đủ: nhiều đơn vị bao bì xếp trong hộp quà hoặc trên nền sạch",
+                    "góc": "~60° từ trên xuống nghiêng về phía trước-phải — thấy rõ nội dung trong hộp VÀ cạnh hộp",
+                    "hộp_quà": "Hộp carton kraft nâu nhạt mở nắp — nắp hộp mở hé về phía sau, thấy rõ bên trong",
+                    "arrangement": "Các đơn vị bao bì xếp ngăn nắp 2×2 hoặc phù hợp số lượng — logo và nhãn quay mặt trước về phía camera",
+                    "logo_nsx_visible": "Logo và tên nhà sản xuất gốc ({thương_hiệu_gốc}) phải thấy rõ trên ít nhất 1 đơn vị",
+                    "background": "#FFFFFF hoặc nền xám nhạt trung tính",
+                    "lighting": "Overhead diffused trắng đều — không shadow mạnh, không highlight chói",
+                    "depth": "Toàn bộ hộp và nội dung đều sắc nét",
+                    "crop": "Fill toàn bộ cột phải — không khoảng trắng thừa"
+                }
+            }
+        },
+        "ZONE_E": {
+            "tên": "Quy cách + Cam kết chất lượng + CTA",
+            "vị_trí": "y: ~1080px → ~1215px (10% canvas)",
+            "nền": "#FFFFFF",
+            "layout": "3 cột đều: mỗi cột 360px",
+            "border_top": "1px solid #E0E0E0 — đường kẻ mỏng phân cách với zone trên",
+            "cột_1_quy_cách": {
+                "header": {
+                    "FIXED_label": true,
+                    "data_hiển_thị": {
+                        "text": "QUY CÁCH",
+                        "màu_nền": "#1B2D6B (Ocean Navy)",
+                        "màu_chữ": "#FFFFFF",
+                        "font": "Be Vietnam Pro Bold 18px, căn giữa",
+                        "kích_thước": "100% cột × 32px, padding 6px 14px"
+                    },
+                    "text": "QUY CÁCH",
+                    "font": "body_bold",
+                    "size": "18px",
+                    "màu_text": "#FFFFFF",
+                    "nền": "#1B2D6B",
+                    "width": "100% cột",
+                    "height": "32px",
+                    "padding": "6px 14px",
+                    "text_align": "center"
+                },
+                "checklist": {
+                    "nguồn": "OCR từ input_3",
+                    "mỗi_item": {
+                        "icon_tick": "✓ màu #2E6DB4, size 16px",
+                        "text": "Roboto Mono Regular 20px, màu #1C1C2E",
+                        "gap_icon_text": "8px",
+                        "margin_bottom": "5px"
+                    },
+                    "padding": "10px 14px",
+                    "max_items": 4
+                }
+            },
+            "cột_2_cam_kết": {
+                "header": {
+                    "FIXED_label": true,
+                    "data_hiển_thị": {
+                        "text": "CAM KẾT CHẤT LƯỢNG",
+                        "màu_nền": "#1B2D6B (Ocean Navy)",
+                        "màu_chữ": "#FFFFFF",
+                        "font": "Be Vietnam Pro Bold 18px, căn giữa",
+                        "kích_thước": "100% cột × 32px, padding 6px 14px"
+                    },
+                    "text": "CAM KẾT CHẤT LƯỢNG",
+                    "font": "body_bold",
+                    "size": "18px",
+                    "màu_text": "#FFFFFF",
+                    "nền": "#1B2D6B",
+                    "width": "100% cột",
+                    "height": "32px",
+                    "padding": "6px 14px",
+                    "text_align": "center"
+                },
+                "icon_grid": {
+                    "layout": "2×2 grid — 4 icon tròn đều nhau",
+                    "mỗi_icon": {
+                        "disc": "Hình tròn diameter 44px, nền #5BB0E8, icon #FFFFFF bên trong ~22px",
+                        "nhãn": "Be Vietnam Pro Regular 16px, màu #1C1C2E, center bên dưới disc, gap 5px"
+                    },
+                    "gap_grid": "12px",
+                    "padding": "10px 14px",
+                    "danh_sách": [
+                        {
+                            "icon": "{cam_kết_icon_1}",
+                            "nhãn": "{cam_kết_1}"
+                        },
+                        {
+                            "icon": "{cam_kết_icon_2}",
+                            "nhãn": "{cam_kết_2}"
+                        },
+                        {
+                            "icon": "{cam_kết_icon_3}",
+                            "nhãn": "{cam_kết_3}"
+                        },
+                        {
+                            "icon": "{cam_kết_icon_4}",
+                            "nhãn": "{cam_kết_4}"
+                        }
+                    ]
+                }
+            },
+            "cột_3_cta": {
+                "FIXED_style": true,
+                "data_hiển_thị_style": {
+                    "nền": "#1B2D6B (Ocean Navy), góc vuông, fill full height cột",
+                    "padding": "12px 16px",
+                    "dòng_1": "LIÊN HỆ NGAY — Be Vietnam Pro Bold 22px, #FFFFFF, uppercase",
+                    "dòng_2": "Để nhận báo giá tốt nhất và ưu đãi cho nhà hàng — Regular 16px, #FFFFFF opacity 0.88",
+                    "dòng_3": "CHIẾT KHẤU HẤP DẪN CHO ĐƠN SỈ — Bold 17px, #E8622A (Salmon Orange), uppercase"
+                },
+                "nền": "#1B2D6B",
+                "border_radius": "0px — góc vuông, fill full height cột",
+                "padding": "12px 16px",
+                "các_dòng": [
+                    {
+                        "id": "cta_headline",
+                        "text": "LIÊN HỆ NGAY",
+                        "font": "body_bold",
+                        "size": "22px",
+                        "màu": "#FFFFFF",
+                        "uppercase": true,
+                        "margin_bottom": "4px"
+                    },
+                    {
+                        "id": "cta_sub",
+                        "text": "Để nhận báo giá tốt nhất và ưu đãi cho nhà hàng",
+                        "font": "body_regular",
+                        "size": "16px",
+                        "màu": "#FFFFFF",
+                        "opacity": "0.88",
+                        "line_height": "1.4",
+                        "margin_bottom": "8px"
+                    },
+                    {
+                        "id": "cta_highlight",
+                        "text": "CHIẾT KHẤU HẤP DẪN CHO ĐƠN SỈ",
+                        "font": "body_bold",
+                        "size": "17px",
+                        "màu": "#E8622A",
+                        "uppercase": true,
+                        "background_highlight": "Không — chỉ đổi màu chữ",
+                        "margin_bottom": "4px"
+                    }
+                ]
+            }
+        },
+        "ZONE_F": {
+            "tên": "Footer thương hiệu — HOÀN TOÀN CỐ ĐỊNH",
+            "vị_trí": "y: ~1215px → 1350px (10% canvas)",
+            "nền": "#1B2D6B",
+            "layout": "3 cột đều — mỗi cột 360px, căn giữa theo chiều dọc",
+            "FIXED": true,
+            "data_hiển_thị": {
+                "nền": "#1B2D6B (Ocean Navy), full width",
+                "cột_1": {
+                    "icon": "Xe tải delivery — outline trắng #FFFFFF ~36px, căn trái",
+                    "dòng_1": "GIAO HÀNG TOÀN QUỐC — Be Vietnam Pro Bold 20px, #FFFFFF",
+                    "dòng_2": "Nhanh chóng - Đúng giờ — Regular 17px, #FFFFFF opacity 0.85"
+                },
+                "cột_2": {
+                    "icon": "Hộp đóng gói — outline trắng #FFFFFF ~36px, căn trái",
+                    "dòng_1": "ĐÓNG GÓI CHUYÊN NGHIỆP — Be Vietnam Pro Bold 20px, #FFFFFF",
+                    "dòng_2": "Giữ trọn chất lượng — Regular 17px, #FFFFFF opacity 0.85"
+                },
+                "cột_3": {
+                    "icon": "Điện thoại handset — outline trắng #FFFFFF ~36px, căn trái",
+                    "dòng_1": "HỖ TRỢ TƯ VẤN 24/7 — Be Vietnam Pro Bold 20px, #FFFFFF",
+                    "dòng_2": "Tận tâm - Nhanh chóng, #FFFFFF"
+                },
+                "layout_nội_tại": "Icon trái + text group bên phải, gap 12px, căn giữa dọc mỗi cột"
+            },
+            "các_cột": [
+                {
+                    "icon": "Xe tải delivery — outline trắng #FFFFFF, ~36px",
+                    "icon_vị_trí": "Trái cột, căn giữa dọc",
+                    "text_group": {
+                        "dòng_1": {
+                            "text": "GIAO HÀNG TOÀN QUỐC",
+                            "font": "body_bold",
+                            "size": "20px",
+                            "màu": "#FFFFFF"
+                        },
+                        "dòng_2": {
+                            "text": "Nhanh chóng - Đúng giờ",
+                            "font": "body_regular",
+                            "size": "17px",
+                            "màu": "#FFFFFF",
+                            "opacity": "0.85"
+                        }
+                    },
+                    "layout_nội_tại": "Icon trái + text bên phải, gap 12px, căn giữa dọc"
+                },
+                {
+                    "icon": "Hộp đóng gói — outline trắng #FFFFFF, ~36px",
+                    "text_group": {
+                        "dòng_1": {
+                            "text": "ĐÓNG GÓI CHUYÊN NGHIỆP",
+                            "font": "body_bold",
+                            "size": "20px",
+                            "màu": "#FFFFFF"
+                        },
+                        "dòng_2": {
+                            "text": "Giữ trọn chất lượng",
+                            "font": "body_regular",
+                            "size": "17px",
+                            "màu": "#FFFFFF",
+                            "opacity": "0.85"
+                        }
+                    },
+                    "layout_nội_tại": "Icon trái + text bên phải, gap 12px, căn giữa dọc"
+                },
+                {
+                    "icon": "Điện thoại / handset — outline trắng #FFFFFF, ~36px",
+                    "text_group": {
+                        "dòng_1": {
+                            "text": "HỖ TRỢ TƯ VẤN 24/7",
+                            "font": "body_bold",
+                            "size": "20px",
+                            "màu": "#FFFFFF"
+                        },
+                        "dòng_2": {
+                            "text": "Tận tâm - Nhanh chóng",
+                            "font": "body_regular",
+                            "size": "22px",
+                            "màu": "#FFFFFF"
+                        }
+                    },
+                    "layout_nội_tại": "Icon trái + text bên phải, gap 12px, căn giữa dọc"
+                }
+            ]
+        }
+    },
+    "thông_tin_sản_phẩm_template": {
+        "_ghi_chú": "TRỐNG trong template — điền từ input_2 và input_3",
+        "tên_sản_phẩm": "{input_2}",
+        "tên_gốc_trên_bao_bì": "{OCR input_3}",
+        "thương_hiệu_gốc": "{OCR input_3}",
+        "xuất_xứ": "{OCR input_3}",
+        "trọng_lượng_đơn_vị": "{OCR input_3 — ví dụ: 500g/khay}",
+        "bảo_quản": "{OCR input_3}",
+        "thành_phần": "{OCR input_3 nếu có}",
+        "chứng_nhận": [
+            "{OCR input_3}"
+        ],
+        "màu_sản_phẩm_1": "{màu thực tế nổi bật nhất của sản phẩm — hex}",
+        "màu_sản_phẩm_2": "{màu phụ bao bì}",
+        "tagline_phụ": "{dạng: '[Loại sản phẩm] cao cấp' — 3–5 từ}",
+        "tagline_chính": "{cảm xúc/đặc tính nổi bật — 3–5 từ, dấu gạch ngang ngăn cách}",
+        "badge_dòng": "{thương_hiệu_gốc + tên_sản_phẩm + đặc điểm xuất xứ}",
+        "label_quy_cách": "{trọng_lượng_đơn_vị — ví dụ: 500g/khay}",
+        "usp_icons": [
+            {
+                "icon": "{icon_phù_hợp_sản_phẩm}",
+                "caption": "{mô_tả_ngắn}"
+            },
+            {
+                "icon": "{icon}",
+                "caption": "{mô_tả}"
+            },
+            {
+                "icon": "{icon}",
+                "caption": "{mô_tả}"
+            },
+            {
+                "icon": "{icon}",
+                "caption": "{mô_tả}"
+            },
+            {
+                "icon": "{icon}",
+                "caption": "{mô_tả}"
+            }
+        ],
+        "cam_kết": [
+            {
+                "icon": "{icon}",
+                "nhãn": "{cam_kết_1}"
+            },
+            {
+                "icon": "{icon}",
+                "nhãn": "{cam_kết_2}"
+            },
+            {
+                "icon": "{icon}",
+                "nhãn": "{cam_kết_3}"
+            },
+            {
+                "icon": "{icon}",
+                "nhãn": "{cam_kết_4}"
+            }
+        ],
+        "ứng_dụng": [
+            {
+                "tên_món": "{MÓN 1}",
+                "brief_ảnh": "{mô_tả_chụp}"
+            },
+            {
+                "tên_món": "{MÓN 2}",
+                "brief_ảnh": "{mô_tả_chụp}"
+            },
+            {
+                "tên_món": "{MÓN 3}",
+                "brief_ảnh": "{mô_tả_chụp}"
+            }
+        ]
+    },
+    "photography_brief_template": {
+        "_ghi_chú": "Brief nhiếp ảnh chuẩn cho từng loại ảnh — điền {variable} từ dữ liệu sản phẩm",
+        "hero_product_shot": {
+            "mục_đích": "Ảnh sản phẩm Zone B — thể hiện bao bì rõ, chuyên nghiệp",
+            "frame": "3/4 từ dưới-trước lên, nghiêng ~15° về phải",
+            "subject": "{mô_tả_bao_bì} cầm trên bàn tay nữ da sáng",
+            "cầm": "Ngón tay đỡ phía dưới bao bì, không che nhãn chính",
+            "background": "#FFFFFF studio — blend với nền Zone B",
+            "lighting": "Softbox từ trên-phải, đèn trắng, không shadow harsh",
+            "focus": "Toàn bộ bao bì và nhãn sắc nét",
+            "yêu_cầu_label": "Nhãn sản phẩm, logo {thương_hiệu_gốc}, mã sản phẩm đọc được rõ ràng"
+        },
+        "lifestyle_shot": {
+            "mục_đích": "Ảnh cảm xúc Zone C — thèm ăn, sang trọng, Nhật tính",
+            "frame": "45° từ trên-bên xuống, hơi nghiêng phải",
+            "subject": "{mô_tả_sản_phẩm_trong_dụng_cụ} — ví dụ: muỗng gỗ múc đầy",
+            "focal_color": "{màu_sản_phẩm_1} — phải là màu nổi bật nhất frame",
+            "dụng_cụ": "Muỗng gỗ tối màu / đũa tre + bát ceramic xám-xanh wabi-sabi Nhật",
+            "background": "Gỗ tối tự nhiên hoặc đá xám — tạo tương phản với màu sản phẩm",
+            "lighting": "Side light tự nhiên 1 phía, tạo shadow nhẹ và chiều sâu",
+            "mood": "Moody, appetizing, premium — không bright cheerful"
+        },
+        "gift_box_shot": {
+            "mục_đích": "Ảnh bộ sản phẩm Zone C phải — thể hiện giá trị, quà tặng",
+            "frame": "60° từ trên xuống, nghiêng phía trước-phải",
+            "hộp": "Carton kraft nâu nhạt, mở nắp hé về sau",
+            "arrangement": "{số_lượng} đơn vị {mô_tả_bao_bì} xếp gọn bên trong",
+            "logo_visibility": "Logo {thương_hiệu_gốc} quay mặt về phía camera",
+            "background": "#FFFFFF hoặc xám trung tính nhạt",
+            "lighting": "Overhead diffused trắng đều — không bóng mạnh"
+        },
+        "application_shots": {
+            "mục_đích": "3 ảnh tròn Zone D — thể hiện versatility sản phẩm",
+            "format": "Circle crop 130px — ảnh fill toàn hình tròn",
+            "lighting": "Natural hoặc studio trắng nhẹ — không warm tone",
+            "style": "Thực tế, appetizing — thấy sản phẩm rõ trong món ăn thành phẩm",
+            "danh_sách": [
+                {
+                    "tên_món": "{ứng_dụng_1}",
+                    "brief": "{mô_tả_chụp_chi_tiết}"
+                },
+                {
+                    "tên_món": "{ứng_dụng_2}",
+                    "brief": "{mô_tả_chụp_chi_tiết}"
+                },
+                {
+                    "tên_món": "{ứng_dụng_3}",
+                    "brief": "{mô_tả_chụp_chi_tiết}"
+                }
+            ]
+        }
+    },
+    "ai_prompt_template": {
+        "_ghi_chú": "Prompt cấu trúc cho AI image gen — điền {variable} từ dữ liệu sản phẩm",
+        "cấu_trúc": "[Loại ảnh + góc chụp], [Mô tả sản phẩm chi tiết], [Màu chủ đạo {màu_sản_phẩm_1}], [Nền + ánh sáng], [Đạo cụ], [Style], [Kỹ thuật]",
+        "negative_prompt_cố_định": "blurry, low quality, distorted text, watermark, overexposed, plastic-looking, fake food, amateur, cartoon, 3D render, neon, pink background, yellow background, pastel, frozen unprepared ice block, washed out, deformed hands, grain, noise",
+        "style_cố_định": "Vietnamese premium seafood import commercial photography, Japanese food styling, professional B2B advertising, appetizing and clean",
+        "technical_params": {
+            "midjourney": "--ar 4:5 --q 2 --style raw",
+            "firefly": "Photo, Hyper Realistic, 4:5",
+            "dall_e": "photorealistic, commercial food photography, 4:5 ratio"
+        }
+    }
+}

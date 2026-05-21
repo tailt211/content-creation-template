@@ -14,7 +14,7 @@
 - **Giấy tờ:** CO/CQ Nhật Bản (cần xác nhận)
 
 ## Quy cách đóng gói
-- Đơn vị tính: khay 500g (内容量 500g — ghi trên hộp)
+- **Đơn vị tính:** Vỉ — 250g/vỉ
 - Khay xốp trắng, nắp màng trong suốt — nhìn rõ trứng từ bên ngoài
 - Nhãn "AC" in đậm trên nắp mỗi khay — thể hiện phân hạng sản phẩm
 - Nhãn thông tin tiếng Nhật dán trên mỗi khay (thành phần, xuất xứ, hạn sử dụng)

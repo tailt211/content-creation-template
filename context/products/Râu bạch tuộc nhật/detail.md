@@ -11,7 +11,8 @@
 - **Đóng gói:** Túi PE hoặc túi hút chân không từng vòi / theo lô — thùng xốp lạnh
 
 ## Quy cách
-- Đơn vị tính: kg
+- **Đơn vị tính:** Kg
+- **Quy cách đóng gói:** 1kg/râu — thùng 5 râu
 - IQF từng vòi — lấy đúng số lượng cần dùng, không hao hụt
 - Glazing: thấp — thịt thực tế đúng với trọng lượng cân
 - Màu sắc sau cấp đông: đỏ-cam rõ nét (quan sát từ ảnh thực tế)

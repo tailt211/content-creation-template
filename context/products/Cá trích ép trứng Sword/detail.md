@@ -12,8 +12,8 @@
 - Hộp carton in màu trắng, ảnh minh họa cá trích sashimi bày theo phong cách Nhật (xếp lát, có trứng vàng, kèm lá shiso xanh và gừng đỏ bào)
 - Chữ Nhật nổi bật: **刺身 にしん** (Sashimi Nishim)
 - Bảo quản in rõ: **KEEP FROZEN AT -18°C**
-- Đóng thùng carton ngoài — mỗi thùng chứa nhiều hộp nhỏ
-- Đơn vị tính: hộp / thùng
+- Đóng thùng carton ngoài — mỗi thùng chứa nhiều túi nhỏ
+- **Đơn vị tính:** Kg — 850g/túi
 
 ## Thông số kỹ thuật
 - **Thành phần chính:** Cá trích nguyên con + trứng cá (kazunoko) bên trong
