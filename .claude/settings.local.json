@@ -4,7 +4,36 @@
       "WebFetch(domain:www.facebook.com)",
       "Read(//c/My folder/work/fb content agent/context/**)",
       "Read(//c/My folder/work/**)",
-      "WebSearch"
+      "WebSearch",
+      "PowerShell(Get-ChildItem \"c:\\\\My folder\\\\work\\\\prompt\\\\content-creation-template\\\\context\\\\products\\\\\" -Recurse -Filter \"detail.md\" | Select-Object -ExpandProperty DirectoryName | ForEach-Object { Split-Path $_ -Leaf })",
+      "PowerShell(Remove-Item \"c:\\\\My folder\\\\work\\\\prompt\\\\content-creation-template\\\\context\\\\products\\\\B�o ngu\\\\B�o ngu.png\" -Confirm:$false)",
+      "WebFetch(domain:tteokbokki.vn)",
+      "WebFetch(domain:nguyenhafood.vn)",
+      "WebFetch(domain:genki.vn)",
+      "WebFetch(domain:fishy.vn)",
+      "WebFetch(domain:foodsourcesvn.com)",
+      "WebFetch(domain:alofood.com.vn)",
+      "Bash(pandoc --version)",
+      "Bash(python -c \"import docx; print\\('python-docx available'\\)\")",
+      "Bash(pip install *)",
+      "PowerShell(python3 --version)",
+      "PowerShell(python3 -c \"import docx; print\\('ok'\\)\" 2>$null)",
+      "PowerShell(Get-Command python -ErrorAction SilentlyContinue)",
+      "PowerShell(Get-Command node, npm -ErrorAction SilentlyContinue)",
+      "PowerShell($wshell = New-Object -ComObject WScript.Shell; $wshell.Popup\\(\"test\"\\) | Out-Null)",
+      "PowerShell(try { $word = New-Object -ComObject Word.Application; $word.Quit\\(\\); \"Word available\" } catch { \"Word not available: $_\" })",
+      "WebFetch(domain:fal.ai)",
+      "WebFetch(domain:pricepertoken.com)",
+      "Bash(mkdir -p \"c:\\\\My folder\\\\work\\\\prompt\\\\content-creation-template\\\\.claude\\\\skills\\\\post-1a-writer\")",
+      "WebFetch(domain:tripi.vn)",
+      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\My folder\\\\work\\\\prompt\\\\content-creation-template\\\\posts\\\\Thanh cua\\\\data\")",
+      "PowerShell($src = \"c:\\\\My folder\\\\work\\\\prompt\\\\content-creation-template\\\\context\\\\products\\\\Thanh cua\\\\\"; $dst = \"c:\\\\My folder\\\\work\\\\prompt\\\\content-creation-template\\\\posts\\\\Thanh cua\\\\data\\\\\"; Copy-Item \"$src\\\\z7801794869155_82865fe04ff57ba090a8bd03827ec939.jpg\" \"$dst\\\\thanh-cua-1.jpg\"; Copy-Item \"$src\\\\z7801803556902_ad276c1dac124f27f7b0920df8b62e57.jpg\" \"$dst\\\\thanh-cua-2.jpg\"; Copy-Item \"$src\\\\z7801794907260_278cbe73e41797c6fc05e09bdd0a49c3.jpg\" \"$dst\\\\thanh-cua-3.jpg\"; Write-Output \"Done\")",
+      "Edit(/.claude/skills/json-prompt-generator/**)",
+      "PowerShell(Copy-Item \"c:\\\\My folder\\\\work\\\\prompt\\\\content-creation-template\\\\context\\\\products\\\\Thanh cua\\\\z7801794869155_82865fe04ff57ba090a8bd03827ec939.jpg\" \"c:\\\\My folder\\\\work\\\\prompt\\\\content-creation-template\\\\posts\\\\Thanh cua\\\\data\\\\input-3-image.jpg\")",
+      "Edit(/.claude/skills/post-1a-writer/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\My folder\\work\\prompt\\content-creation-template\\.claude\\skills"
     ]
   }
 }

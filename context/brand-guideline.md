@@ -31,16 +31,8 @@ Bình Minh SG tin rằng một bếp nhà hàng Nhật vận hành tốt cần n
 ## Tone of Voice
 
 ### Nguyên tắc chung
-**Thân bài là:** Giọng PR sản phẩm — tự tin, chuyên nghiệp, rõ ràng, có thông tin thực. Không sến.
-
-**Thân bài không là:** Bản thông số kỹ thuật liệt kê từ trên xuống dưới. Câu chuyển tiếp PR công ty giả tạo ("Bình Minh SG cam kết...", "Đó là điều chúng tôi mang đến...").
-
-**Tiêu đề và mở bài:** Dùng đúng 1 query duy nhất: `[tên sản phẩm] blog review ẩm thực Nhật` — không search thêm query nào khác, không thêm từ mô tả vào truy vấn. Từ kết quả trang 1, chọn tối đa 1 bài mỗi loại trang theo thứ tự ưu tiên: **page nhà hàng review → food review → page bán hàng → post Facebook → blog cá nhân**. Lấy insight từ loại trang ưu tiên cao nhất tìm được. Chắt lọc 1–2 insight hay nhất → dùng chính những ý đó làm nội dung tiêu đề và mở bài. Không tự nghĩ góc khác ngoài những gì research cho thấy. Không nhắm persona, không có góc chiến lược. Kết thúc đoạn mở bắt buộc có 1 câu nối vào sản phẩm Bình Minh SG, giọng PR tự nhiên.
 
 **Xưng hô nhất quán:** Xưng "chúng tôi" — gọi khách là "anh/chị"
-
-**Tiêu đề và mở bài — tự do theo tone blog ẩm thực:**
-Dùng đúng 1 query duy nhất: `[tên sản phẩm] blog review ẩm thực Nhật` — không search thêm query nào khác, không thêm từ mô tả vào truy vấn. Từ kết quả trang 1, chọn tối đa 1 bài mỗi loại trang theo thứ tự ưu tiên: **page nhà hàng review → food review → page bán hàng → post Facebook → blog cá nhân**. Lấy insight từ loại trang ưu tiên cao nhất tìm được. Chắt lọc 1–2 insight hay nhất → dùng chính những ý đó làm nội dung tiêu đề và mở bài. Không tự nghĩ góc khác ngoài những gì research cho thấy. Không sao chép nguyên vẹn, không sai thông tin sản phẩm. Không nhắm vào persona nào, không có góc chiến lược. Kết thúc đoạn mở bằng 1 câu nối vào sản phẩm của Bình Minh SG, giọng PR sản phẩm tự nhiên — bắt buộc có, không để ví dụ cố định.
 
 ### Tone theo kênh
 

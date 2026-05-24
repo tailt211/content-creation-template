@@ -1,0 +1,442 @@
+{
+    "_meta": {
+        "template_ref": "binh_minh_sg_image_template.json v3.0",
+        "brand_guideline_ref": "brand-guideline.md — Last update: 2026-05-13",
+        "sản_phẩm": "Trứng cá hồi Nissi AC",
+        "slug": "truong_ca_hoi_nissi_ac",
+        "ngày_tạo": "2026-05-19",
+        "người_tạo": "Hải Sản Bình Minh Sài Gòn"
+    },
+    "inputs_đã_nhận": {
+        "input_1_banner_template": {
+            "file": "prod-post-template-1.jpg",
+            "mô_tả": "Ảnh banner sản phẩm Trứng cá hồi Nissi AC của Bình Minh SG — dùng làm reference bố cục",
+            "trạng_thái": "đã phân tích bố cục, KHÔNG extract màu (màu lấy từ brand_identity)"
+        },
+        "input_2_tên_sản_phẩm": {
+            "giá_trị": "Trứng cá hồi Nissi AC",
+            "trạng_thái": "đã xử lý"
+        },
+        "input_3_ảnh_sản_phẩm": {
+            "file": "z7798303262522_0fe5ac5950ffbe4e09d3e01b07c161f9.jpg",
+            "mô_tả": "Ảnh trứng cá hồi Nissi AC",
+            "trạng_thái": "đã extract"
+        }
+    },
+    "extracted_from_input_1_banner": {
+        "bố_cục": {
+            "số_zones": 6,
+            "thứ_tự": [
+                "ZONE_A: Header — nền navy tối, 2 cột (text trái | logo phải)",
+                "ZONE_B: Badge + Hero — nền navy, 60% trái text/icons | 40% phải ảnh sản phẩm",
+                "ZONE_C: Lifestyle — full width, ảnh chiếm toàn bộ",
+                "ZONE_D: Ứng dụng + Gift box — 50/50 hai cột",
+                "ZONE_E: Specs + CTA — 3 cột đều",
+                "ZONE_F: Footer — full width, 3 cột đều"
+            ],
+            "tỉ_lệ": "portrait 4:5",
+            "hệ_lưới": "2 cột, tỉ lệ thay đổi 60/40 (Zone B) và 50/50 (Zone D, E)"
+        },
+        "phong_cách_nhiếp_ảnh_trong_banner": {
+            "hero_shot": "Studio clean, nền trắng, tay cầm sản phẩm, góc 3/4",
+            "lifestyle_shot": "Food editorial, bát ceramic, muỗng, góc 45° từ trên",
+            "gift_box": "Flat lay 60°, thấy rõ hộp và các khay bên trong"
+        }
+    },
+    "extracted_from_input_3_package": {
+        "text_ocr": {
+            "tên_sản_phẩm_trên_bao_bì": "いくら (Ikura) — Trứng cá hồi ướp muối",
+            "mã_sản_phẩm": "AC",
+            "thương_hiệu_gốc": "NISSI",
+            "xuất_xứ": "Nhật Bản",
+            "trọng_lượng": "500g",
+            "đơn_vị_đóng_gói": "1 khay (tray)",
+            "bảo_quản": "-18°C (đông lạnh)",
+            "thành_phần": "Trứng cá hồi, muối, rượu sake",
+            "chứng_nhận": [
+                "JAS — Japan Agricultural Standard"
+            ]
+        },
+        "logo_nhà_sản_xuất": {
+            "tên": "NISSI",
+            "mô_tả": "Chữ NISSI in đỏ/cam trên nền trắng — in nổi trên hộp vỏ ngoài màu cam",
+            "vị_trí_trên_bao_bì": "Góc trên nhãn khay + mặt trước hộp vỏ ngoài",
+            "ảnh_đi_kèm": "Hình trứng cá hồi thực tế trên hộp vỏ NISSI"
+        },
+        "màu_sản_phẩm": {
+            "màu_1_ikura_thực_tế": {
+                "mô_tả": "Cam đỏ bóng của trứng cá hồi — màu đặc trưng Ikura",
+                "hex": "#C0392B",
+                "dùng_cho": "Lifestyle shot — màu chủ đạo sản phẩm nổi bật trên nền tối"
+            },
+            "màu_2_hộp_nissi": {
+                "mô_tả": "Cam vàng hộp vỏ ngoài NISSI",
+                "hex": "#E8922A",
+                "dùng_cho": "Nhận diện bao bì trong gift box shot"
+            },
+            "màu_3_nhãn_khay": {
+                "mô_tả": "Trắng nhãn khay AC",
+                "hex": "#FFFFFF",
+                "dùng_cho": "Nhãn khay trong hero product shot"
+            }
+        },
+        "hình_dạng_bao_bì": "Khay nhựa trong suốt hình chữ nhật, nhãn trắng dán giữa, chữ AC nổi bật; kèm hộp carton cam có logo NISSI"
+    },
+    "brand_identity": {
+        "tên_đầy_đủ": "Hải Sản Bình Minh Sài Gòn",
+        "tên_viết_tắt": "Bình Minh SG",
+        "tagline_thương_hiệu": "Chuẩn chất — Đúng giờ — Đủ số lượng.",
+        "logo": {
+            "mô_tả": "Cá ngừ silhouette gradient Ocean Navy → Cobalt Blue + địa cầu Sky Blue bên phải + chữ BÌNH MINH SG Bold Cobalt Blue bên dưới",
+            "màu_logo": {
+                "cá": "#1B2D6B → #2E6DB4 (gradient)",
+                "địa_cầu": "#5BB0E8",
+                "highlight_trắng": "#FFFFFF",
+                "chữ": "#2E6DB4"
+            },
+            "trên_nền_tối_zone_A": "Dùng bản logo trắng toàn phần hoặc cá trắng + địa cầu #5BB0E8",
+            "vị_trí": "Góc trên phải — CỐ ĐỊNH"
+        },
+        "màu_sắc": {
+            "ocean_navy": "#1B2D6B",
+            "cobalt_blue": "#2E6DB4",
+            "sky_blue": "#5BB0E8",
+            "ice_white": "#F4F8FC",
+            "charcoal": "#1C1C2E",
+            "white": "#FFFFFF",
+            "salmon_orange": "#E8622A",
+            "frost_blue": "#A8D8EA"
+        }
+    },
+    "thông_tin_sản_phẩm": {
+        "tên_sản_phẩm": "Trứng cá hồi Nissi AC",
+        "tên_sản_phẩm_gốc": "いくら — Ikura Nissi AC",
+        "dòng_sản_phẩm": "Trứng cá hồi cao cấp",
+        "thương_hiệu_gốc": "NISSI",
+        "logo_gốc_mô_tả": "Chữ NISSI màu đỏ trên nền trắng — in trên nhãn khay và hộp vỏ cam",
+        "xuất_xứ": "Nhật Bản",
+        "quy_cách": [
+            "Size: 500g/khay",
+            "Xuất xứ: Nhật Bản",
+            "Bảo quản: -18°C",
+            "Thành phần: Trứng cá hồi, muối, rượu sake"
+        ],
+        "bảo_quản": "-18°C",
+        "chứng_nhận": [
+            "JAS — Japan Agricultural Standard"
+        ],
+        "màu_bao_bì": {
+            "màu_1_sản_phẩm": "#C0392B (cam đỏ bóng — màu Ikura thực tế)",
+            "màu_2": "#E8922A (cam vàng hộp NISSI)",
+            "màu_3": "#FFFFFF (trắng nhãn khay)"
+        },
+        "tagline_phụ": "Trứng cá hồi cao cấp",
+        "tagline_chính": "Căng – Nổ – Đúng vị",
+        "badge_dòng": "Ikura Nissi AC — Hạt cam đỏ chuẩn Nhật",
+        "label_quy_cách_overlay": "500g/khay",
+        "usp_icons": [
+            {
+                "icon": "hạt trứng cá hồi",
+                "caption": "100% Trứng cá hồi"
+            },
+            {
+                "icon": "dấu tick chất lượng",
+                "caption": "Thịt mềm ngọt, béo"
+            },
+            {
+                "icon": "cá hồi",
+                "caption": "Đậm đà hương vị"
+            },
+            {
+                "icon": "bông tuyết đông lạnh",
+                "caption": "Cấp đông nhanh, giữ trọn độ tươi"
+            },
+            {
+                "icon": "khiên an toàn thực phẩm",
+                "caption": "Đảm bảo chất lượng, an toàn thực phẩm"
+            }
+        ],
+        "cam_kết_chất_lượng": [
+            {
+                "icon": "lá xanh / organic",
+                "nhãn": "100% tự nhiên"
+            },
+            {
+                "icon": "tick xanh",
+                "nhãn": "An toàn vệ sinh"
+            },
+            {
+                "icon": "bông tuyết",
+                "nhãn": "Cấp đông nhanh"
+            },
+            {
+                "icon": "khiên bảo vệ",
+                "nhãn": "An toàn thực phẩm"
+            }
+        ],
+        "ứng_dụng": [
+            {
+                "tên_món": "IKURA DON",
+                "mô_tả_ảnh": "Cơm Nhật trắng trong bát gỗ tối, phủ đầy trứng cá hồi cam đỏ, góc 60° từ trên, ánh sáng trắng side light"
+            },
+            {
+                "tên_món": "CHAWAN-MUSHI",
+                "mô_tả_ảnh": "Chén ceramic trắng Nhật, trứng hấp mịn, rắc Ikura trên mặt, nền xám đậm trung tính, ánh sáng trắng nhẹ"
+            },
+            {
+                "tên_món": "IKURA GUNKAN",
+                "mô_tả_ảnh": "Sushi gunkan cuộn nori đầy ắp Ikura bóng cam đỏ, nền đen/slate grey tối, ánh sáng studio trắng kịch tính"
+            }
+        ]
+    },
+    "layout_zones": [
+        {
+            "id": "ZONE_A",
+            "nền": "#1B2D6B",
+            "nội_dung": {
+                "trái_65%": {
+                    "dòng_1": {
+                        "text": "Trứng cá hồi cao cấp",
+                        "font": "Script italic (tagline only)",
+                        "size": "~24px",
+                        "màu": "#FFFFFF"
+                    },
+                    "dòng_2": {
+                        "text": "Trứng cá hồi Nissi AC",
+                        "font": "Montserrat Bold / Be Vietnam Pro Bold",
+                        "size": "~56px",
+                        "màu": "#FFFFFF",
+                        "ghi_chú": "Dominant element — chiếm toàn bộ visual weight vùng A"
+                    }
+                },
+                "phải_35%": {
+                    "logo_bình_minh_sg": true,
+                    "phiên_bản": "bản trắng / light trên nền #1B2D6B"
+                }
+            }
+        },
+        {
+            "id": "ZONE_B",
+            "nền": "#1B2D6B",
+            "nội_dung": {
+                "trái_60%": {
+                    "badge": {
+                        "text": "Ikura Nissi AC — Hạt cam đỏ chuẩn Nhật",
+                        "nền": "#E8622A",
+                        "màu_text": "#FFFFFF",
+                        "font": "Be Vietnam Pro Bold ~14px",
+                        "border_radius": "8px"
+                    },
+                    "tagline": {
+                        "text": "Căng – Nổ – Đúng vị",
+                        "font": "Script italic",
+                        "size": "~30px",
+                        "màu": "#FFFFFF"
+                    },
+                    "icon_row": {
+                        "layout": "5 icon hàng ngang đều",
+                        "icon_size": "~34–38px",
+                        "màu_icon": "#5BB0E8 hoặc #FFFFFF",
+                        "caption_size": "~10px",
+                        "caption_màu": "#FFFFFF",
+                        "font_caption": "Be Vietnam Pro Regular"
+                    }
+                },
+                "phải_40%": {
+                    "ảnh_hero": {
+                        "mô_tả": "Khay Nissi AC 500g trên lòng bàn tay, nền trắng studio #FFFFFF",
+                        "bao_bì": "Nhãn AC trắng ở giữa khay, chữ Nhật và logo NISSI rõ ràng",
+                        "góc_chụp": "3/4 nghiêng từ trước-dưới lên",
+                        "ánh_sáng": "Studio trắng đều, softbox, không shadow mạnh"
+                    },
+                    "label_overlay": {
+                        "text": "500g/khay",
+                        "hình_dạng": "circle badge",
+                        "nền": "#E8622A",
+                        "màu_text": "#FFFFFF",
+                        "font": "Be Vietnam Pro Bold ~20px"
+                    }
+                }
+            }
+        },
+        {
+            "id": "ZONE_C",
+            "nội_dung": {
+                "ảnh_lifestyle": {
+                    "mô_tả": "Muỗng gỗ múc đầy trứng cá hồi Ikura cam đỏ bóng #C0392B, phía trên bát ceramic trắng hoặc xám đậm Nhật Bản",
+                    "nền": "Xám đậm / đen / nền tre tự nhiên — KHÔNG dùng nâu ấm",
+                    "ánh_sáng": "Side lighting trắng trung tính từ một phía — KHÔNG warm tone",
+                    "góc_chụp": "45° từ trên-bên xuống, nghiêng nhẹ",
+                    "cảm_xúc": "Sang trọng, appetizing, đậm chất Nhật Bản",
+                    "đạo_cụ": [
+                        "muỗng gỗ tối màu",
+                        "bát ceramic trắng hoặc xám đậm Nhật",
+                        "chopsticks"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ZONE_D",
+            "nội_dung": {
+                "trái_ứng_dụng": {
+                    "header": {
+                        "text": "Ứng dụng đa dạng",
+                        "nền": "#2E6DB4",
+                        "màu_text": "#FFFFFF",
+                        "font": "Be Vietnam Pro Bold ~14px"
+                    },
+                    "ảnh_tròn": [
+                        {
+                            "tên_món": "IKURA DON",
+                            "viền": "2px solid #1B2D6B",
+                            "caption_font": "Be Vietnam Pro Bold ALL CAPS ~11px"
+                        },
+                        {
+                            "tên_món": "CHAWAN-MUSHI",
+                            "viền": "2px solid #1B2D6B",
+                            "caption_font": "Be Vietnam Pro Bold ALL CAPS ~11px"
+                        },
+                        {
+                            "tên_món": "IKURA GUNKAN",
+                            "viền": "2px solid #1B2D6B",
+                            "caption_font": "Be Vietnam Pro Bold ALL CAPS ~11px"
+                        }
+                    ]
+                },
+                "phải_gift_box": {
+                    "mô_tả": "Hộp kraft nâu nhạt mở nắp, 4 khay Nissi AC xếp 2×2, góc dưới phải là hộp vỏ NISSI cam",
+                    "nền": "#F4F8FC hoặc #FFFFFF",
+                    "góc_chụp": "60° từ trên xuống, nghiêng phải",
+                    "ánh_sáng": "Overhead trắng đều"
+                }
+            }
+        },
+        {
+            "id": "ZONE_E",
+            "nội_dung": {
+                "cột_1_specs": {
+                    "header": {
+                        "text": "Quy cách",
+                        "nền": "#1B2D6B",
+                        "màu": "#FFFFFF"
+                    },
+                    "items": [
+                        "✓ Size: 500g/khay",
+                        "✓ Xuất xứ: Nhật Bản",
+                        "✓ Bảo quản: -18°C",
+                        "✓ Thành phần: Trứng cá hồi, muối, sake"
+                    ],
+                    "icon_màu": "#2E6DB4",
+                    "font_item": "Roboto Mono Regular ~12px"
+                },
+                "cột_2_chất_lượng": {
+                    "header": {
+                        "text": "Cam kết chất lượng",
+                        "nền": "#1B2D6B",
+                        "màu": "#FFFFFF"
+                    },
+                    "icon_màu": "#5BB0E8",
+                    "layout": "2×2 grid icon tròn + nhãn"
+                },
+                "cột_3_cta": {
+                    "nền": "#1B2D6B",
+                    "border_radius": "8px",
+                    "các_dòng": [
+                        {
+                            "text": "LIÊN HỆ NGAY",
+                            "font": "Be Vietnam Pro Bold ALL CAPS ~17px",
+                            "màu": "#FFFFFF"
+                        },
+                        {
+                            "text": "Để nhận báo giá tốt nhất và ưu đãi cho nhà hàng",
+                            "font": "Be Vietnam Pro Regular ~11px",
+                            "màu": "#FFFFFF"
+                        },
+                        {
+                            "text": "CHIẾT KHẤU HẤP DẪN CHO ĐƠN SỈ",
+                            "font": "Be Vietnam Pro Bold ~12px",
+                            "màu": "#E8622A"
+                        },
+                        {
+                            "text": "0778.602.024",
+                            "font": "Be Vietnam Pro ExtraBold ~22px",
+                            "màu": "#E8622A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ZONE_F",
+            "ghi_chú": "CỐ ĐỊNH — lấy nguyên từ brand_identity.footer_cố_định trong template",
+            "nền": "#1B2D6B",
+            "các_mục": [
+                {
+                    "icon": "xe tải",
+                    "tiêu_đề": "Giao hàng toàn quốc",
+                    "phụ_đề": "Nhanh chóng - Đúng giờ",
+                    "màu": "#FFFFFF"
+                },
+                {
+                    "icon": "hộp đóng gói",
+                    "tiêu_đề": "Đóng gói chuyên nghiệp",
+                    "phụ_đề": "Giữ trọn chất lượng",
+                    "màu": "#FFFFFF"
+                },
+                {
+                    "icon": "điện thoại",
+                    "tiêu_đề": "Hỗ trợ tư vấn 24/7",
+                    "phụ_đề": "0778.602.024",
+                    "màu": "#FFFFFF"
+                }
+            ]
+        }
+    ],
+    "prompts": {
+        "hero_product_shot": {
+            "tiếng_anh": "Commercial studio product photography, a clear plastic rectangular tray of premium Japanese salmon roe (ikura) labeled 'AC' with white label, held in a human hand, clean pure white studio background #FFFFFF, professional even softbox lighting, ultra sharp focus on vibrant orange-red glistening roe, NISSI branding and Japanese text clearly visible on tray label, photorealistic, 4K, Vietnamese premium seafood import advertising style --ar 4:5 --q 2 --style raw",
+            "tiếng_việt": "Ảnh sản phẩm studio thương mại, khay nhựa trong chứa trứng cá hồi Nhật Bản Nissi AC 500g, nhãn AC trắng, cầm trên tay, nền trắng studio sạch hoàn toàn, ánh sáng softbox trắng đều, nét sắc bén, trứng cam đỏ bóng bẩy, logo NISSI và chữ Nhật rõ trên nhãn"
+        },
+        "lifestyle_shot": {
+            "tiếng_anh": "Japanese food editorial photography, wooden spoon overflowing with glistening salmon roe (ikura) vibrant orange-red #C0392B, above a dark grey or white Japanese ceramic bowl, dark grey or natural bamboo background — NO warm brown, cool neutral side lighting from one side — NO warm tone, ultra detailed and appetizing, chopsticks nearby, premium Japanese seafood import, photorealistic 4K --ar 4:5 --q 2 --style raw",
+            "tiếng_việt": "Ảnh thực phẩm phong cách Nhật editorial, muỗng gỗ múc đầy trứng cá hồi Ikura cam đỏ bóng, bát ceramic xám đậm hoặc trắng Nhật Bản, nền xám đậm hoặc tre tự nhiên (KHÔNG nâu ấm), ánh sáng side light trắng trung tính một phía (KHÔNG warm tone), chopsticks, sang trọng và appetizing"
+        },
+        "gift_box_shot": {
+            "tiếng_anh": "Flat lay overhead product photography, open light kraft cardboard gift box containing four 500g Nissi AC salmon roe trays arranged 2x2, one corner showing orange NISSI branded packaging box with ikura image and Japanese text いくら, clean white or Ice White #F4F8FC background, even overhead diffused white lighting, premium Japanese seafood gift set, commercial B2B advertising style --ar 4:5 --q 2 --style raw",
+            "tiếng_việt": "Flat lay từ trên, hộp carton kraft nhạt mở nắp chứa 4 khay Nissi AC xếp 2×2, góc có hộp vỏ NISSI màu cam, logo và chữ いくら rõ, nền trắng/#F4F8FC, ánh sáng overhead trắng đều, gift set hải sản cao cấp"
+        },
+        "ứng_dụng_shots": [
+            {
+                "tên_món": "IKURA DON",
+                "tiếng_anh": "Japanese food editorial photography, ikura donburi rice bowl in dark wooden bowl, Japanese steamed white rice topped generously with glistening orange-red salmon roe, 60 degree overhead angle, cool white side lighting, dark background, appetizing style, circle crop format, no warm tone",
+                "tiếng_việt": "Ảnh Ikura Don — cơm Nhật trắng trong bát gỗ tối, phủ đầy trứng cá hồi cam đỏ bóng, góc 60° từ trên, ánh sáng trắng side light, nền tối, circle crop"
+            },
+            {
+                "tên_món": "CHAWAN-MUSHI",
+                "tiếng_anh": "Japanese food photography, chawanmushi steamed egg custard in white Japanese ceramic cup topped with salmon roe ikura garnish, dark grey background, cool neutral lighting, elegant minimal style, circle crop format",
+                "tiếng_việt": "Ảnh Chawan-mushi — trứng hấp Nhật trong chén ceramic trắng, rắc Ikura trên mặt, nền xám đậm, ánh sáng trung tính, minimal, circle crop"
+            },
+            {
+                "tên_món": "IKURA GUNKAN",
+                "tiếng_anh": "Japanese sushi photography, ikura gunkan maki, nori seaweed wrapped rice topped with abundant glistening salmon roe, dramatic black background, cool white studio lighting, vivid orange-red roe contrast, circle crop format",
+                "tiếng_việt": "Ảnh Ikura Gunkan — sushi cuộn nori đầy ắp trứng cá hồi bóng cam đỏ, nền đen kịch tính, ánh sáng studio trắng, circle crop"
+            }
+        ],
+        "negative_prompt": "blurry, low quality, distorted text, watermark, overexposed, underexposed, plastic-looking, fake or artificial food, amateur photography, cartoon, illustration, 3D render, warm brown background, warm yellow tone lighting, orange filter, neon colors, pink, yellow background, pastel, frozen ice block unprepared seafood, washed out colors, deformed hands, noise, grain",
+        "style_keywords": [
+            "Vietnamese premium seafood import product photography",
+            "Japanese food commercial advertising style",
+            "professional B2B food supplier",
+            "clean appetizing and fresh",
+            "Michelin-style food editorial"
+        ],
+        "technical_params": {
+            "aspect_ratio": "4:5",
+            "quality": "ultra high detail, 4K, photorealistic",
+            "midjourney_suffix": "--ar 4:5 --q 2 --style raw",
+            "firefly_style": "Photo, Hyper Realistic",
+            "dall_e_note": "photorealistic, commercial photography style, professional studio"
+        }
+    }
+}

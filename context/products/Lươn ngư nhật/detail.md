@@ -15,7 +15,7 @@
 - Bao bì: túi đỏ-vàng in logo Ngư Nhật (日の鰻) + うなぎ蒲焼
 - Sản phẩm đóng gói chân không (vacuum-sealed) từng miếng
 - Thùng carton trắng, khối lượng tịnh 10kg/thùng
-- Size (P = piece/con): 20P / 25P / 30P / 35P / 40P / 45P / 50P✓ / 60P / 70P / 80P / 90P / 100P
+- Size 200gram/con
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Nâu caramel sẫm bóng, đồng đều — lớp tare phủ kín bề mặt

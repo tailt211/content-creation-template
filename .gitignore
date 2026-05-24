@@ -27,6 +27,9 @@ context/logo/**/*.jpg
 context/logo/**/*.jpeg
 context/logo/**/*.png
 
+# Posts output
+posts/
+
 # OS and editor files
 .DS_Store
 Thumbs.db
