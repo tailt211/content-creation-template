@@ -1,7 +1,7 @@
-# Cá Cam Bao Hoa (Amberjack / Buri Fillet — 鰤)
+# Cá Cam (Amberjack / Buri Fillet — 鰤)
 
 ## Thông tin sản phẩm
-- **Tên sản phẩm:** Cá Cam Bao Hoa (Amberjack Buri Fillet)
+- **Tên sản phẩm:** Cá Cam (Amberjack Buri Fillet)
 - **Tên tiếng Nhật:** 鰤 (Buri) — cá cam Nhật trưởng thành, loài Seriola quinqueradiata; tên thương phẩm trên bao bì: 鰤師 (Buri-shi)
 - **Xuất xứ:** Nhật Bản (PRODUCT OF JAPAN)
 - **Thương hiệu:** 鰤師 (Buri-shi) — dòng fillet buri cao cấp Nhật, logo "S" hình cá

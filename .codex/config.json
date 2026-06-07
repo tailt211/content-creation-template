@@ -1,0 +1,25 @@
+{
+  "ten_project": "content-creation-template",
+  "ngon_ngu": "tieng_viet",
+  "agent": "codex",
+  "setup_rieng": ".codex",
+  "setup_khong_dung_chung": [".claude"],
+  "du_lieu_dung_chung": ["context"],
+  "quy_tac": {
+    "khong_doc_setup_claude_lam_instruction": true,
+    "duoc_ghi_context": true,
+    "duoc_ghi_posts": true,
+    "ghi_catalog_truc_tiep": true,
+    "can_confirm_truoc_khi_ghi": false
+  },
+  "skills": [
+    ".codex/skills/product-detail-generator/SKILL.md",
+    ".codex/skills/json-prompt-generator/SKILL.md",
+    ".codex/skills/post-1a-writer/SKILL.md"
+  ],
+  "task_prompts": [
+    ".codex/prompts/task/tao-detail-san-pham.md",
+    ".codex/prompts/task/tao-json-prompt-template-1.md",
+    ".codex/prompts/task/viet-bai-facebook-1a.md"
+  ]
+}

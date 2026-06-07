@@ -410,6 +410,7 @@
                     "text_align": "center"
                 },
                 "icon_grid": {
+                    "rule_no_consulting_labels": "CAM KET chi duoc chua nhan van hanh/chat luong kiem chung duoc. Tuyet doi khong dung nhan co y tu van, ho tro, dong hanh, B2B, menu, phu hop nha hang.",
                     "layout": "2×2 grid — 4 icon tròn đều nhau",
                     "mỗi_icon": {
                         "disc": "Hình tròn diameter 44px, nền #5BB0E8, icon #FFFFFF bên trong ~22px",
@@ -611,19 +612,23 @@
         "cam_kết": [
             {
                 "icon": "{icon}",
-                "nhãn": "{cam_kết_1}"
+                "nhãn": "{cam_kết_1}",
+                "rule": "Khong duoc la nhan tu van/ho tro"
             },
             {
                 "icon": "{icon}",
-                "nhãn": "{cam_kết_2}"
+                "nhãn": "{cam_kết_2}",
+                "rule": "Khong duoc la nhan tu van/ho tro"
             },
             {
                 "icon": "{icon}",
-                "nhãn": "{cam_kết_3}"
+                "nhãn": "{cam_kết_3}",
+                "rule": "Khong duoc la nhan tu van/ho tro"
             },
             {
                 "icon": "{icon}",
-                "nhãn": "{cam_kết_4}"
+                "nhãn": "{cam_kết_4}",
+                "rule": "Khong duoc la nhan tu van/ho tro"
             }
         ],
         "ứng_dụng": [
@@ -696,7 +701,7 @@
     "ai_prompt_template": {
         "_ghi_chú": "Prompt cấu trúc cho AI image gen — điền {variable} từ dữ liệu sản phẩm",
         "cấu_trúc": "[Loại ảnh + góc chụp], [Mô tả sản phẩm chi tiết], [Màu chủ đạo {màu_sản_phẩm_1}], [Nền + ánh sáng], [Đạo cụ], [Style], [Kỹ thuật]",
-        "negative_prompt_cố_định": "blurry, low quality, distorted text, watermark, overexposed, plastic-looking, fake food, amateur, cartoon, 3D render, neon, pink background, yellow background, pastel, frozen unprepared ice block, washed out, deformed hands, grain, noise",
+        "negative_prompt_cố_định": "blurry, low quality, distorted text, overexposed, plastic-looking, fake food, amateur, cartoon, 3D render, neon, pink background, yellow background, pastel, frozen unprepared ice block, washed out, deformed hands, grain, noise",
         "style_cố_định": "Vietnamese premium seafood import commercial photography, Japanese food styling, professional B2B advertising, appetizing and clean",
         "technical_params": {
             "midjourney": "--ar 4:5 --q 2 --style raw",

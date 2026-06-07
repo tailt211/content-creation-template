@@ -375,6 +375,24 @@
 
 ---
 
+## 42. Cua Lột (ソフトシェルクラブ — Soft Shell Crab)
+
+- **Detail:** [products/Cua lột/detail.md](products/Cua%20l%E1%BB%99t/detail.md)
+- **Danh mục:** Hải sản chế biến / Cua lột đông lạnh sống
+- **USP:** Scylla Serrata Myanmar Live Frozen RAW — nguyên con vỏ mềm ăn được, 5 size từ 50g đến 200g/con, chuẩn nguyên liệu tempura, spider roll và kara age cho nhà hàng Nhật
+- **Số ảnh đề xuất mỗi bài:** 4–6 ảnh
+
+---
+
+## 43. Nhum Việt Nam (Uni — 雲丹)
+
+- **Detail:** [products/Nhum Việt Nam/detail.md](products/Nhum%20Vi%E1%BB%87t%20Nam/detail.md)
+- **Danh mục:** Hải sản cao cấp / Uni đông lạnh
+- **USP:** Trứng nhum Việt Nam đóng vỉ 100g, chia sẵn 5 ngăn, cấp đông tiện kiểm soát portion — phù hợp uni gunkan, uni don và các món sushi premium cần lên món nhanh
+- **Số ảnh đề xuất mỗi bài:** 4-5 ảnh
+
+---
+
 ## Hướng dẫn sử dụng catalog này
 
 Khi tạo bài đăng Facebook cho một sản phẩm:

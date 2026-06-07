@@ -70,8 +70,8 @@ từ `context/products/[tên]/detail.md`.
   **page nhà hàng review → food review → page bán hàng → post Facebook → blog cá nhân**
 - Dùng WebFetch đọc bài ưu tiên cao nhất tìm được
   - **Prompt WebFetch phải yêu cầu trích nguyên văn phần mở đầu bài** — là những đoạn văn giới thiệu xuất hiện trước khi bài đi vào các mục/tiêu đề nội dung chính. Không tóm tắt, không phân loại, không bỏ đoạn nào, lấy đúng thứ tự từ đầu bài.
-- Sau khi có nguyên văn: tham khảo **cách đoạn mở đầu được viết** — nhịp câu, cảm xúc, góc tiếp cận — để dùng làm cảm hứng cho tiêu đề và đoạn mở bài. Không chắt lọc insight, không tóm tắt — học cách mở đầu để viết đúng như một đoạn mở đầu bài.
-- **Tiêu đề và đoạn mở không được lấy nội dung từ `detail.md`** — chỉ dùng kết quả research. Không tự biến tấu theo ý mình — viết theo đúng phong cách mở đầu của bài research tìm được.
+- Sau khi có kết quả (dù nguyên văn hay summary): ghi lại **ý chính, góc tiếp cận và phong cách viết** của bài — điều blog chọn để nói trước tiên, họ nhấn vào điểm nào, và cách họ mở đầu (nhịp câu, cảm xúc, cấu trúc câu). Lấy 1 điểm nổi bật làm hook cho tiêu đề. **Ưu tiên tham khảo và dùng phong cách viết của blog** để viết tiêu đề + đoạn mở — không sao chép nguyên văn nhưng viết theo đúng nhịp câu, cảm xúc, góc tiếp cận của bài đó. Nếu WebFetch trả về summary quá ít hoặc bài không rõ phong cách, mới áp dụng **Quy tắc phong cách Anti-AI Detection** trong Phase 3 như fallback. **TUYỆT ĐỐI không lấy nội dung từ `detail.md`** để bù vào tiêu đề hay đoạn mở khi thiếu material từ research.
+- **Tiêu đề và đoạn mở không được lấy nội dung từ `detail.md`** — chỉ dùng ý chính từ kết quả research. Không tự biến tấu theo ý mình.
 - Không tự nghĩ góc khác ngoài những gì research cho thấy
 - Không sao chép nguyên vẹn, không sai lệch thông tin sản phẩm
 
@@ -79,8 +79,9 @@ từ `context/products/[tên]/detail.md`.
 
 ### Phase 3: Viết bài
 
-**Quy tắc phong cách — bắt buộc áp dụng trước khi viết từng câu:**
-Quy tắc đầy đủ định nghĩa trong `context/marketing-channels.md` mục **Writing Style — Anti-AI Detection**. Tóm tắt bắt buộc:
+**Quy tắc phong cách — ưu tiên theo thứ tự sau:**
+1. **Ưu tiên 1:** Dùng phong cách viết của blog đã research (nhịp câu, cảm xúc, góc tiếp cận tương tự — không sao chép nguyên văn).
+2. **Fallback:** Khi blog không cung cấp đủ material về phong cách, áp dụng **Quy tắc phong cách Anti-AI Detection** (định nghĩa đầy đủ trong `context/marketing-channels.md` mục **Writing Style — Anti-AI Detection**). Tóm tắt fallback:
 
 - **Câu dài xen câu ngắn.** Không để toàn bài có nhịp điệu đều đều. Câu mô tả kỹ thuật có thể dài; câu chuyển cảnh hoặc kết ý nên ngắn.
 - **Không mở đầu câu/đoạn theo cùng một kiểu.** Luân phiên: câu bắt đầu bằng chủ ngữ, câu bắt đầu bằng trạng ngữ, câu bắt đầu bằng điều kiện, câu đảo cấu trúc.
@@ -100,8 +101,8 @@ Viết bài theo đúng cấu trúc Dạng 1A sau:
 - Không dùng tiêu đề hoa mỹ chung chung, không có bằng chứng
 
 #### [2] ĐOẠN MỞ
-- Tham khảo **cách bài blog mở đầu** — nhịp câu, cảm xúc, góc tiếp cận — để viết đoạn mở theo phong cách mở đầu tương tự. Không phân tích hay liệt kê insight — viết đúng như một đoạn mở đầu bài.
-- **Không lấy nội dung từ `detail.md`** để viết đoạn mở — chỉ dùng kết quả research. Không tự biến tấu theo ý mình — viết theo phong cách của bài research, không phải theo hiểu biết về sản phẩm.
+- Từ ý chính, góc tiếp cận và phong cách viết đã ghi lại ở Phase 2, **ưu tiên tham khảo và viết đoạn mở theo phong cách của blog** (nhịp câu, cảm xúc, cấu trúc câu tương tự) — không sao chép nguyên văn. Chỉ khi blog không đủ material về phong cách, mới áp dụng Quy tắc phong cách Anti-AI Detection.
+- **Không lấy nội dung từ `detail.md`** để viết đoạn mở — chỉ dùng ý chính từ kết quả research. Không tự biến tấu theo ý mình. Nếu thiếu material từ research, không được bù bằng kiến thức từ `detail.md`.
 - Không nhắm persona, không có góc chiến lược
 - **Bắt buộc kết thúc đoạn mở bằng 1 câu nối vào sản phẩm Bình Minh SG** — giọng PR tự nhiên, không giả tạo
 
@@ -200,7 +201,7 @@ Sau khi lưu, thông báo ngắn: *"Đã lưu bản tối giản: posts/[tên]/p
 ## Quy Tắc Quan Trọng
 
 - **Bắt buộc research trước khi viết** — không được viết mở bài từ ý tự nghĩ
-- **Tiêu đề và đoạn mở KHÔNG lấy nội dung từ `detail.md`** — chỉ dùng kết quả research. Viết theo đúng phong cách mở đầu của bài research, không tự biến tấu.
+- **Tiêu đề và đoạn mở KHÔNG lấy nội dung từ `detail.md`** — chỉ dùng ý chính từ kết quả research. **Ưu tiên dùng phong cách viết của blog** (nhịp câu, cảm xúc, góc tiếp cận); chỉ khi blog không đủ material, mới áp dụng Quy tắc phong cách Anti-AI Detection. Nếu WebFetch trả về summary, vẫn dùng ý chính từ summary. **TUYỆT ĐỐI không lấy nội dung từ `detail.md`** để bù vào tiêu đề hay đoạn mở khi thiếu material.
 - **Không để lại placeholder** — số điện thoại phải lấy từ `brand-guideline.md`; nếu không có ghi `(cần xác nhận)`
 - **Dữ liệu từ detail.md là nguồn chính cho phần đặc điểm và lý do chọn** — không bịa thông số kỹ thuật; nhưng KHÔNG dùng detail.md cho tiêu đề và đoạn mở
 - **Không viết phần ứng dụng chế biến** — đây là Dạng 1A B2B
@@ -217,7 +218,7 @@ Sau khi lưu, thông báo ngắn: *"Đã lưu bản tối giản: posts/[tên]/p
 2. Đọc `detail.md` + `brand-guideline.md` + `marketing-channels.md` song song
 3. Xác định danh sách ảnh đề xuất
 4. Research blog ẩm thực: 1 query duy nhất → đọc bài ưu tiên cao nhất → trích nguyên văn mở đầu
-5. Tham khảo cách blog mở đầu → viết tiêu đề + mở bài theo phong cách mở đầu tương tự
+5. Ghi lại ý chính, góc tiếp cận và phong cách viết từ research → viết tiêu đề + mở bài theo phong cách blog (ưu tiên); nếu blog không đủ material, mới dùng Quy tắc phong cách Anti-AI Detection
 6. Viết phần đặc điểm, lý do chọn, CTA, hashtag
 7. Hiển thị bài viết hoàn chỉnh
 8. **Chờ user confirm**
