@@ -3,17 +3,16 @@
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Bào Ngư Đông Lạnh (Frozen Abalone)
 - **Tên tiếng Nhật:** アワビ (Awabi) — bào ngư, nhuyễn thể chân bụng cao cấp bậc nhất trong bếp Nhật
-- **Xuất xứ:** (cần xác nhận)
-- **Thương hiệu:** (cần xác nhận — chữ trên bao bì không đọc rõ hoàn toàn)
+- **Xuất xứ:** Nhật Bản
+- **Thương hiệu:** Nissi
 - **Danh mục:** Nhuyễn thể / Bào ngư đông lạnh / Sashimi-grade
 - **Dạng sản phẩm:** Bào ngư nguyên con đông lạnh, đã sơ chế bỏ vỏ
 - **Bảo quản:** -18°C trở xuống
 - **Đóng gói:** Túi PE xanh chân không, nhiều túi/thùng carton
 
 ## Quy cách đóng gói
-- Đơn vị tính: Thùng
-- Mỗi thùng chứa khoảng 8–12 túi PE xanh (quan sát từ ảnh)
-- Size: 15–17 con/kg 
+- Đơn vị tính: 1kg/bịch
+- bịch 1kg ~ 15-17 con 
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Trắng kem — màu đặc trưng thịt bào ngư sau khi sơ chế
@@ -38,4 +37,4 @@
 - **アワビステーキ (Awabi Steak)** — áp chảo với bơ và sốt ponzu, phục vụ như món chính trong omakase fusion
 
 ## Hình ảnh sản phẩm
-- bao-ngu.png _(hộp carton mở — thấy các túi PE xanh "FROZEN ABALONE" xếp hàng trong thùng)_ ⭐
+- bao-ngu.png ⭐

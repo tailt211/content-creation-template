@@ -1,0 +1,7 @@
+interface:
+  display_name: "Product Premium Frame Generator"
+  short_description: "Apply premium frame branding to product photos"
+  default_prompt: "Use $product-premium-frame-generator to create Premium Import Frame images for a product folder."
+
+policy:
+  allow_implicit_invocation: true

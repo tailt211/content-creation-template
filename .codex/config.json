@@ -15,7 +15,8 @@
   "skills": [
     ".codex/skills/product-detail-generator/SKILL.md",
     ".codex/skills/json-prompt-generator/SKILL.md",
-    ".codex/skills/post-1a-writer/SKILL.md"
+    ".codex/skills/post-1a-writer/SKILL.md",
+    ".codex/skills/product-frame-image-generator/SKILL.md"
   ],
   "task_prompts": [
     ".codex/prompts/task/tao-detail-san-pham.md",

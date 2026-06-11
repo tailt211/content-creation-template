@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Post Image Generator"
+  short_description: "Generate final product post images."
+  default_prompt: "Generate product post images for a product folder using prompt-template-1.json, input-3-image.jpg, and post-product-template-1.png."

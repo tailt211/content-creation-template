@@ -3,7 +3,8 @@ name: post-1a-writer
 description: |
   Viết bài Facebook Dạng 1A Product Post B2B cho một sản phẩm của Bình Minh SG.
   Skill đọc detail.md, brand guideline, marketing channels, research blog ẩm thực Nhật,
-  tạo bài gốc, bản tối giản, copy ảnh đề xuất và tự động tạo JSON prompt banner.
+  tạo bài gốc, bản tối giản, copy ảnh đề xuất, tự động tạo JSON prompt banner,
+  tạo poster image và tạo premium frame image.
 
   Dùng skill này khi user:
   - Yêu cầu viết bài 1A cho một sản phẩm.
@@ -70,6 +71,18 @@ posts/[tên sản phẩm]/data/[ten-sp-khong-dau]-[số thứ tự].[ext]
 
 ```text
 posts/[tên sản phẩm]/data/prompt-template-1.json
+```
+
+5. Poster image từ skill `product-poster-image-generator`:
+
+```text
+posts/[tên sản phẩm]/...
+```
+
+6. Premium frame image từ skill `product-premium-frame-generator`:
+
+```text
+posts/[tên sản phẩm]/[file hình ảnh]
 ```
 
 ## Workflow
@@ -223,10 +236,28 @@ Sau khi đã lưu bài gốc, bản short và ảnh:
 - Tạo hoặc cập nhật `posts/[tên]/data/input-3-image.[ext]`.
 - Không đưa vào JSON các nhãn dịch vụ hoặc persona như `Tư vấn B2B`, `tư vấn bếp Nhật`, `nhà hàng Nhật`, `hỗ trợ menu`; chỉ lưu dữ liệu sản phẩm, cam kết vận hành và thông tin kiểm chứng được.
 
-### 8. Lưu file
+### 8. Tạo poster image
+
+Sau khi đã tạo `posts/[tên]/data/prompt-template-1.json` và `posts/[tên]/data/input-3-image.[ext]`:
+
+- Chạy tiếp workflow của `.codex/skills/product-poster-image-generator/SKILL.md` cho cùng sản phẩm.
+- Tạo và verify poster/banner image theo rule của skill `product-poster-image-generator`.
+- Không tự thay thế workflow này bằng prompt hoặc thao tác imagegen thủ công nếu skill đó có hướng dẫn cụ thể hơn.
+- Ghi nhận output path và mọi lỗi verification nếu có.
+
+### 9. Tạo premium frame image
+
+Sau khi đã có ảnh sản phẩm trong `posts/[tên]/data/`:
+
+- Chạy tiếp workflow của `.codex/skills/product-premium-frame-generator/SKILL.md` cho cùng sản phẩm.
+- Tạo premium frame image theo rule của skill `product-premium-frame-generator`.
+- Dùng default output folder/naming của skill đó, trừ khi user yêu cầu khác.
+- Ghi nhận output path, file bị skip và mọi lỗi verification nếu có.
+
+### 10. Lưu file và báo cáo
 
 - Tạo folder `posts/[tên sản phẩm]/data/` nếu chưa có.
-- Lưu bài gốc, bản short, ảnh đề xuất và JSON prompt.
+- Lưu bài gốc, bản short, ảnh đề xuất, JSON prompt, poster image và premium frame image.
 - Không hỏi confirm trước khi lưu.
 - Sau khi xong, báo danh sách file đã tạo/cập nhật và các điểm cần xác nhận.
 
