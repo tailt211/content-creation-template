@@ -5,14 +5,14 @@
 - **Tên tiếng Nhật:** サーモンフィレ (Sāmon Fire) — fillet cá hồi nguyên miếng
 - **Xuất xứ:** (cần xác nhận — Na Uy hoặc Chile phổ biến nhất với loại fillet này)
 - **Thương hiệu:** (cần xác nhận)
-- **Danh mục:** Cá nhập khẩu / Salmon fillet đông lạnh / Sashimi-grade
-- **Dạng sản phẩm:** Fillet nguyên con bỏ xương, còn da; cũng được cung cấp dạng cắt khúc portion theo khay
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** (cần xác nhận — thùng xốp hoặc carton đông lạnh)
+- **Danh mục:** Hải sản tươi / Salmon fillet / Sashimi-grade
+- **Dạng sản phẩm:** Thịt cá hồi tươi dạng fillet nguyên con bỏ xương, còn da; cũng được cung cấp dạng cắt khúc portion theo khay
+- **Bảo quản:** 0–4°C, giữ lạnh liên tục
+- **Hạn sử dụng:** Dùng tốt nhất trong ngày giao hàng hoặc theo hạn sử dụng thực tế trên lô hàng (cần xác nhận)
+- **Đóng gói:** (cần xác nhận — thùng xốp/khay giữ lạnh)
 
 ## Quy cách đóng gói
-- Fillet nguyên con và phần cắt khúc (portion) theo khay trắng
+- Fillet tươi nguyên con và phần cắt khúc (portion) theo khay trắng
 - Trọng lượng fillet nguyên: (cần xác nhận)
 - Portion cắt sẵn: (cần xác nhận trọng lượng/khay)
 
@@ -20,7 +20,7 @@
 - **Màu sắc:** Cam đỏ tươi sáng, đồng đều — màu đặc trưng salmon chất lượng cao
 - **Hình dạng:** Fillet dài nguyên con, phần bụng dày, thu nhỏ về phía đuôi; phần cắt khúc vuông vắn
 - **Kết cấu:** Vân mỡ trắng (marbling) rõ nét xen đều qua thịt — dấu hiệu hàm lượng omega-3 cao
-- **Trạng thái:** Tươi/đông lạnh — ảnh chụp sau rã đông, thịt ẩm bóng, không bị khô hay tách thớ
+- **Trạng thái:** Thịt tươi giữ lạnh — bề mặt ẩm bóng, không bị khô hay tách thớ
 - **Da:** Còn nguyên da bạc, sạch vảy
 - **Đặc tính nổi bật:** Màu cam đỏ đồng đều, vân mỡ đẹp — chuẩn presentation cho sashimi và aburi
 

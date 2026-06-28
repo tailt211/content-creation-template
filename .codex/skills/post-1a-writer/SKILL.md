@@ -234,9 +234,33 @@ Sau khi đã lưu bài gốc, bản short và ảnh:
 
 Sau khi đã có ảnh sản phẩm trong `posts/[tên]/data/`:
 
-- Chạy tiếp workflow của `.codex/skills/product-premium-frame-generator/SKILL.md` cho cùng sản phẩm.
-- Tạo premium frame image theo rule của skill `product-premium-frame-generator`.
-- Dùng default output folder/naming của skill đó, trừ khi user yêu cầu khác.
+- Bắt buộc chuyển quyền thực thi sang đúng skill `.codex/skills/product-premium-frame-generator/SKILL.md` cho cùng sản phẩm.
+- Trước khi tạo ảnh, đọc lại toàn bộ `.codex/skills/product-premium-frame-generator/SKILL.md` trong lượt hiện tại, kể cả khi đã đọc ở lượt trước.
+- Nếu skill con yêu cầu đọc skill hoặc reference khác, phải đọc đúng file đó theo đường dẫn của skill con. Không được tự tóm tắt, tự viết lại, hoặc dùng prompt tương tự thay cho prompt gốc.
+- Bắt buộc dùng đúng template `templates/images/frame-temp-1.jpg` và prompt gốc trong `.codex/skills/product-premium-frame-generator/references/premium-frame-prompt.md`.
+- Với mỗi ảnh target, bắt buộc load cả 2 ảnh bằng `view_image` ngay trước khi gọi imagegen:
+  - `TEMPLATE_FRAME_IMAGE = templates/images/frame-temp-1.jpg`
+  - `TARGET_IMAGE = posts/[tên]/data/[file target]`
+- Target image phải lấy từ `posts/[tên]/data/` theo rule của skill con:
+  - Include `.jpg`, `.jpeg`, `.png`, `.webp`.
+  - Exclude `input-3-image.jpg`.
+  - Exclude mọi file đã là premium frame output.
+- Không được tạo prompt premium frame thủ công trong skill này. Chỉ được dùng prompt reference của skill con và thay `[tên_file_ảnh_cần_chỉnh]` bằng path hoặc filename target.
+- Không được đổi output folder, naming, hoặc extension mặc định của skill con. Mặc định phải là:
+  - `posts/[tên]/[original-stem]-premium-frame.jpg`
+- Nếu imagegen trả file khác định dạng mặc định, phải chuyển/lưu lại đúng output contract của skill con hoặc ghi lỗi verification, không được âm thầm lưu path/đuôi khác.
+- Bắt buộc verify từng output theo checklist của skill con:
+  - Nội dung chính của target image không đổi.
+  - Có navy premium border.
+  - Có tag top-left `Hàng Sẵn kho`.
+  - Có logo Bình Minh SG top-right đúng nguyên khối.
+  - Có watermark lớn trung tâm.
+  - Có pattern watermark logo nhẹ, cách đều.
+  - Có footer đúng nội dung.
+  - Logo không bị vẽ lại, tách rời, đổi màu sai hoặc méo.
+  - Watermark không che nhãn, thùng hàng, người, kho hoặc chi tiết sản phẩm quan trọng.
+- Nếu output khác khung mẫu, thiếu thành phần, sai logo, sai watermark, sai footer, sai extension/naming, hoặc làm thay đổi ảnh gốc, phải xem là fail và regenerate theo rule của skill con. Không báo hoàn thành khi còn output fail.
+- Nếu không thể thực thi đúng skill con bằng tool hiện có, dừng riêng bước premium frame, không tạo ảnh thay thế, và báo rõ là bước premium frame bị blocked.
 - Ghi nhận output path, file bị skip và mọi lỗi verification nếu có.
 
 ### 9. Lưu file và báo cáo

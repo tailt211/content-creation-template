@@ -1,13 +1,13 @@
 # Cá Thu Đao (Sanma — 秋刀魚)
 
 ## Thông tin sản phẩm
-- **Tên sản phẩm:** Cá Thu Đao Size (Pacific Saury)
+- **Tên sản phẩm:** Cá Thu Đao (Pacific Saury)
 - **Tên tiếng Nhật:** 秋刀魚 (Sanma) — nghĩa đen "cá kiếm mùa thu"; loài Cololabis saira
 - **Xuất xứ:** (cần xác nhận — thường từ Nhật Bản hoặc Nga/Bắc Thái Bình Dương)
 - **Thương hiệu:** (cần xác nhận)
 - **Danh mục:** Cá nhập khẩu / Sanma nguyên con đông lạnh
 - **Dạng sản phẩm:** Nguyên con, còn đầu đuôi, chưa mổ ruột, đông lạnh IQF hoặc block
-- **Size:** Khoảng 30–40cm/con (ước tính từ ảnh đối chiếu cây bút)
+- **Size:** Khoảng 30–40cm/con
 - **Bảo quản:** -18°C trở xuống
 - **Hạn sử dụng:** (cần xác nhận)
 - **Đóng gói:** Thùng carton, xếp song song nhiều lớp — số con/thùng cần xác nhận

@@ -14,7 +14,7 @@
 
 ## Quy cách đóng gói
 - Khay nhựa trắng đựng uni nguyên miếng, không có chất bảo quản lỏng
-- Trọng lượng/khay: (cần xác nhận)
+- Trọng lượng/khay: 100g/khay
 - Số khay/thùng: (cần xác nhận)
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)

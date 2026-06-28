@@ -153,8 +153,8 @@
 ## 12. Cá Hồi File (サーモンフィレ)
 
 - **Detail:** [products/Cá hồi file/detail.md](products/C%C3%A1%20h%E1%BB%93i%20file/detail.md)
-- **Danh mục:** Cá nhập khẩu / Salmon fillet đông lạnh / Sashimi-grade
-- **USP:** Salmon fillet màu cam đỏ đồng đều, vân mỡ đẹp — linh hoạt từ sashimi, nigiri, aburi đến teriyaki và don; cung cấp cả dạng fillet nguyên con và portion cắt sẵn theo khay
+- **Danh mục:** Hải sản tươi / Salmon fillet / Sashimi-grade
+- **USP:** Salmon fillet tươi màu cam đỏ đồng đều, vân mỡ đẹp — linh hoạt từ sashimi, nigiri, aburi đến teriyaki và don; cung cấp cả dạng fillet nguyên con và portion cắt sẵn theo khay
 - **Số ảnh đề xuất mỗi bài:** 3 ảnh
 
 ---
@@ -390,6 +390,42 @@
 - **Danh mục:** Hải sản cao cấp / Uni đông lạnh
 - **USP:** Trứng nhum Việt Nam đóng vỉ 100g, chia sẵn 5 ngăn, cấp đông tiện kiểm soát portion — phù hợp uni gunkan, uni don và các món sushi premium cần lên món nhanh
 - **Số ảnh đề xuất mỗi bài:** 4-5 ảnh
+
+---
+
+## 44. Cá Cam Buri Premium Size 2kg Up (The BURI PREMIUM - 鰤)
+
+- **Detail:** [products/Cá cam buri premium/detail.md](products/C%C3%A1%20cam%20buri%20premium/detail.md)
+- **Danh mục:** Cá nhập khẩu Nhật Bản / Buri fillet đông lạnh / Sashimi-grade
+- **USP:** The BURI PREMIUM Hashiguchi Aquaculture, Product of Japan, fillet yellowtail/amberjack size 2kg up, hút chân không từng miếng - phù hợp sashimi, nigiri, aburi buri và menu omakase cần lát cá lớn, đều form
+- **Số ảnh đề xuất mỗi bài:** 4-5 ảnh
+
+---
+
+## 45. Tôm Ama Ebi Size 46-50 Con/Hộp (甘エビ — Ama Ebi)
+
+- **Detail:** [products/tôm Ama ebi/detail.md](products/t%C3%B4m%20Ama%20ebi/detail.md)
+- **Danh mục:** Hải sản nhập khẩu / Tôm nguyên con đông lạnh / Ama ebi
+- **USP:** Magadanryba AMA EBI 1kg/hộp, size 3L 46-50 con/hộp, wild northern shrimp cấp đông nhanh trên tàu - chuẩn ama ebi sashimi, nigiri và tận dụng đầu tôm chiên giòn
+- **Số ảnh đề xuất mỗi bài:** 3 ảnh
+
+---
+
+## 46. An Mirin (みりん — Mirin)
+
+- **Detail:** [products/An Mirin/detail.md](products/An%20Mirin/detail.md)
+- **Danh mục:** Hàng khô – Gia vị / Mirin nấu ăn
+- **USP:** Wine Food Co., Ltd AN Mirin thùng 18L, nhãn đỏ dễ nhận diện — quy cách lớn cho bếp Nhật dùng thường xuyên trong teriyaki tare, unagi tare, nimono và mentsuyu
+- **Số ảnh đề xuất mỗi bài:** 3 ảnh
+
+---
+
+## 47. An Ryorishu (料理酒 — Ryorishu)
+
+- **Detail:** [products/An Ryorishu/detail.md](products/An%20Ryorishu/detail.md)
+- **Danh mục:** Hàng khô – Gia vị / Rượu nấu ăn Nhật
+- **USP:** Wine Food Co., Ltd AN Ryorishu thùng 18L, nhãn xanh dễ phân biệt — dùng cho bếp Nhật để khử mùi cá thịt, làm mềm nguyên liệu và tăng vị umami trong món kho, nướng, nước dùng
+- **Số ảnh đề xuất mỗi bài:** 3 ảnh
 
 ---
 
