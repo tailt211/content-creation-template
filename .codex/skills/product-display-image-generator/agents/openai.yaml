@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Display Image Generator"
+  short_description: "Create product display images and frames"
+  default_prompt: "Use $product-display-image-generator to create the final framed product display image for this product."

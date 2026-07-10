@@ -1,37 +1,45 @@
-# Wasabi Bột Rohi (Powder Wasabi — 粉わさび)
+# Wasabi Tươi Rohi (生わさび — Nama Wasabi)
 
 ## Thông tin sản phẩm
-- **Tên sản phẩm:** Wasabi Bột Rohi (Powder Wasabi)
-- **Tên tiếng Nhật:** 粉わさび (Kona Wasabi) — wasabi dạng bột, pha nước thành paste trước khi dùng
-- **Thương hiệu:** ROHI
-- **Danh mục:** Hàng khô – Gia vị / Wasabi bột
-- **Dạng sản phẩm:** Bột wasabi đóng túi lớn — pha với nước thành paste theo tỷ lệ
-- **Bảo quản:** Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp; đậy kín sau khi mở
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Túi trắng in logo ROHI và chữ "POWDER WASABI", đóng thùng nhiều túi
+- **Tên sản phẩm:** Wasabi Tươi Rohi
+- **Tên tiếng Nhật:** 生わさび (Nama Wasabi) — wasabi dạng paste dùng trực tiếp; tên trên bao bì không đồng nghĩa với củ wasabi tươi nguyên chất
+- **Xuất xứ:** (cần xác nhận theo nhãn phụ hoặc chứng từ lô)
+- **Thương hiệu:** ROHI Foods
+- **Danh mục:** Thực phẩm chế biến / Gia vị đông lạnh / Wasabi paste
+- **Dạng sản phẩm:** Wasabi paste màu xanh, đóng túi vòi vặn
+- **Bảo quản:** Đông lạnh ở -18°C theo hướng dẫn trên bao bì
+- **Hạn sử dụng:** (cần xác nhận theo ngày in trên từng lô; ảnh cho thấy hạn dùng năm 2027 nhưng phần tháng/ngày không đủ rõ)
+- **Đóng gói:** Túi vòi vặn 750g
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Túi
-- Đóng thùng carton, nhiều túi/thùng (quan sát từ ảnh — thấy khoảng 6+ túi/thùng)
-- Trọng lượng/túi: (cần xác nhận — thường 1kg hoặc 2kg/túi cho dòng bán sỉ)
+- **Đơn vị tính:** Túi — 750g/túi
+- **Mô tả đóng gói:** Túi mềm có nắp vặn, thuận tiện lấy lượng paste theo từng phần và đóng kín lại sau khi sử dụng
+- **Thành phần đọc được trên bao bì:** Hon-wasabi, seiyō-wasabi, dầu thực vật, siro fructose, nước, đường, muối, dầu mù tạt, chất điều vị, acid citric và màu thực phẩm (cần đối chiếu nhãn phụ tiếng Việt để xác nhận đầy đủ)
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Bột màu xanh lá nhạt đặc trưng wasabi
-- **Dạng:** Bột mịn — pha với nước lạnh tỷ lệ 1:1 thành paste
-- **Đóng gói:** Túi nhựa trắng cứng, in logo ROHI xanh-trắng, chữ "POWDER WASABI" nổi bật
-- **Chứng nhận:** Có logo chứng nhận chất lượng trên bao bì (đọc từ ảnh)
-- **Đặc tính nổi bật:** Đóng túi lớn phù hợp bếp Nhật sử dụng volume cao — kinh tế hơn wasabi paste đóng gói nhỏ
+- **Màu sắc:** Paste xanh nhạt; bao bì trắng và xanh lá
+- **Hình dạng:** Sản phẩm dạng paste sệt trong túi đứng có vòi và nắp vặn
+- **Kết cấu:** Nhuyễn, có thể bóp trực tiếp từ túi để chia portion
+- **Trạng thái:** Đông lạnh; rã đông trước khi dùng theo hướng dẫn của nhà sản xuất
+- **Đặc tính nổi bật:** Quy cách 750g phù hợp bếp nhà hàng; bao bì vòi vặn giúp lấy nhanh, hạn chế tiếp xúc phần còn lại trong túi
 
 ## Ứng dụng trong bếp Nhật
 
-**Gia vị cơ bản — ứng dụng hàng ngày:**
-- **刺身のわさび (Wasabi cho Sashimi)** — pha paste, dùng ngay cho mọi loại sashimi và nigiri; chuẩn bị fresh từng ngày giữ cay thơm tự nhiên
-- **巻き寿司 (Maki Sushi)** — phết paste bên trong cuốn trước khi đặt nhân
+**Sushi & sashimi:**
+- **刺身 (Sashimi)** - dùng một lượng nhỏ làm gia vị ăn kèm cá và hải sản sống
+- **握り寿司 (Nigiri sushi)** - phết lớp mỏng giữa cơm sushi và neta, điều chỉnh lượng theo loại nguyên liệu
+- **巻き寿司 (Maki sushi)** - phối lượng vừa phải vào nhân hoặc sốt để tạo vị cay đặc trưng
 
-**Pha chế & Sốt:**
-- **わさびドレッシング (Wasabi Dressing)** — pha vào sốt ponzu hoặc mayonnaise tạo wasabi mayo cho roll fusion
-- **わさびみそ (Wasabi Miso)** — trộn với miso nhạt, dùng kèm robatayaki và oden
-- Pha vào nước chấm tsuyu cho zaru soba và zaru udon
+**Món lạnh & nước chấm:**
+- **わさび醤油 (Wasabi shōyu)** - hòa cùng nước tương làm nước chấm sashimi, hải sản hoặc thịt
+- **冷たい蕎麦 (Soba lạnh)** - dùng kèm mentsuyu để bổ sung vị cay và hương wasabi
+- **和風ドレッシング (Wafū dressing)** - phối với shoyu, giấm và dầu để làm sốt salad kiểu Nhật
+
+**Món nướng & món cuốn:**
+- **牛肉のわさび添え (Thịt bò dùng kèm wasabi)** - dùng lượng nhỏ với bò áp chảo hoặc bò nướng để cân bằng vị béo
+- **手巻き寿司 (Temaki sushi)** - thêm trực tiếp vào cuốn rong biển theo từng portion khi phục vụ
 
 ## Hình ảnh sản phẩm
-- Wasabi tươi Rohi.jpeg _(thùng carton mở chứa nhiều túi ROHI POWDER WASABI — thấy rõ bao bì trắng và logo)_ ⭐
+- 1783139553259_2001136802306868905_2001136802306868905_d2c50a289571faa64a5b0eb78836b8e0.jpg _(mặt trước và mặt sau túi ROHI 生わさび, thể hiện quy cách 750g, thành phần và hướng dẫn bảo quản đông lạnh)_
+- 1783139553262_2001136802306868905_2001136802306868905_e6925995b8e5cfa44da786797e74831b.jpg _(các túi wasabi paste ROHI trong thùng carton, thấy rõ vòi vặn và mặt sau bao bì)_
+- 1783139553264_2001136802306868905_2001136802306868905_b15d5a9ae4dc2c5a2241f896b5663cf0.jpg _(nhiều túi ROHI 生わさび 750g, mặt trước thể hiện dạng paste xanh nhạt)_

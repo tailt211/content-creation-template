@@ -294,11 +294,11 @@
 
 ---
 
-## 33. Wasabi Bột Rohi (粉わさび — Powder Wasabi)
+## 33. Wasabi Tươi Rohi (生わさび — Nama Wasabi)
 
 - **Detail:** [products/Wasabi tươi Rohi/detail.md](products/Wasabi%20t%C6%B0%C6%A1i%20Rohi/detail.md)
-- **Danh mục:** Hàng khô – Gia vị / Wasabi bột
-- **USP:** ROHI Powder Wasabi — đóng túi lớn, chứng nhận chất lượng; pha nước thành wasabi paste dùng cho sashimi, nigiri và dressing; tiết kiệm chi phí so với wasabi paste đóng gói sẵn
+- **Danh mục:** Thực phẩm chế biến / Gia vị đông lạnh / Wasabi paste
+- **USP:** ROHI 生わさび dạng paste 750g/túi, bảo quản đông lạnh -18°C, bao bì vòi vặn giúp chia portion nhanh và đóng kín lại; dùng trực tiếp cho sashimi, nigiri, wasabi shōyu và dressing
 - **Số ảnh đề xuất mỗi bài:** 3 ảnh
 
 ---
