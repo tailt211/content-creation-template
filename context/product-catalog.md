@@ -350,9 +350,9 @@
 
 ## 39. Rong Biển Sushi Rohi — Nori Rohi (焼き海苔)
 
-- **Detail:** [products/Rong biển sushi Rohi/detail.md](products/Rong%20bi%E1%BB%83n%20sushi%20Rohi/detail.md)
+- **Detail:** [products/Nori rohi/detail.md](products/Nori%20rohi/detail.md)
 - **Danh mục:** Hàng khô – Gia vị / Nori cuốn sushi
-- **USP:** ROHI Yaki Sushi Nori Premium Quality — 50 lá/gói, túi zipper tái đóng, nori nướng đen bóng đồng nhất; chuẩn maki sushi, temaki và gunkan cho bếp Nhật phục vụ volume cao
+- **USP:** ROHI Roasted Seaweed Sushi Nori — 50 lá/gói, khối lượng tịnh 125 g; lá nori nướng dạng tấm, phù hợp maki sushi, temaki và gunkan cho bếp Nhật dùng thường xuyên
 - **Số ảnh đề xuất mỗi bài:** 3 ảnh
 
 ---
@@ -426,6 +426,24 @@
 - **Danh mục:** Hàng khô – Gia vị / Rượu nấu ăn Nhật
 - **USP:** Wine Food Co., Ltd AN Ryorishu thùng 18L, nhãn xanh dễ phân biệt — dùng cho bếp Nhật để khử mùi cá thịt, làm mềm nguyên liệu và tăng vị umami trong món kho, nướng, nước dùng
 - **Số ảnh đề xuất mỗi bài:** 3 ảnh
+
+---
+
+## 48. Lươn Nissi Sốt 10% (うなぎ蒲焼 — Unagi Kabayaki)
+
+- **Detail:** [products/Lươn Nissi sốt 10%/detail.md](products/L%C6%B0%E1%BB%A1n%20Nissi%20s%E1%BB%91t%2010%25/detail.md)
+- **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki nhập khẩu
+- **USP:** NISSI Frozen Roasted Eel thùng 10 kg, tỷ lệ sốt 10%, từng fillet hút chân không; lô ảnh hiện tại size 50P khoảng 200 g/miếng, phù hợp unadon, unaju và sushi lươn
+- **Số ảnh đề xuất mỗi bài:** 4-5 ảnh
+
+---
+
+## 49. HUE FOODS No Mirin (みりん — Mirin)
+
+- **Detail:** [products/Mirin/detail.md](products/Mirin/detail.md)
+- **Danh mục:** Hàng khô – Gia vị / Mirin nấu ăn
+- **USP:** HUE FOODS no Mirin sản xuất tại Việt Nam, 18 L/thùng, cồn 8%, thành phần gạo và men Koji — quy cách lớn cho teriyaki tare, unagi tare, nimono và mentsuyu
+- **Số ảnh đề xuất mỗi bài:** 4-5 ảnh
 
 ---
 
