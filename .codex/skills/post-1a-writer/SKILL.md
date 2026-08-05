@@ -196,6 +196,7 @@ Quy tắc:
 - Tiêu đề và đoạn mở ưu tiên phong cách từ blog đã research.
 - Đoạn mở phải kết thúc bằng một câu nối tự nhiên vào sản phẩm của Bình Minh SG.
 - Phần đặc điểm chọn 4-5 điểm phù hợp nhất, không liệt kê mọi thứ.
+- Phần đặc điểm sản phẩm chỉ ghi thông tin cuối cùng sạch để khách đọc, không thêm chú thích nguồn gốc hoặc cụm giải thích lặp lại như `(thùng carton trắng viền xanh ghi SEASONED SEAWEED)`, `(nhãn Chuka Wakame Nissi trên bao bì thực tế)`, `theo thông tin trên thùng và nhãn`.
 - Không có phần ứng dụng chế biến trong bài 1A B2B.
 - Tính từ phải đi kèm bằng chứng, quy cách hoặc ngữ cảnh cụ thể.
 - Không dùng 3 emoji liên tiếp trên cùng một dòng.
@@ -275,6 +276,7 @@ Sau khi đã có ảnh sản phẩm trong `posts/[tên]/data/`:
 - Bắt buộc research trước khi viết.
 - Tiêu đề và đoạn mở không lấy từ `detail.md`.
 - Dữ liệu kỹ thuật lấy từ `detail.md`, không bịa.
+- Đặc điểm sản phẩm không được kèm chú thích nguồn trong ngoặc hoặc cụm `theo thông tin...`; chỉ giữ thông tin đã xác minh cần đưa lên bài.
 - Không để placeholder.
 - Không dùng markdown trong nội dung bài Facebook.
 - Không tạo nội dung hoa mỹ chung chung.

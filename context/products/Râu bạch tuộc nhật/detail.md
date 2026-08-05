@@ -3,7 +3,7 @@
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Râu bạch tuộc Nhật
 - **Tên tiếng Nhật:** タコの足 (Tako no ashi) — cánh tay/vòi bạch tuộc đã sơ chế
-- **Xuất xứ:** Nhập khẩu (xuất xứ chính là Nhật Bản hoặc các vùng biển Đông Á)
+- **Xuất xứ:** Nhập khẩu Nhật Bản
 - **Danh mục:** Hải sản chế biến / Đông lạnh IQF
 - **Dạng sản phẩm:** Vòi tách riêng (tentacle), đã luộc chín, sơ chế sạch sẽ, cấp đông IQF
 - **Bảo quản:** -18°C trở xuống
