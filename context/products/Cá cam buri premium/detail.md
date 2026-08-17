@@ -17,7 +17,6 @@
 - **Mô tả đóng gói:** Từng fillet đóng túi hút chân không riêng, bên ngoài là bao bì họa tiết sóng Nhật với nhãn "Yellowtail Japanese Amberjack"
 - **Quy cách thùng quan sát được:** Tem thùng ghi "YELLOWTAIL FILLET", 7 ps, tổng 15.44kg / 34.04 lbs, tương đương khoảng 2.2kg/miếng theo lô ảnh chụp
 - **Hướng dẫn trên thùng:** Giữ đông đến khi dùng; tháo bao hút chân không và rã đông dưới nhiệt độ mát ngay trước khi sử dụng
-- **Glazing:** (cần xác nhận nếu cần ghi trong báo giá hoặc bài đăng)
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Thịt cá hồng nhạt đến hồng đỏ ở phần rìa, mỡ trắng rõ dưới lớp bao bì đông lạnh
