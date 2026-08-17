@@ -2,27 +2,24 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Mì Udon Rohi (ROHI Frozen Udon Noodles)
-- **Tên tiếng Nhật:** 冷凍うどん (Reitō Udon) — udon đông lạnh
-- **Xuất xứ:** (cần xác nhận)
-- **Thương hiệu:** ROHI — cùng thương hiệu với Edamame trong danh mục Bình Minh SG
-- **Danh mục:** Thực phẩm chế biến / Mì đông lạnh / Udon
-- **Dạng sản phẩm:** Mì udon đông lạnh, từng gói riêng lẻ
-- **Net weight:** 250g / gói
-- **Bảo quản:** -18°C trở xuống (KEEP FROZEN)
-- **Hạn sử dụng:** 18 tháng (Production 7/02/2025 → BBD 7/08/2026)
-- **Đóng gói thùng:** 30 gói/thùng — NW: 7,500g/thùng
+- **Tên đầy đủ:** Mì Udon đông lạnh - Frozen Udon Noodles
+- **Xuất xứ:** Trung Quốc
+- **Thành phần:** Nước, bột mì (30 - 40%), chất làm dày (Hydroxypropyl distarch phosphate - INS 1422, Guar gum - INS 412), tinh bột, muối ăn
+- **Hạn sử dụng:** 18 tháng kể từ ngày sản xuất; ngày sản xuất và hạn sử dụng xem trên bao bì
 
 ## Quy cách đóng gói
-- Từng gói túi PE trong suốt, thấy rõ sợi udon trắng bên trong
-- Nhãn đỏ-trắng in logo ROHI + **冷凍うどん** + FROZEN UDON NOODLES + WEIGHT 250g
-- Thùng carton nâu ROHI, ghi rõ "FROZEN UDON NOODLES — NW: 250GRAM x 30BAGS"
-- Giao lạnh trong thùng xốp vàng khi vận chuyển số lượng nhỏ
+- **Chất liệu bao bì:** Bao bì nhựa PE/PP
+- **Khối lượng tịnh:** 250 g/gói
+- **Quy cách thùng:** 7,5 kg/thùng (250 g x 30 gói)
+- **Quy cách khác:** Theo yêu cầu khách hàng nếu được thể hiện trên bao bì
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Trắng ngà — màu tự nhiên của bột mì udon
 - **Hình dạng:** Sợi tròn dày đặc trưng udon, cuộn thành bánh gói gọn 250g
 - **Kết cấu:** Sợi dày, dai mềm sau nấu — đặc tính udon đông lạnh giữ độ đàn hồi tốt
-- **Trạng thái:** Đông lạnh, đã luộc sơ (pre-cooked) — chỉ cần nhúng nước sôi 1–2 phút
+- **Trạng thái:** Đông lạnh; chỉ cần nhúng nước sôi để làm nóng và tách sợi
+- **Thành phần chính:** Nước và bột mì 30 - 40%
+- **Phụ gia tạo cấu trúc:** INS 1422 và INS 412
 - **Đặc tính nổi bật:** 250g/gói — đủ cho 1 phần ăn đơn, tiện kiểm soát định lượng
 
 ## Ứng dụng trong bếp Nhật

@@ -2,29 +2,22 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Thanh Cua / Thanh Surimi Hương Vị Cua
-- **Tên tiếng Nhật:** 力二蒲鉾 (Kani Kamaboko) — Surimi hương vị cua
-- **Xuất xứ:** Việt Nam
-- **Thương hiệu:** Mayumi (まゆみ食品) / DANIFOODS — 2 dòng cùng phân khúc
-- **Danh mục:** Thực phẩm chế biến / Surimi đông lạnh / Crab Stick
-- **Dạng sản phẩm:** Thanh surimi ép định hình, bề mặt màu cam-đỏ đặc trưng, đông lạnh
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** Theo bao bì từng lô
-- **Đóng gói:** Gói hút chân không 500g / thùng carton 500g x 20 gói (theo readme: cũng có gói 1kg)
+- **Tên đầy đủ:** Thanh surimi hương vị cua
+- **Thành phần:** Thịt cá xay 47%, tinh bột sắn, đường, muối, bột trứng, gia vị nấu ăn mirin, hương cua giống tự nhiên, màu thực phẩm giống tự nhiên (INS 120), chiết xuất cua 0,07%, dầu nành, chất điều vị (INS 621, INS 627, INS 631), chất ổn định (INS 451i), siro dầu cải
+- **Hạn sử dụng:** 18 tháng kể từ ngày sản xuất
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Kg — 1kg/gói hoặc 500gram/gói
-- Thương hiệu: NISSI
-- Thùng carton nâu: **Mayumi** — "THANH SURIMI HƯƠNG CUA / 力二蒲鉾 / SURIMI CRAB STICK", 500g x 20 gói/thùng
-- Thùng carton nâu: **DANIFOODS** — "THANH SURIMI CUA / Surimi Crab Stick / カニ蒲鉾", quy cách tương đương
-- Bên trong: gói hút chân không trong suốt, nhãn đen-đỏ thương hiệu
-- Bảo quản -18°C ghi trên thùng
+- **Chất liệu bao bì:** Túi PA/PE chuyên dụng, hút chân không; hoặc túi PA/PE cho vào hộp giấy
+- **Quy cách thùng:** Các sản phẩm đã bao gói được đóng vào thùng carton, viền kín
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Cam-đỏ bề mặt ngoài, trắng ngà bên trong — đặc trưng surimi crab stick
 - **Hình dạng:** Thanh dài dẹt, bề mặt có vân sọc ngang tạo kết cấu giống thịt cua thật
-- **Kết cấu:** Dai, chắc — ăn sống hoặc nấu chín đều giữ hình
-- **Trạng thái:** Đông lạnh, rã đông là dùng ngay hoặc chế biến nhiệt
-- **Thành phần chính (nhãn Mayumi):** Thịt cá xay (47%), tinh bột, đường, muối, bột trứng, dầu ăn, gia vị, màu thực phẩm, phụ gia (INS 627, INS 631)
+- **Kết cấu:** Dai, chắc — ăn sau rã đông hoặc nấu chín đều giữ hình
+- **Trạng thái:** Đông lạnh
+- **Dạng sản phẩm:** Thanh surimi hương vị cua đông lạnh
+- **Thành phần chính:** Thịt cá xay 47%, tinh bột sắn, đường, muối, bột trứng và gia vị
+- **Bảo quản:** ≤ -18°C
 
 ## Ứng dụng trong bếp Nhật
 

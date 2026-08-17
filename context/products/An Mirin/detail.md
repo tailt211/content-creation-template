@@ -2,25 +2,23 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** An Mirin
-- **Tên tiếng Nhật:** みりん / 味醂 (Mirin) — gia vị nấu ăn vị ngọt dịu, thường dùng để tạo độ bóng, cân bằng vị mặn và hỗ trợ khử mùi nguyên liệu trong món Nhật
-- **Xuất xứ:** Việt Nam (Wine Food Co., Ltd sản xuất tại TP.HCM — cần xác nhận theo chứng từ lô)
-- **Thương hiệu:** AN / Wine Food Co., Ltd
-- **Danh mục:** Hàng khô – Gia vị / Mirin nấu ăn
-- **Dạng sản phẩm:** Gia vị nấu ăn dạng lỏng, đóng thùng 18L cho bếp nhà hàng
-- **Bảo quản:** Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp; sau khi mở nên đậy kín và bảo quản theo hướng dẫn trên bao bì
-- **Hạn sử dụng:** 12 tháng từ ngày sản xuất theo thông tin dòng Hon Mirin của WineFood (cần xác nhận theo lô AN Mirin thực tế)
-- **Đóng gói:** Thùng carton kraft, nhãn tròn viền đỏ, dây đai trắng, thể tích thực ở 20°C: 18L
+- **Tên đầy đủ:** Gia vị nấu ăn An Mirin
+- **Xuất xứ:** Việt Nam
+- **Thành phần:** Nước, glucose, cồn thực phẩm tinh luyện, nếp, gạo, muối, chất tạo ngọt tổng hợp (INS 950), chất bảo quản (INS 202), chất xử lý bột (INS 1100i)
+- **Hạn sử dụng:** 01 năm kể từ ngày sản xuất
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Thùng — 18L/thùng
-- **Mô tả đóng gói:** Thùng carton vuông dùng cho bếp volume lớn, nhãn "GIA VỊ NẤU ĂN AN MIRIN" in trực tiếp trên mặt thùng
-- **Thông tin nhận diện:** Viền nhãn màu đỏ giúp phân biệt với AN Ryorishu viền xanh
+- **Thể tích thực ở 20°C:** 18 L
+- **Quy cách khác:** Theo yêu cầu khách hàng và thể hiện rõ trên nhãn hàng hóa
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc bao bì:** Carton nâu kraft, nhãn đỏ-trắng, chữ đen nổi bật
-- **Hình dạng:** Thùng carton vuông/chữ nhật, xếp kho theo kiện, có dây đai cố định
-- **Kết cấu:** Sản phẩm dạng lỏng bên trong túi/hộp thùng lớn (cần xác nhận cấu trúc túi trong thùng)
-- **Trạng thái:** Gia vị nấu ăn dạng lỏng, không phải hàng đông lạnh
+- **Hình dạng bao bì:** Thùng carton vuông/chữ nhật, xếp kho theo kiện, có dây đai cố định
+- **Trạng thái sản phẩm:** Gia vị nấu ăn dạng lỏng, trong suốt, không phải hàng đông lạnh
+- **Màu sắc sản phẩm:** Màu vàng đậm do quá trình lên men
+- **Mùi vị:** Mùi hơi nồng, vị ngọt
+- **Hàm lượng ethanol:** 14 ± 2%
+- **Độ Brix 20°C:** 18 ± 2%
 - **Đặc tính nổi bật:** Quy cách 18L phù hợp bếp Nhật dùng mirin thường xuyên cho tare, kho, rim, nướng và nước dùng
 
 ## Ứng dụng trong bếp Nhật

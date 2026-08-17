@@ -5,17 +5,14 @@
 - **Tên tiếng Nhật:** 雲丹 / うに (Uni) — trứng nhum (tuyến sinh dục nhum biển)
 - **Xuất xứ:** Chile (cần xác nhận — nhum đỏ hoặc vàng Chile là loại phổ biến nhất xuất khẩu)
 - **Loài:** Loxechinus albus (nhum Chile) — cần xác nhận theo lô
-- **Thương hiệu:** (cần xác nhận)
 - **Danh mục:** Hải sản cao cấp / Uni tươi / Sashimi-grade
 - **Dạng sản phẩm:** Uni nguyên miếng, đã tách vỏ, đóng khay nhựa trắng
 - **Bảo quản:** 0–4°C (tươi/ướp lạnh) hoặc -18°C (đông lạnh) — cần xác nhận theo lô
-- **Hạn sử dụng:** (cần xác nhận — uni tươi thường 5–7 ngày)
 - **Đóng gói:** Khay nhựa trắng hình chữ nhật, nhiều miếng xếp sát
 
 ## Quy cách đóng gói
 - Khay nhựa trắng đựng uni nguyên miếng, không có chất bảo quản lỏng
 - Trọng lượng/khay: 100g/khay
-- Số khay/thùng: (cần xác nhận)
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Vàng cam đậm, đồng đều — màu đặc trưng uni chất lượng tốt

@@ -2,28 +2,24 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Sò Đỏ Nissi (Arctic Surf Clams)
-- **Tên tiếng Nhật:** カナダ産北寄貝 (Kanada-san Hokkigai) — Sò Bắc Cực sản xuất tại Canada
-- **Xuất xứ:** Canada (PRODUCT OF CANADA — ghi trên bao bì)
-- **Thương hiệu:** NISSI SEAFOODS
-- **Danh mục:** Nhuyễn thể nhập khẩu / Arctic Surf Clams đông lạnh / Sashimi-grade
-- **Dạng sản phẩm:** Thịt sò nguyên miếng, IQF tại biển (Individually Quick Frozen at Sea), sashimi-ready
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** Theo bao bì từng lô (cần xác nhận)
-- **Đóng gói:** Hộp giấy NISSI 1kg — bao bì trắng đỏ, in hình sashimi trình bày đẹp, logo NISSI SEAFOODS nổi bật
+- **Tên đầy đủ:** Sò đỏ Hokkigai
+- **Xuất xứ:** Canada
+- **Thành phần:** Sò đỏ Canada 100%
+- **Hạn sử dụng:** Trong vòng 2 năm kể từ ngày sản xuất; ngày sản xuất và hạn sử dụng xem trên bao bì sản phẩm
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Kg — hộp 1kg NET CONTENT
-- **Size:** M — 51–60 con/kg
-- Bao bì hộp giấy cứng — nền trắng, họa tiết sóng biển đỏ đặc trưng NISSI
-- In đa ngữ: tiếng Nhật (カナダ産北寄貝), tiếng Anh (Arctic Surf Clams), tiếng Pháp (Mactres de l'Arctique)
-- Ghi rõ: INDIVIDUALLY QUICK FROZEN AT SEA / READY TO SERVE / KEEP FROZEN / PRODUCT OF CANADA
-- Cờ Canada + icon đông lạnh trên góc bao bì
+- **Khối lượng tịnh:** 1 kg/hộp
+- **Quy cách thùng:** 10 kg/thùng (1 kg/hộp x 10 hộp/thùng)
+- **Chất liệu bao bì:** Gói trong PE, túi bên ngoài PE, hộp giấy, thùng giấy
+- **Quy cách khác:** Có thể thay đổi theo nhu cầu thị trường
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Đỏ-cam tươi ở phần ngoài (siphon), trắng ngà ở phần thân — màu sắc tự nhiên đặc trưng của hokkigai
-- **Hình dạng:** Thịt sò nguyên miếng, mở ra định hình đẹp — siphon đỏ tách biệt rõ với thân trắng
-- **Kết cấu:** Chắc, không bở, IQF tại biển giữ độ tươi ngay khi đánh bắt
-- **Trạng thái:** Đông lạnh IQF, rã đông là dùng ngay — READY TO SERVE theo nhãn bao bì
+- **Màu sắc:** Đỏ-cam tươi ở phần ngoài, trắng ngà ở phần thân — màu sắc tự nhiên đặc trưng của hokkigai
+- **Hình dạng:** Thịt sò nguyên miếng, mở ra định hình đẹp; phần đỏ tách biệt rõ với thân trắng
+- **Kết cấu:** Chắc, không bở, phù hợp cắt sashimi
+- **Trạng thái:** Dạng nguyên con đông lạnh, rã đông là dùng ngay
+- **Mùi vị:** Mùi thơm của sò đỏ, vị ngọt tự nhiên, không có mùi vị lạ
+- **Thành phần:** Sò đỏ Canada 100%
 - **Đặc tính nổi bật:** Màu đỏ-cam tự nhiên đẹp, trình bày sashimi mà không cần chế biến thêm
 
 ## Ứng dụng trong bếp Nhật

@@ -2,30 +2,26 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Cá Cam (Amberjack Buri Fillet)
-- **Tên tiếng Nhật:** 鰤 (Buri) — cá cam Nhật trưởng thành, loài Seriola quinqueradiata; tên thương phẩm trên bao bì: 鰤師 (Buri-shi)
-- **Xuất xứ:** Nhật Bản (PRODUCT OF JAPAN)
-- **Thương hiệu:** 鰤師 (Buri-shi) — dòng fillet buri cao cấp Nhật, logo "S" hình cá
-- **Danh mục:** Cá nhập khẩu Nhật Bản / Buri fillet đông lạnh / Sashimi-grade
-- **Dạng sản phẩm:** Fillet nguyên miếng, bỏ xương, còn da, đông lạnh
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Từng fillet bọc túi PE xanh navy + lớp giấy sáp trắng bên trong, đóng thùng xốp trắng viền cam
+- **Tên đầy đủ:** Cá Cam Hamachi
+- **Thành phần:** Cá cam
+- **Xuất xứ:** Nhật Bản
+- **Hạn sử dụng:** 2 năm kể từ ngày sản xuất; ngày sản xuất xem trên bao bì
+- **Bảo quản:** Bảo quản đông lạnh ở nhiệt độ -18°C hoặc thấp hơn
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Kg
-- **Size có sẵn:**
-  - Size 1.8–2 kg/con
-  - Size 1.5–1.79 kg/con
-- Mỗi fillet bọc riêng: lớp giấy sáp trắng tiếp xúc cá → túi PE xanh navy in nhãn thương hiệu
-- Nhãn bao bì: "AMBERJACK (BURI) FILLET (Seriola quinqueradiata) — Product of Japan"
-- Đóng thùng xốp trắng viền cam, mỗi thùng nhiều fillet (số lượng cần xác nhận theo lô)
+- **Quy cách:** 01 miếng/túi, 06 túi/thùng hoặc tùy theo nhu cầu thị trường và thể hiện trên bao bì sản phẩm
+- **Chất liệu bao bì:** Túi nylon PE, LLDPE; bên ngoài là thùng carton
+- **Trọng lượng:** 1.8 - 2kg/fillet
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Thịt hồng nhạt–hồng đậm, đường máu đỏ chạy dọc theo xương sống, da còn nguyên màu bạc ánh vàng nhẹ
+- **Màu sắc:** Thịt hồng nhạt–hồng đậm, đường máu đỏ, da còn nguyên màu bạc ánh vàng nhẹ
 - **Hình dạng:** Fillet dài, dẹt, to bản — đặc trưng cá cam cỡ lớn
 - **Kết cấu:** Thịt chắc, vân thịt rõ, hàm lượng chất béo cao — nhìn thấy vân mỡ trắng xen kẽ
 - **Trạng thái:** Đông lạnh nguyên fillet, chưa cắt khúc
-- **Đặc tính nổi bật:** Fillet buri trưởng thành — hàm lượng béo (脂) cao nhất trong họ cá cam, vượt trội hamachi về độ béo và vị umami
+- **Dạng sản phẩm:** Cá cam Hamachi đông lạnh
+- **Thành phần:** 100% cá cam
+- **Bảo quản:** -18°C hoặc thấp hơn
+- **Đặc tính nổi bật:** Fillet buri/hamachi Nhật phù hợp sashimi, sushi topping và món nướng cao cấp
 
 ## Ứng dụng trong bếp Nhật
 

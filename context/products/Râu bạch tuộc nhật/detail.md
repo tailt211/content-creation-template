@@ -12,10 +12,10 @@
 
 ## Quy cách
 - **Đơn vị tính:** Kg
-- **Quy cách đóng gói:** 1kg/râu — thùng 5 râu
+- **Quy cách đóng gói:** 1kg/râu
 - IQF từng vòi — lấy đúng số lượng cần dùng, không hao hụt
 - Glazing: thấp — thịt thực tế đúng với trọng lượng cân
-- Màu sắc sau cấp đông: đỏ-cam rõ nét (quan sát từ ảnh thực tế)
+- Màu sắc sau cấp đông: đỏ-cam rõ nét
 - Vòi tách riêng — loại bỏ phần đầu bạch tuộc, chỉ giữ cánh tay, tiện dùng
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)

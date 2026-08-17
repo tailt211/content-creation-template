@@ -4,11 +4,9 @@
 - **Tên sản phẩm:** Nhum Việt Nam
 - **Tên tiếng Nhật:** 雲丹 / うに (Uni) - phần trứng nhum biển dùng trong sushi, sashimi và donburi
 - **Xuất xứ:** Việt Nam
-- **Thương hiệu:** (cần xác nhận)
 - **Danh mục:** Hải sản cao cấp / Uni đông lạnh / Sushi-grade (cần xác nhận)
 - **Dạng sản phẩm:** Trứng nhum đã tách vỏ, xếp theo vỉ nhiều ngăn, cấp đông
 - **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận)
 - **Đóng gói:** Vỉ nhựa 5 ngăn, bọc túi kín bên ngoài
 
 ## Quy cách đóng gói

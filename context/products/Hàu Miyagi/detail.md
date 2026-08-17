@@ -3,19 +3,15 @@
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Hàu Miyagi
 - **Tên tiếng Nhật:** 牡蠣 (Kaki) — hàu; giống Miyagi (宮城) là Pacific Oyster (Crassostrea gigas) nổi tiếng từ vùng Miyagi, Nhật Bản
-- **Xuất xứ:** (cần xác nhận — Miyagi Nhật Bản hoặc giống Miyagi nuôi tại Việt Nam/khu vực)
-- **Thương hiệu:** (cần xác nhận)
 - **Danh mục:** Nhuyễn thể / Hàu tươi còn vỏ / Sashimi-grade
 - **Dạng sản phẩm:** Hàu nguyên con còn vỏ — chưa tách; cung cấp tươi sống hoặc ướp lạnh
 - **Size:** Trung bình-lớn (ước tính 10–15cm chiều dài theo ảnh)
 - **Bảo quản:** 0–4°C (tươi sống), -18°C (nếu đông lạnh)
-- **Hạn sử dụng:** (cần xác nhận theo lô — hàu tươi thường 5–7 ngày sau thu hoạch)
 - **Đóng gói:** Túi PE xanh, đóng trong thùng xốp trắng viền đỏ — giao lạnh
 
 ## Quy cách đóng gói
 - Túi PE xanh chứa nhiều con hàu còn vỏ
 - Thùng xốp trắng viền băng keo đỏ — giữ lạnh trong vận chuyển
-- Số con/túi và trọng lượng: (cần xác nhận theo lô)
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc vỏ:** Nâu vàng đến xanh rêu tự nhiên, bề mặt gồ ghề nhiều lớp — đặc trưng hàu Pacific nuôi dây

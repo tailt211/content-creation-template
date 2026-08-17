@@ -7,7 +7,6 @@
 - **Danh mục:** Hàng khô – Gia vị / Nori cuốn sushi
 - **Dạng sản phẩm:** Lá nori khô nướng, ép vuông chuẩn — dùng cuốn sushi, maki, onigiri
 - **Bảo quản:** Nơi khô, thoáng, tránh ẩm; đậy kín sau khi mở, dùng trong ngày tốt nhất
-- **Hạn sử dụng:** (cần xác nhận theo lô)
 - **Đóng gói:** Túi nhựa đen nền, có zipper, in "YAKI SUSHI NORI PREMIUM QUALITY"
 
 ## Quy cách đóng gói

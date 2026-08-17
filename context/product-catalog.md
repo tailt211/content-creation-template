@@ -341,7 +341,7 @@
 
 ## 38. Rong Biển Khô Rohi (わかめ — Dried Cut Wakame)
 
-- **Detail:** [products/Rong biển khô/detail.md](products/Rong%20bi%E1%BB%83n%20kh%C3%B4/detail.md)
+- **Detail:** [products/Rong biển khô Rohi/detail.md](products/Rong%20bi%E1%BB%83n%20kh%C3%B4%20Rohi/detail.md)
 - **Danh mục:** Hàng khô – Gia vị / Wakame khô
 - **USP:** ROHI Dried Cut Wakame 500g/gói — ngâm nước 5 phút nở gấp nhiều lần, chuẩn nguyên liệu miso soup, wakame salad và sunomono; tiết kiệm chi phí và không gian lưu trữ so với wakame tươi
 - **Số ảnh đề xuất mỗi bài:** 3 ảnh

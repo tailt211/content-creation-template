@@ -2,32 +2,30 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Trứng cá hồi Nissi AC (Ikura Shoyu-zuke)
+- **Tên đầy đủ:** Trứng cá hồi tẩm vị nước tương đông lạnh
 - **Tên tiếng Nhật:** いくら醤油漬け (Ikura Shoyu-zuke) — trứng cá hồi ngâm nước tương Nhật
-- **Xuất xứ:** Nhật Bản (cần xác nhận — bao bì tiếng Nhật, thương hiệu Nhật)
-- **Thương hiệu:** NISSI SEAFOODS — in trên hộp carton sản phẩm
-- **Phân hạng:** AC — ghi rõ trên nắp mỗi khay
-- **Danh mục:** Thực phẩm Nhật Bản nhập khẩu / Trứng cá hồi đông lạnh / Sashimi-grade
-- **Dạng sản phẩm:** Trứng cá hồi (ikura) đã ngâm nước tương Nhật (shoyu-zuke), đông lạnh, dùng trực tiếp sau rã đông
-- **Bảo quản:** -18°C trở xuống (ghi trên bao bì: 冷凍 -18°C以下保存)
-- **Hạn sử dụng:** Theo bao bì sản phẩm từng lô
-- **Đóng gói:** Khay xốp trắng đậy màng trong + hộp carton NISSI bên ngoài
-- **Giấy tờ:** CO/CQ Nhật Bản (cần xác nhận)
+- **Xuất xứ:** Nhật Bản
+- **Thương hiệu:** NISSI SEAFOODS
+- **Phân hạng:** AC
+- **Danh mục:** Thực phẩm Nhật Bản nhập khẩu / Trứng cá hồi đông lạnh / Sushi topping
+- **Dạng sản phẩm:** Trứng cá hồi tẩm vị nước tương đông lạnh, dùng trực tiếp sau rã đông
+- **Thành phần:** Trứng cá hồi, nước tương hữu cơ, chiết xuất cá ngừ, tinh bột thực vật thủy phân, đường, chất điều vị lên men từ gạo, mizuame hoàn nguyên, muối ăn, chiết xuất men, nước mắm; có thành phần chứa bột mì, tôm, đậu tương, cá thu
+- **Bảo quản:** Đông lạnh dưới -18°C
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất; ngày sản xuất và hạn sử dụng in trên bao bì sản phẩm
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Vỉ — 250g/vỉ
-- Khay xốp trắng, nắp màng trong suốt — nhìn rõ trứng từ bên ngoài
-- Nhãn "AC" in đậm trên nắp mỗi khay — thể hiện phân hạng sản phẩm
-- Nhãn thông tin tiếng Nhật dán trên mỗi khay (thành phần, xuất xứ, hạn sử dụng)
-- Hộp carton bên ngoài in logo NISSI SEAFOODS, hình ikura đỏ tươi, chữ Nhật 冷凍いくら醤油漬け
-- Hộp ghi "プレミアム品質" (Premium Quality)
-- Nhiều khay xếp trong thùng carton lớn có lót nilon — vận chuyển lạnh
+- **Đơn vị tính:** Hộp — 250 g/hộp
+- **Quy cách thùng:** 6 kg/thùng (250 g/hộp x 24 hộp)
+- **Khối lượng tịnh:** 250 g
+- **Chất liệu bao bì:** Hộp nhựa PA/PE, bên ngoài là thùng giấy
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Cam-đỏ salmon đặc trưng của ikura shoyu-zuke — màu đồng đều giữa các khay, không bị đen hay nhợt
-- **Hình dạng hạt:** Tròn đều, kích thước hạt đồng nhất, xếp dày đặc trong khay
-- **Kết cấu (quan sát):** Hạt căng, không bị vỡ hay dẹp — nhìn qua màng trong thấy rõ từng hạt riêng biệt
-- **Trạng thái:** Đông lạnh, đã ngâm nước tương Nhật (shoyu-zuke) — rã đông là dùng được ngay
-- **Đặc tính nổi bật:** Ikura shoyu-zuke là dạng chế biến sẵn phổ biến nhất trong bếp Nhật — trứng đã tách màng, ngâm hỗn hợp nước tương-mirin-sake, vị umami sẵn có
+- **Màu sắc:** Cam-đỏ salmon đặc trưng của ikura shoyu-zuke
+- **Hình dạng hạt:** Tròn đều, xếp dày trong khay
+- **Kết cấu:** Hạt căng, hạn chế vỡ/dẹp khi còn đông lạnh và rã đông đúng cách
+- **Trạng thái:** Đông lạnh, đã tẩm vị nước tương — rã đông là dùng được ngay
+- **Thành phần chính:** Trứng cá hồi và nền nước tương/chiết xuất cá ngừ
+- **Đặc tính nổi bật:** Quy cách 250g/hộp phù hợp sushi bar kiểm soát portion cao cấp
 
 ## Ứng dụng trong bếp Nhật
 

@@ -2,25 +2,25 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Wasabi Tươi Rohi
-- **Tên tiếng Nhật:** 生わさび (Nama Wasabi) — wasabi dạng paste dùng trực tiếp; tên trên bao bì không đồng nghĩa với củ wasabi tươi nguyên chất
-- **Xuất xứ:** (cần xác nhận theo nhãn phụ hoặc chứng từ lô)
-- **Thương hiệu:** ROHI Foods
-- **Danh mục:** Thực phẩm chế biến / Gia vị đông lạnh / Wasabi paste
-- **Dạng sản phẩm:** Wasabi paste màu xanh, đóng túi vòi vặn
-- **Bảo quản:** Đông lạnh ở -18°C theo hướng dẫn trên bao bì
-- **Hạn sử dụng:** (cần xác nhận theo ngày in trên từng lô; ảnh cho thấy hạn dùng năm 2027 nhưng phần tháng/ngày không đủ rõ)
-- **Đóng gói:** Túi vòi vặn 750g
+- **Tên đầy đủ:** Mù tạt tươi - Wasabi Paste
+- **Xuất xứ:** Trung Quốc
+- **Thành phần:** Mù tạt Nhật Bản 66%, cải ngựa 12,097%, dầu thực vật, xi-rô fructose, nước, đường, muối, dầu mù tạt 0,3%, chất điều vị (INS 631, INS 627), chất điều chỉnh độ acid (INS 330), phẩm màu tổng hợp (INS 133, INS 102)
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất; ngày sản xuất và hạn sử dụng xem trên bao bì
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Túi — 750g/túi
-- **Mô tả đóng gói:** Túi mềm có nắp vặn, thuận tiện lấy lượng paste theo từng phần và đóng kín lại sau khi sử dụng
-- **Thành phần đọc được trên bao bì:** Hon-wasabi, seiyō-wasabi, dầu thực vật, siro fructose, nước, đường, muối, dầu mù tạt, chất điều vị, acid citric và màu thực phẩm (cần đối chiếu nhãn phụ tiếng Việt để xác nhận đầy đủ)
+- **Chất liệu bao bì:** Bao bì nhựa PE, bên ngoài là hộp giấy
+- **Khối lượng tịnh:** 750 g/túi
+- **Quy cách thùng:** 9 kg/thùng (750 g x 12 gói)
+- **Quy cách khác:** Theo yêu cầu khách hàng nếu được thể hiện trên bao bì
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Paste xanh nhạt; bao bì trắng và xanh lá
 - **Hình dạng:** Sản phẩm dạng paste sệt trong túi đứng có vòi và nắp vặn
 - **Kết cấu:** Nhuyễn, có thể bóp trực tiếp từ túi để chia portion
-- **Trạng thái:** Đông lạnh; rã đông trước khi dùng theo hướng dẫn của nhà sản xuất
+- **Trạng thái:** Đông lạnh; rã đông trước khi dùng theo hướng dẫn trên bao bì
+- **Dạng sản phẩm:** Mù tạt tươi dạng paste
+- **Thành phần chính:** Mù tạt Nhật Bản 66% và cải ngựa 12,097%
+- **Hương vị:** Vị cay đặc trưng của wasabi/mù tạt
 - **Đặc tính nổi bật:** Quy cách 750g phù hợp bếp nhà hàng; bao bì vòi vặn giúp lấy nhanh, hạn chế tiếp xúc phần còn lại trong túi
 
 ## Ứng dụng trong bếp Nhật

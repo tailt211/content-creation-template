@@ -2,33 +2,34 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Cá trích ép trứng Nissi
-- **Tên tiếng Nhật trên bao bì:** 刺身にしん (Sashimi Nishim / Sashimi Herring)
-- **Thương hiệu:** NISSI (in trên thùng xốp trắng), đôi khi in song song là ISSIN
-- **Danh mục:** Thực phẩm Nhật Bản nhập khẩu / Cá trích sashimi có trứng / Đông lạnh
-- **Dạng sản phẩm:** Cá trích nguyên con có trứng (kazunoko — 数の子), đã ép định hình, đông lạnh — dùng cho sashimi và các món Nhật truyền thống
-- **Phân loại:** 3 dòng theo màu nhãn — Vàng / Xanh lá / Đỏ
-- **Bảo quản:** -18°C trở xuống (thùng xốp cách nhiệt)
-- **Hạn sử dụng:** Theo bao bì sản phẩm từng lô
+- **Tên đầy đủ:** Cá trích ép trứng
+- **Tên tiếng Nhật trên bao bì:** 刺身にしん (Sashimi Nishin / Sashimi Herring)
+- **Thương hiệu:** NISSI
+- **Dạng sản phẩm:** Lát cá trích phi lê, giữa 2 lát là trứng cá, đông lạnh
+- **Thành phần:** Trứng cá trích, trứng cá trứng, cá trích phi lê, đường, giấm, muối, bột ngọt (MSG), axit citric, màu thực phẩm beta-carotene
+- **Xuất xứ:** Trung Quốc
+- **Bảo quản:** -18°C
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất; hạn sử dụng xem trên bao bì sản phẩm
 
 ## Quy cách đóng gói
-- Thùng xốp trắng, in logo **NISSI** và chữ Nhật **"刺身にしん"** nổi bật trên thùng
-- Bên trong: gói hút chân không hoặc khay xốp đóng màng — bảo quản trứng không bị vỡ hạt
-- **Đơn vị tính:** Kg — 2kg/hộp
-- Nhãn bao bì tiếng Nhật + tiếng Anh
+- **Đơn vị tính:** Hộp — 2 kg/hộp
+- **Quy cách thùng:** 8 kg/thùng
+- **Mô tả đóng gói:** Cá trích ép trứng đông lạnh, đóng hộp/thùng; nhãn NISSI/ISSIN theo từng lô
 
-## Phân loại theo màu nhãn
-| Màu nhãn | Tên tiếng Nhật | Đặc điểm vị | Ứng dụng phù hợp |
-|----------|---------------|-------------|-----------------|
-| **Vàng** | 刺身にしん 金 | Vị nguyên bản, ít gia vị, ngọt thanh tự nhiên | Sashimi thuần, nigiri, osechi |
-| **Xanh lá** | 刺身にしん 緑 | Vị thảo mộc / rong biển, thanh mát | Khai vị izakaya, side dish set cơm Nhật |
-| **Đỏ** | 刺身にしん 赤 | Vị đậm, mặn hơn, gia vị đậm | Khai vị nhậu, ăn kèm cơm trắng, rượu sake |
+## Phân loại theo màu
+| Màu | Tên đầy đủ theo file màu | Khác nhau chính |
+|-----|--------------------------|-----------------|
+| **Đỏ** | Cá trích ép trứng tẩm gia vị đông lạnh màu đỏ (Red Nishin) | Thành phần chính: cá trích phi lê 55%, trứng cá trứng 40%; màu cam đỏ tự nhiên từ rau củ |
+| **Vàng** | Cá trích ép trứng tẩm gia vị đông lạnh màu vàng (Yellow Nishin) | Thành phần chính: cá trích phi lê 55%, trứng cá trứng 40%; màu vàng dùng INS 160a(i) |
+| **Xanh** | Cá trích ép trứng tẩm gia vị đông lạnh màu xanh (Green Nishin) | Thành phần chính: cá trích phi lê 55%, trứng cá trứng 40%; màu xanh dùng INS 133 và INS 102 |
 
 ## Thông số kỹ thuật
-- **Thành phần chính:** Cá trích (Herring/Nishim) nguyên con + trứng cá (kazunoko) bên trong
-- **Trứng cá (kazunoko):** Căng hạt, màu vàng đặc trưng, không vỡ sau rã đông đúng cách
-- **Thân cá:** Chắc, da bạc ánh xanh, thịt trắng hơi hồng
-- **Trạng thái:** Đã ép định hình sẵn — không cần nấu thêm, dùng trực tiếp hoặc gia nhiệt nhẹ
-- **Không cần nấu:** Rã đông là dùng được ngay cho sashimi hoặc khai vị lạnh
+- **Trạng thái:** Lát cá phi lê, giữa 2 lát là trứng cá, đông lạnh
+- **Màu sắc:** Lát cá màu xám xanh, trứng cá màu vàng; các biến thể đỏ/vàng/xanh khác nhau chủ yếu ở phần màu tẩm gia vị
+- **Mùi:** Đặc trưng của sản phẩm, không có mùi lạ
+- **Thành phần chính:** Trứng cá trích, trứng cá trứng và cá trích phi lê
+- **Cách dùng kỹ thuật:** Rã đông là dùng được ngay cho sashimi hoặc khai vị lạnh
+- **Đặc tính nổi bật:** Kết cấu cá-trứng rõ lớp, tạo cảm giác giòn nhẹ từ trứng cá khi ăn
 
 ## Ứng dụng trong bếp Nhật
 
@@ -76,4 +77,3 @@
 - z7798286817948_3b3fa73c5918213a95293deafc10e2d8.jpg
 - z7798286818301_65817853858fbfb63f1b10dc37a62d41.jpg
 - z7798287031504_70afce1f4be24f33b8dba616d6c24d79.jpg
-

@@ -3,13 +3,10 @@
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Tôm Hồng / Tôm Ngọt
 - **Tên tiếng Nhật:** 甘エビ (Ama Ebi) — tôm ngọt, còn gọi là tôm Bắc Cực / Northern Shrimp
-- **Xuất xứ:** (cần xác nhận — khả năng Canada, Iceland hoặc Greenland)
-- **Thương hiệu:** (cần xác nhận)
 - **Danh mục:** Hải sản nhập khẩu / Tôm nguyên con đông lạnh / Sashimi-grade
 - **Dạng sản phẩm:** Tôm nguyên con, còn đầu còn vỏ, đông lạnh — dùng trực tiếp cho sashimi
 - **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** Theo bao bì từng lô (cần xác nhận)
-- **Đóng gói:** Khay xốp trắng — xếp thẳng hàng, nhiều khay/thùng (quy cách cụ thể cần xác nhận)
+- **Đóng gói:** Khay xốp trắng — xếp thẳng hàng, nhiều khay/thùng
 
 ## Quy cách đóng gói
 - Đơn vị: khay xốp trắng (trọng lượng và số con/khay cần xác nhận)

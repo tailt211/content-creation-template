@@ -8,7 +8,6 @@
 - **Danh mục:** Hải sản nhập khẩu / Tôm nguyên con đông lạnh / Ama ebi
 - **Dạng sản phẩm:** Tôm nguyên con còn đầu, còn vỏ, đông lạnh nhanh trên tàu
 - **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** Theo bao bì từng lô (cần xác nhận)
 - **Đóng gói:** Hộp giấy 1kg, size 3L, 46-50 con/hộp
 
 ## Quy cách đóng gói

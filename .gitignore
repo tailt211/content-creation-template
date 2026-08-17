@@ -26,6 +26,7 @@ context/products/**/*.png
 context/logo/**/*.jpg
 context/logo/**/*.jpeg
 context/logo/**/*.png
+context/documents/
 
 # Posts output
 posts/

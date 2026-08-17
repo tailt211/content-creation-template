@@ -2,28 +2,29 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Lươn Nissi Bao Xanh (NISSI Frozen Roasted Eel)
-- **Tên tiếng Nhật:** うなぎ蒲焼 (Unagi Kabayaki) — lươn nướng sốt tare kiểu Nhật
-- **Xuất xứ:** Trung Quốc (Origin: China — ghi trên thùng)
-- **Thương hiệu:** NISSI SEAFOODS — thương hiệu quen thuộc trong danh mục Bình Minh SG
-- **Nhà nhập khẩu:** FISHY VIETNAM COMPANY LIMITED — No.82/1, National Route 1A, Quarter 3, Linh Xuan Ward, Thu Duc City, Ho Chi Minh City, Vietnam
+- **Tên đầy đủ:** Cá chình nướng đông lạnh
+- **Tên tiếng Nhật:** うなぎ蒲焼 (Unagi Kabayaki) — cá chình/lươn nướng sốt tare kiểu Nhật
+- **Xuất xứ:** Trung Quốc
+- **Thương hiệu:** NISSI SEAFOODS
 - **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki nhập khẩu
-- **Dạng sản phẩm:** Lươn nướng sốt tare (kabayaki) đông lạnh, fillet nguyên miếng
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận theo lô)
-- **Đóng gói:** Từng miếng bọc bao xanh-đỏ NISSI, đóng thùng carton trắng viền đỏ NISSI
+- **Dạng sản phẩm:** Cá chình nướng đã chế biến, tẩm gia vị và đông lạnh
+- **Thành phần:** Cá chình 75%, nước, nước tương (đậu nành, lúa mì, muối, nước), đường glucose levulose, mirin, đường cát, rượu, chất làm dày (INS 415, INS 1442), chất điều vị (INS 635), màu tổng hợp (INS 150a, INS 160b(i))
+- **Bảo quản:** Đông lạnh dưới -18°C
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất; ngày sản xuất xem "Product date" và hạn sử dụng xem "Expiry date" trên bao bì
 
 ## Quy cách đóng gói
-- Bao bì: túi xanh-đỏ in logo **NISSI SEAFOODS + うなぎ蒲焼 FROZEN ROASTED EEL — PREMIUM QUALITY**
-- Thùng carton trắng viền đỏ, in logo NISSI rõ ràng
-- **Đơn vị tính:** Kg — 200g/con
-- Size options trên thùng: 60P / 50P✓ / 45P / 40P / 35P / 30P / 25P / 20P
-- Importer: FISHY VIETNAM COMPANY LIMITED
+- **Đơn vị tính:** Kg / túi theo size
+- **Size:** 60P: 166,6 g/con; 50P: 200 g/con; 45P: 222,2 g/con; 40P: 250 g/con; 35P: 285,7 g/con; 30P: 333,3 g/con; 25P: 400 g/con; 20P: 500 g/con
+- **Quy cách hộp/thùng:** 5 kg/hộp, 10 kg/thùng, 10 kg (2 hộp x 5 kg)/thùng
+- **Chất liệu bao bì:** Bao bì nhựa PE, bên ngoài là thùng giấy
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Nâu caramel bóng — lớp sốt tare kabayaki phủ đều
-- **Hình dạng:** Fillet nguyên miếng, bỏ xương
-- **Trạng thái:** Đông lạnh
+- **Màu sắc:** Nâu caramel bóng — lớp sốt tare/kabayaki phủ đều
+- **Hình dạng:** Fillet nguyên miếng, bỏ xương, nhiều lựa chọn size theo số P
+- **Trạng thái:** Cá chình nướng đã chế biến, tẩm gia vị và đông lạnh
+- **Thành phần chính:** Cá chình 75%, nền sốt gồm nước tương, mirin, đường và rượu
 - **Bao bì:** Màu xanh-đỏ nổi bật, phân biệt rõ với các dòng lươn khác trong cùng danh mục NISSI
+- **Đặc tính nổi bật:** Nhiều size từ 166,6 g đến 500 g/con, phù hợp chia portion cho unadon/unaju
 
 ## Ứng dụng trong bếp Nhật
 

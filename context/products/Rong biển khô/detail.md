@@ -7,7 +7,6 @@
 - **Danh mục:** Hàng khô – Gia vị / Wakame khô
 - **Dạng sản phẩm:** Rong biển cắt nhỏ, sấy khô — ngâm nước 5–10 phút trước khi dùng
 - **Bảo quản:** Nơi khô, thoáng, tránh ẩm và ánh nắng trực tiếp; đậy kín sau khi mở
-- **Hạn sử dụng:** (cần xác nhận theo lô)
 - **Đóng gói:** Túi nhựa đen, nhãn trắng ROHI
 
 ## Quy cách đóng gói

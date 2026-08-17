@@ -2,31 +2,24 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Cá Thu Đao (Pacific Saury)
-- **Tên tiếng Nhật:** 秋刀魚 (Sanma) — nghĩa đen "cá kiếm mùa thu"; loài Cololabis saira
-- **Xuất xứ:** (cần xác nhận — thường từ Nhật Bản hoặc Nga/Bắc Thái Bình Dương)
-- **Thương hiệu:** (cần xác nhận)
-- **Danh mục:** Cá nhập khẩu / Sanma nguyên con đông lạnh
-- **Dạng sản phẩm:** Nguyên con, còn đầu đuôi, chưa mổ ruột, đông lạnh IQF hoặc block
-- **Size:** Khoảng 30–40cm/con
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Thùng carton, xếp song song nhiều lớp — số con/thùng cần xác nhận
+- **Tên đầy đủ:** Cá thu đao nguyên con đông lạnh
+- **Xuất xứ:** Đài Loan
+- **Thành phần:** Cá thu đao 100%
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất; ngày sản xuất và hạn sử dụng xem trên bao bì
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Thùng
-- **Size:** 6–8 con/kg — thùng 9–10 kg/thùng
-- **Lưu ý bán hàng:** Bán nguyên thùng
-- Cá nguyên con xếp song song, đầu-đuôi so le trong thùng carton
-- Đông lạnh block hoặc IQF từng con (cần xác nhận theo lô)
-- Thương hiệu: SAMAFISH JAPAN
+- **Chất liệu bao bì:** Bao bì nhựa PE/PA/PP/PET, bên ngoài là thùng giấy
+- **Khối lượng tịnh:** 9,5 kg/thùng; 9,6 kg/thùng; 9,7 kg/thùng; 9,8 kg/thùng; 9,9 kg/thùng; 10 kg/thùng hoặc quy cách khác theo yêu cầu khách hàng
+- **Kích thước:** 8-11 con/kg hoặc kích thước khác theo yêu cầu khách hàng
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Lưng xanh đen bóng, bụng bạc trắng — màu tự nhiên sanma tươi đông lạnh đúng chuẩn
+- **Màu sắc:** Lưng xanh đen bóng, bụng bạc trắng — màu tự nhiên sanma tươi đông lạnh
 - **Hình dạng:** Thân dài mảnh, đầu nhọn, đuôi chẻ — đặc trưng sanma nguyên con
-- **Kích thước:** Ước tính 30–40cm/con (so sánh với cây bút trong ảnh)
+- **Kích thước:** 8-11 con/kg
 - **Trạng thái:** Đông lạnh nguyên con, còn đầu đuôi và nội tạng
-- **Bề mặt:** Vảy bạc bóng, một số có lớp băng mỏng (glazing tự nhiên khi đông)
-- **Đặc tính nổi bật:** Thân đều, không bị gãy hay biến dạng — chất lượng xử lý sau đánh bắt tốt
+- **Bề mặt:** Vảy bạc bóng, một số có lớp băng mỏng
+- **Thành phần:** 100% cá thu đao
+- **Đặc tính nổi bật:** Thân đều, không bị gãy hay biến dạng, phù hợp nướng muối kiểu Nhật
 
 ## Ứng dụng trong bếp Nhật
 

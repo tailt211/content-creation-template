@@ -2,26 +2,29 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Trứng cá hồi size trung (Ikura — không ngâm sốt sẵn)
-- **Tên tiếng Nhật:** いくら (Ikura) — trứng cá hồi tươi đông lạnh, size hạt vừa
-- **Xuất xứ:** Nhập khẩu (cần xác nhận từng lô)
-- **Danh mục:** Hải sản chế biến / Trứng cá hồi đông lạnh / Sashimi-grade
-- **Dạng sản phẩm:** Trứng cá hồi (ikura) tách màng, cấp đông IQF, không ngâm sốt sẵn — dùng trong bếp có thể ngâm nước tương riêng
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** Theo bao bì sản phẩm từng lô (thường 12–18 tháng)
-- **Đóng gói:** Khay xốp trắng đậy màng trong + hộp carton bao ngoài — thùng xốp lạnh
+- **Tên đầy đủ:** Trứng cá hồi đông lạnh
+- **Tên tiếng Nhật:** いくら (Ikura) — trứng cá hồi đông lạnh
+- **Xuất xứ:** Nhật Bản
+- **Danh mục:** Hải sản chế biến / Trứng cá hồi đông lạnh / Sushi topping
+- **Dạng sản phẩm:** Trứng cá hồi đông lạnh, có tẩm gia vị theo thành phần sản phẩm
+- **Tên khoa học:** Oncorhynchus gorbuscha
+- **Thành phần:** Trứng cá hồi, tinh bột, muối, nước tương, rượu sake ngọt, gia vị lên men, giấm táo, đường, chiết xuất bonito, chiết xuất tảo bẹ, đạm thủy phân, chiết xuất thịt gà; có chứa lúa mì, đậu nành, bonito và lúa mạch
+- **Bảo quản:** -18°C hoặc trong ngăn đông tủ lạnh
+- **Hạn sử dụng:** 18 tháng kể từ ngày sản xuất; ngày sản xuất và hạn sử dụng xem trên nhãn sản phẩm
 
-## Quy cách
-- **Đơn vị tính:** Hộp — 500g/hộp
-- Khay xốp trắng, nắp màng trong suốt — nhìn rõ trứng từ bên ngoài
-- Hạt trứng size vừa — kích thước đồng nhất giữa các khay, dễ định lượng khi chia phần
-- Hạt riêng biệt — không cục lại, tiện lấy lượng chính xác
+## Quy cách đóng gói
+- **Đơn vị tính:** Khay/Hộp — 500 g/hộp
+- **Quy cách khác:** 250 g/khay, 500 g/khay hoặc theo nhu cầu khách hàng
+- **Quy cách thùng:** 5 kg/thùng (500 g x 10 khay)
+- **Chất liệu bao bì:** Khay nhựa và màng PA chuyên dụng, bên ngoài là thùng carton
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Cam-đỏ salmon tươi sáng — đặc trưng của ikura sashimi-grade tươi đông lạnh, không ngâm sốt thêm
-- **Hình dạng hạt:** Tròn đều, kích thước vừa phải (medium size) — nhỏ hơn ikura wild-caught nhưng lớn hơn ikura mini
-- **Kết cấu:** Hạt căng tròn, không bị vỡ hay dẹp, membrane dẫn sạch — mỗi hạt riêng biệt, xếp dày đặc
-- **Trạng thái:** Đông lạnh sạch — chưa ngâm nước tương, cho phép bếp chọn cách chuẩn bị riêng
-- **Đặc tính nổi bật:** Size trung phù hợp mọi ứng dụng — vừa đủ lớn để sashimi tươi, vừa đủ nhỏ để định lượng chính xác trong gunkan hay sushi rolls
+- **Màu sắc:** Cam-đỏ salmon tươi sáng
+- **Hình dạng hạt:** Tròn đều, kích thước vừa, xếp dày đặc trong khay
+- **Kết cấu:** Hạt căng, hạn chế vỡ/dẹp khi rã đông đúng cách
+- **Trạng thái:** Đông lạnh; rã đông và dùng trực tiếp hoặc chế biến các món ăn
+- **Dinh dưỡng tham khảo trên 100g:** Năng lượng 269 kcal, protein 22,1 g, lipid 14,7 g, carbohydrate 12,0 g, natri 591 mg
+- **Đặc tính nổi bật:** Quy cách 500g phù hợp chia portion cho gunkan, donburi và sushi roll
 
 ## Ứng dụng trong bếp Nhật
 

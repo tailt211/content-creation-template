@@ -2,37 +2,24 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Trứng Tôm Ebiko (Ebiko — エビコ)
-- **Tên tiếng Nhật:** エビコ (Ebiko) — trứng cá Capelin tẩm gia vị, nhuộm màu, dùng trong sushi
-- **Xuất xứ:** (cần xác nhận — nhập khẩu qua NISSI SEAFOODS)
-- **Thương hiệu:** NISSI SEAFOODS
-- **Danh mục:** Thực phẩm nhập khẩu / Trứng cá Capelin đông lạnh / Sushi topping
-- **Dạng sản phẩm:** Frozen Seasoned Capelin Fish Roe — trứng cá Capelin tẩm gia vị, nhuộm màu, đông lạnh
-- **Phân loại màu:** 4 dòng — Đỏ (Red) / Cam (Orange) / Xanh lá (Green) / Đen (Black)
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** Theo bao bì từng lô
-- **Đóng gói:** Khay nhựa trong suốt 500g, màng bọc kín — 4 khay/thùng carton
+- **Tên đầy đủ:** Trứng cá trứng tẩm gia vị đông lạnh - Frozen Seasoned Capelin Fish Roe
+- **Xuất xứ:** Trung Quốc
+- **Thành phần:** Trứng cá trứng 95%, chất tạo ngọt tổng hợp (INS 420(i)), nước tương, rượu gạo, muối, đường, chất điều vị (INS 621), phẩm màu tổng hợp (INS 124, INS 110)
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Hộp — 500g/hộp
-- Khay nhựa hình chữ nhật trong suốt — thấy màu sản phẩm từ ngoài
-- Nhãn NISSI SEAFOODS — logo エビコ (EBIKO) nổi bật, hình ảnh sushi roll California
-- Ghi rõ: FROZEN SEASONED CAPELIN FISH ROE + tên dòng màu (RED EBIKO / ORANGE EBIKO...)
-- Thùng carton nâu đai dây, 4 khay/thùng
-
-## Phân loại theo màu
-| Màu | Tên | Đặc điểm | Ứng dụng phổ biến |
-|-----|-----|-----------|-------------------|
-| **Đỏ** | Red Ebiko | Màu đỏ đậm, vị đậm hơn | California roll đỏ, topping sashimi |
-| **Cam** | Orange Ebiko | Màu cam tươi tự nhiên | California roll cổ điển, gunkan |
-| **Xanh lá** | Green Ebiko | Màu xanh lá, vị thanh | Dragon roll, sushi sáng tạo |
-| **Đen** | Black Ebiko | Màu đen (nhuộm mực) | Sushi fusion, tạo tương phản màu sắc |
+- **Chất liệu bao bì:** Hộp nhựa PE/PET, bên ngoài là thùng giấy
+- **Khối lượng tịnh:** 250 g/hộp; 500 g/hộp
+- **Quy cách thùng:** 10 kg (250 g x 40 hộp)/thùng; 10 kg (500 g x 20 hộp)/thùng
+- **Quy cách khác:** Theo yêu cầu khách hàng nếu được thể hiện trên bao bì
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Đỏ đậm (dòng Red) / cam tươi (dòng Orange) — màu đồng đều toàn khay
-- **Hình dạng:** Hạt nhỏ li ti, đường kính ~1mm — nhỏ hơn ikura, đều hạt
+- **Màu sắc:** Đỏ đậm hoặc cam tươi tùy dòng; màu đồng đều toàn khay
+- **Hình dạng:** Hạt nhỏ li ti, đường kính khoảng 1mm — nhỏ hơn ikura, đều hạt
 - **Kết cấu:** Hạt giòn nhẹ khi cắn, bám tốt vào bề mặt sushi
 - **Trạng thái:** Đông lạnh thành khối, rã đông ra hạt rời — dùng ngay
-- **Đặc tính nổi bật:** 4 màu linh hoạt tạo hiệu ứng màu sắc cho đĩa sushi — topping không cần chế biến
+- **Dạng sản phẩm:** Trứng cá trứng tẩm gia vị đông lạnh
+- **Thành phần chính:** Trứng cá trứng 95%
+- **Đặc tính nổi bật:** Topping sushi có màu nổi bật, phù hợp California roll, gunkan và garnish
 
 ## Ứng dụng trong bếp Nhật
 

@@ -2,21 +2,22 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Mù Tạt Bột Nissi (Wasabi Powder)
-- **Tên tiếng Nhật:** わさび粉 (Wasabi-ko) — bột wasabi, pha nước thành paste trước khi dùng
-- **Thương hiệu:** NISSI (cần xác nhận — bao bì tương tự dòng wasabi bột đóng túi lớn)
-- **Danh mục:** Hàng khô – Gia vị / Wasabi bột
-- **Dạng sản phẩm:** Bột wasabi đóng túi lớn — pha với nước lạnh tỷ lệ 1:1 thành paste
-- **Bảo quản:** Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp; đậy kín sau khi mở
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Túi nhựa trắng in logo và chữ "POWDER WASABI"
+- **Tên đầy đủ:** Mù tạt bột - Wasabi Powder
+- **Xuất xứ:** Trung Quốc
+- **Thành phần:** Bột cải ngựa 84,3%, bột mù tạt 11,33%, tinh bột bắp 4%, chất điều chỉnh độ acid (INS 330), chất chống oxy hóa (INS 300), màu tổng hợp (INS 133, INS 102)
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất;
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Kg — 1kg/gói (cần xác nhận)
-- Đóng thùng carton, nhiều túi/thùng
+- **Chất liệu bao bì:** Bao bì nhựa PE, bên ngoài là hộp giấy
+- **Khối lượng tịnh:** 1 kg/túi
+- **Quy cách thùng:** 10 kg/thùng (10 túi x 1 kg)
+- **Quy cách khác:** Theo yêu cầu khách hàng nếu được thể hiện trên bao bì
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc bột:** Xanh lá nhạt đặc trưng wasabi
 - **Đóng gói:** Túi nhựa trắng cứng, in chữ "POWDER WASABI" nổi bật, có logo thương hiệu và chứng nhận chất lượng
+- **Dạng sản phẩm:** Bột mù tạt/wasabi powder
+- **Thành phần chính:** Bột cải ngựa 84,3%, bột mù tạt 11,33%, tinh bột bắp 4%
 - **Sau khi pha:** Paste màu xanh lá, cay nồng đặc trưng
 - **Đặc tính nổi bật:** Túi lớn phù hợp bếp volume cao; linh hoạt điều chỉnh độ đặc khi pha
 

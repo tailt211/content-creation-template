@@ -2,24 +2,23 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Nước Tương Kikkoman Koikuchi (Mã 12269)
-- **Tên tiếng Nhật:** 芳醇こいくち醤油 (Hōjun Koikuchi Shōyu) — nước tương đậm màu loại thượng hạng, ủ truyền thống
-- **Thương hiệu:** KIKKOMAN (亀甲萬) — thương hiệu nước tương Nhật uy tín hàng đầu thế giới, thành lập 1917
-- **Danh mục:** Hàng khô – Gia vị / Nước tương Nhật
-- **Dạng sản phẩm:** Nước tương ủ lên men truyền thống (hon-jozo) — đóng hộp lớn cho bếp nhà hàng
-- **Bảo quản:** Nơi thoáng mát; sau khi mở giữ lạnh và dùng trong 1–2 tháng
-- **Hạn sử dụng:** (cần xác nhận theo lô)
-- **Đóng gói:** Hộp carton đen, nhãn Kikkoman đặc trưng
+- **Tên đầy đủ:** Nước tương Kikkoman
+- **Xuất xứ:** Nhật Bản
+- **Thành phần:** Nước 57%, muối 16%, đậu nành 15%, lúa mì 11%, rượu 1%
+- **Hạn sử dụng:** Hạn sử dụng xem "Expiry date" trên bao bì
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Thùng — 18L/thùng
-- **Mã sản phẩm:** 12269
-- Hộp carton màu đen-xám, nhãn trắng in "芳醇こいくち" và logo Kikkoman hình lục giác
+- **Chất liệu bao bì:** Thùng nhôm
+- **Khối lượng tịnh:** 21,06 kg/thùng hoặc khối lượng/quy cách khác theo yêu cầu khách hàng
+- **Thể tích thực:** 18 L/thùng hoặc thể tích/quy cách khác theo yêu cầu khách hàng
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Bao bì:** Hộp carton vuông màu đen, nhãn trắng, có tay xách
-- **Dòng sản phẩm:** 芳醇 (Hōjun = thơm nồng/phong phú) — dòng cao cấp hơn standard koikuchi
+- **Bao bì:** Hộp/thùng vuông màu đen, nhãn trắng, có tay xách
+- **Dòng sản phẩm:** 芳醇 (Hōjun) — dòng có hương thơm phong phú
 - **Màu nước tương:** Nâu đậm, trong
-- **Đặc tính nổi bật:** Hon-jozo (本醸造) — ủ hoàn toàn tự nhiên, không pha chế; hương thơm sâu đặc trưng
+- **Dạng sản phẩm:** Nước tương dạng lỏng
+- **Thành phần chính:** Nước, muối, đậu nành, lúa mì, rượu
+- **Đặc tính nổi bật:** Quy cách 18L/thùng, phù hợp bếp Nhật dùng nước tương làm nền tare, soup base và nước chấm
 
 ## Ứng dụng trong bếp Nhật
 

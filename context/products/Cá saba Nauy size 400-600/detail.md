@@ -49,5 +49,3 @@
 - z7798281511084_6fd3981f2777ccdaa2b3bd23dcca13fa.jpg _(lô hàng thùng xốp chờ nhập kho — thể hiện volume lớn)_
 - z7798281516974_c566ec66a8a1cb1d0bd30fc162d4bd6f.jpg _(thùng carton Nils Sperre AS — thể hiện thương hiệu nhà sản xuất và thông tin thùng)_
 - z7798281529789_0f7a8907a187aa6a8c4bd9e29c8053c8.jpg _(ảnh thứ 3 — dùng kèm để đa dạng góc nhìn)_
-
-

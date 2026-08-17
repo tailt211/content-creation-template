@@ -2,25 +2,28 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Tobiko Nissi Trứng Nhỏ (Trứng cá chuồn trứng nhỏ)
-- **Tên tiếng Nhật:** とびこ (Tobiko) — trứng cá chuồn, dòng hạt nhỏ đa màu phổ biến cho sushi roll
+- **Tên đầy đủ:** Trứng cá chuồn tẩm gia vị đông lạnh - Frozen Seasoned Flying Fish Roe (Tobiko)
+- **Xuất xứ:** Trung Quốc
+- **Tên tiếng Nhật:** とびこ (Tobiko) — trứng cá chuồn tẩm gia vị dùng topping sushi
 - **Thương hiệu:** NISSI SEAFOODS
 - **Danh mục:** Thực phẩm chế biến / Trứng cá đông lạnh / Sushi topping
-- **Dạng sản phẩm:** Trứng cá chuồn hạt nhỏ, đông lạnh, đã tẩm gia vị theo màu
-- **Phân loại màu:** Cam (tự nhiên) / Xanh / Đen / Đỏ — bán từng màu riêng
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** Theo bao bì từng lô
-- **Đóng gói:** Hộp nhựa chữ nhật nắp trong
+- **Dạng sản phẩm:** Trứng cá chuồn tẩm gia vị đông lạnh
+- **Thành phần:** Trứng cá chuồn, muối, đường, chất điều vị (INS 621), nước tương (đậu nành, lúa mì, muối, nước), rượu gạo, sorbitol (INS 420(i)), màu tổng hợp Sunset Yellow FCF (INS 110)
+- **Bảo quản:** -18°C
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất;
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Hộp — 500g/hộp
-- Đóng thùng carton, 4 hộp/thùng — có thể mix 4 màu (quan sát từ ảnh)
-- Nhãn NISSI với ảnh minh họa sushi, phân biệt màu theo nhãn
+- **Đơn vị tính:** Hộp — 500 g/hộp
+- **Quy cách thùng:** 10 kg/thùng
+- **Chất liệu bao bì:** Hộp nhựa PE/PET, bên ngoài là thùng giấy
+- **Mô tả đóng gói:** Hộp chữ nhật, giữ đông ở -18°C
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Hạt trứng:** Nhỏ, đều hạt — cảm giác "puchi puchi" nhẹ, phù hợp topping bám đều bề mặt cuốn
-- **Màu sắc:** 4 màu riêng biệt — đỏ, xanh lá, cam, đen — thấy rõ trong ảnh 4 hộp khác màu
-- **Kết cấu:** Mịn, bám dính tốt trên bề mặt cơm và nori
+- **Màu sắc:** Cam/đỏ-cam đặc trưng Tobiko; màu trong file verify dùng Sunset Yellow FCF (INS 110)
+- **Kết cấu:** Mịn, giòn nhẹ, bám dính tốt trên bề mặt cơm và nori
 - **Trạng thái:** Đông lạnh — rã đông trong ngăn mát trước khi dùng
+- **Thành phần chính:** Trứng cá chuồn tẩm gia vị
 - **Đặc tính nổi bật:** Hạt nhỏ bám đều hơn khi bọc ngoài cuốn sushi — phù hợp production volume cao
 
 ## Ứng dụng trong bếp Nhật

@@ -3,13 +3,10 @@
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Sò Điệp Nửa Mảnh Đông Lạnh
 - **Tên tiếng Nhật:** 帆立貝 (Hotate Kai) — sò điệp nguyên con còn nửa mảnh vỏ
-- **Xuất xứ:** (cần xác nhận)
-- **Thương hiệu:** (cần xác nhận — bao bì trắng-xanh, nhãn tiếng Việt)
 - **Danh mục:** Nhuyễn thể / Sò điệp nửa mảnh đông lạnh
 - **Dạng sản phẩm:** Sò điệp còn nửa vỏ dưới, thịt + coral còn nguyên, đông lạnh
-- **Thành phần:** 100% sò điệp (ghi trên nhãn)
+- **Thành phần:** 100% sò điệp
 - **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận — nhãn ghi tháng 1/2025 nhưng cần xác nhận BBD)
 - **Đóng gói:** Túi PE trắng-xanh nhiều con, đóng thùng carton
 
 ## Thông tin dinh dưỡng (per 100g — từ nhãn)

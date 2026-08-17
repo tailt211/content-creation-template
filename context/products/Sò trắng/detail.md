@@ -7,11 +7,10 @@
 - **Tên tiếng Anh:** Ocean Quahog Prime Cut — Wild Caught Frozen
 - **Tên tiếng Nhật/thông dụng trong ngành Nhật:** ホッキ貝 (Hokkigai) phân khúc, nhưng thực chế phẩm từ Ocean Quahog (Bắc Đại Tây Dương)
 - **Xuất xứ:** Canada (Atlantic Ocean — vùng đánh bắt tự nhiên Bắc Đại Tây Dương)
-- **Nhà sản xuất:** Clearwater Seafoods — tập đoàn hải sản Canada, chuyên khai thác và chế biến hải sản wild-caught đạt chuẩn quốc tế
 - **Dạng sản phẩm:** Thịt sò đã tách vỏ, cắt lát mỏng định hình, đóng khay hút chân không
 - **Đơn vị:** 100g / khay
 - **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** 18–24 tháng kể từ ngày sản xuất (theo bao bì)
+- **Hạn sử dụng:** 18–24 tháng kể từ ngày sản xuất
 
 ## Quy cách đóng gói
 - Khay hút chân không trong suốt — nhìn rõ thịt sò từ ngoài
@@ -46,5 +45,3 @@
 ## Hình ảnh sản phẩm
 - z7798282793223_99437cb2c2d32a4494481deb9867058b.jpg _(thùng hàng, nhiều khay — thể hiện quy mô lô hàng)_
 - z7798282833294_2e2567671b80cd18f9c8a1d8453f85f1.jpg _(cận khay, thấy rõ thịt sò và logo Clearwater)_
-
-

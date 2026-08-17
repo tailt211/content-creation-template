@@ -4,23 +4,10 @@
 - **Tên sản phẩm:** Lươn Vàng (Frozen Roasted Eel / Unagi Kabayaki)
 - **Tên tiếng Nhật:** うなぎ蒲焼 (Unagi Kabayaki) — lươn nướng sốt tare kiểu Nhật
 - **Xuất xứ:** Trung Quốc (ghi trên thùng)
-- **Thương hiệu:** (nhận diện qua thùng carton trắng viền xanh lá — không có brand riêng nổi bật)
-- **Nhà nhập khẩu:** CLAMS VIETNAM COMPANY LIMITED — 50 đường số 18, Phường Hiệp Bình, Thành phố Hồ Chí Minh, Việt Nam
-- **Nhà sản xuất:** FUJIAN JIANGNING FOOD CO., LTD — Fujian Province, China
 - **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki nhập khẩu
 - **Dạng sản phẩm:** Lươn nướng sốt tare (kabayaki) đông lạnh, fillet nguyên miếng
 - **Net weight:** 10kg/thùng
 - **Bảo quản:** -18°C trở xuống
-
-## Thông tin dinh dưỡng (per 100g — từ nhãn)
-| Chỉ số | Giá trị |
-|---|---|
-| Energy | 253 Kcal |
-| Protein | 17.0g |
-| Carbohydrate | 10.3g |
-| Total Sugars | 10.3g |
-| Total Fat | 16.0g |
-| Sodium | 565mg |
 
 ## Quy cách đóng gói
 - **Đơn vị tính:** Kg — 200g/con

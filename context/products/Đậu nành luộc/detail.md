@@ -3,14 +3,12 @@
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Đậu Nành Luộc / Đậu Edamame Đông Lạnh
 - **Tên tiếng Nhật:** 枝豆 (Edamame) — đậu nành non còn trong vỏ, luộc chín đông lạnh
-- **Xuất xứ:** (cần xác nhận — ROHI là thương hiệu Việt Nam/Đông Nam Á)
 - **Thương hiệu:** ROHI
 - **Danh mục:** Thực phẩm chế biến / Rau củ đông lạnh / Edamame
 - **Dạng sản phẩm:** Đậu edamame nguyên vỏ, luộc chín sẵn, đông lạnh IQF
 - **Chứng nhận:** GLOBALG.A.P / BRC / FDA — ghi trên bao bì
 - **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** Theo bao bì từng lô (ghi trên nhãn: -18°C 1 ngày; -12°C 1 tuần; -6°C 1 tháng)
-- **Đóng gói:** Túi PE xanh lá 500g/gói — thùng carton 4 gói/thùng (cần xác nhận)
+- **Đóng gói:** Túi PE xanh lá 500g/gói
 
 ## Quy cách đóng gói
 - Đơn vị: túi 500g CONTENT

@@ -25,7 +25,6 @@
 - **Kết cấu:** Thịt dày, form fillet ổn định; dòng buri premium thường được dùng khi cần lát cá có độ béo và độ đứng form tốt
 - **Trạng thái:** Đông lạnh, hút chân không, giữ trong thùng carton
 - **Nhãn sản phẩm:** Bao bì ghi "Yellowtail Japanese Amberjack"; nhãn phụ ghi "Frozen Yellowtail (Amberjack) Fillet (Buri Fillet)"
-- **Nhà sản xuất:** Hashiguchi Aquaculture Co., Ltd Fishery Processing Factory, Japan (theo nhãn trên bao bì)
 - **Đặc tính nổi bật:** Size 2kg up giúp bếp cắt sashimi/nigiri được lát lớn, đều form hơn so với miếng nhỏ; phù hợp nhóm sushi bar, omakase và nhà hàng Nhật cần hình ảnh plating cao cấp
 
 ## Ứng dụng trong bếp Nhật

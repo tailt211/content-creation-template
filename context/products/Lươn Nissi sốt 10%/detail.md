@@ -2,27 +2,22 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Lươn Nissi Sốt 10% (NISSI Frozen Roasted Eel)
-- **Tên tiếng Nhật:** うなぎ蒲焼 (Unagi Kabayaki) — lươn nướng sốt tare kiểu Nhật
-- **Xuất xứ:** Trung Quốc (thể hiện trên thùng hàng)
-- **Thương hiệu:** NISSI SEAFOODS
-- **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki nhập khẩu
-- **Dạng sản phẩm:** Lươn xẻ fillet, nướng chín và phủ sốt, cấp đông
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận theo lô)
-- **Đóng gói:** Từng miếng hút chân không; đóng thùng carton 10 kg, tỷ lệ sốt 10%
+- **Tên đầy đủ:** Cá chình nướng đông lạnh - Frozen Roasted Eel
+- **Thành phần:** Cá chình 90%, nước tương, đường, tinh bột
+- **Xuất xứ:** Trung Quốc
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Thùng 10 kg
-- **Quy cách quan sát trên lô hàng:** 50P, tương đương khoảng 200 g/miếng; cần xác nhận lại theo từng lô
-- **Mô tả đóng gói:** Mỗi fillet đóng túi hút chân không in NISSI SEAFOODS, “Frozen Roasted Eel / Unagi Kabayaki”; xếp trong thùng carton trắng viền xanh
-- **Các size in trên thùng:** 60P, 50P, 45P, 40P, 35P, 30P, 25P và 20P; ảnh lô hiện tại đánh dấu 50P
+- **Chất liệu bao bì:** Gói nhựa PP/PE, thùng carton
+- **Quy cách:** Đóng gói kín
+- **Khối lượng tịnh:** 200 g/gói; 5 kg (200 g x 25 gói); 10 kg (200 g x 50 gói)
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Nâu đỏ đến nâu caramel, bề mặt phủ sốt bóng
-- **Hình dạng:** Fillet lươn nguyên miếng, thuôn dài và dẹt
+- **Hình dạng:** Fillet lươn/cá chình nguyên miếng, thuôn dài và dẹt
 - **Kết cấu:** Thịt đã nướng chín; độ mềm thực tế cần kiểm tra sau khi rã đông và gia nhiệt
 - **Trạng thái:** Đông lạnh, đóng hút chân không từng miếng
-- **Đặc tính nổi bật:** Tỷ lệ sốt 10%; quy cách 10 kg/thùng và nhiều lựa chọn size in sẵn trên bao bì
+- **Tỷ lệ thành phần:** Cá chình 90%; phần sốt/gia vị gồm nước tương, đường, tinh bột
+- **Đặc tính nổi bật:** Tỷ lệ sốt 10%, phù hợp hâm nóng nhanh cho unagi don, sushi và set cơm Nhật
 
 ## Ứng dụng trong bếp Nhật
 

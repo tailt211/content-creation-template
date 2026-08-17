@@ -2,26 +2,25 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Nori Rohi (Roasted Seaweed Sushi Nori)
-- **Tên tiếng Nhật:** 焼き海苔 (Yaki Nori) — rong biển nori đã nướng
-- **Xuất xứ:** (cần xác nhận theo nhãn phụ/lô hàng)
-- **Thương hiệu:** ROHI
-- **Danh mục:** Hàng khô – Gia vị / Nori cuốn sushi
-- **Dạng sản phẩm:** Lá nori nướng khô, dạng tấm vuông
-- **Bảo quản:** Nơi khô ráo, thoáng mát, tránh ẩm và ánh nắng trực tiếp; đóng kín sau khi mở
-- **Hạn sử dụng:** (cần xác nhận theo lô)
-- **Đóng gói:** Gói nhựa trong, 50 lá/gói, khối lượng tịnh 4.40 oz (125 g)
+- **Tên đầy đủ:** Rong biển khô (Yakishushi Nori) - Roasted Seaweed (Yakishushi Nori)
+- **Xuất xứ:** Trung Quốc
+- **Thành phần:** 100% rong biển
+- **Hạn sử dụng:** 18 tháng kể từ ngày sản xuất; ngày sản xuất xem "Production date"
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Gói
-- **Quy cách:** 50 lá/gói; khối lượng tịnh 125 g
-- **Mô tả đóng gói:** Các lá nori xếp phẳng thành chồng, bọc kín trong túi nhựa trong và dán nhãn giấy ROHI
+- **Chất liệu bao bì:** Bao bì nhựa PP/PE, bên ngoài là thùng giấy
+- **Khối lượng tịnh:** 140 g/túi (50 miếng)
+- **Quy cách thùng:** 11,2 kg/thùng (140 g x 80 túi)
+- **Quy cách khác:** Theo yêu cầu khách hàng nếu được thể hiện trên bao bì
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Xanh đen đến đen, bề mặt có độ bóng tự nhiên
 - **Hình dạng:** Lá mỏng, phẳng, dạng tấm chữ nhật
 - **Kết cấu:** Khô, mỏng; độ giòn thực tế cần kiểm tra sau khi mở gói
 - **Trạng thái:** Nori đã nướng, dùng trực tiếp
-- **Đặc tính nổi bật:** Quy cách 50 lá/125 g phù hợp bếp sushi cần chia portion và sử dụng thường xuyên
+- **Thành phần:** 100% rong biển
+- **Định lượng:** 50 miếng/túi, 140 g/túi
+- **Đặc tính nổi bật:** Quy cách 50 lá/túi phù hợp bếp sushi cần chia portion và sử dụng thường xuyên
 
 ## Ứng dụng trong bếp Nhật
 

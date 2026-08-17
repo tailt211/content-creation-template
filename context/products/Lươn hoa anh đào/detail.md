@@ -2,26 +2,29 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Lươn Hoa Anh Đào (Frozen Roasted Eel)
-- **Tên tiếng Nhật:** うなぎ蒲焼 (Unagi Kabayaki) — lươn nướng sốt tare kiểu Nhật
-- **Xuất xứ:** (cần xác nhận)
-- **Thương hiệu:** Hoa Anh Đào — nhận diện qua bao bì vàng in hoa anh đào đỏ
+- **Tên đầy đủ:** Cá chình nướng ướp nước sốt đông lạnh
+- **Tên tiếng Nhật:** うなぎ蒲焼 (Unagi Kabayaki) — cá chình/lươn nướng sốt tare kiểu Nhật
+- **Xuất xứ:** Trung Quốc
+- **Thương hiệu:** Hoa Anh Đào
 - **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki
-- **Dạng sản phẩm:** Lươn nướng sốt tare (kabayaki) đông lạnh, nguyên miếng fillet
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Từng miếng bọc bao bì vàng hoa anh đào, đóng thùng carton trắng 5kg x 2 (tổng 10kg/thùng)
+- **Dạng sản phẩm:** Cá chình nướng ướp nước sốt đông lạnh
+- **Thành phần:** Cá chình nuôi trong trang trại, nước tương (nước, đậu nành, lúa mì, muối), đường, mirin (nước, gạo, rượu, mạch nha), tinh bột ngô, màu tổng hợp (INS 150d, INS 160b(i)), chất làm dày (INS 415)
+- **Bảo quản:** Đông lạnh ≤ -18°C
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất;
 
 ## Quy cách đóng gói
-- Bao bì: túi vàng in logo hoa anh đào đỏ + chữ うなぎ蒲焼 (Unagi Kabayaki) + logo tròn xanh
-- Đóng thùng carton trắng: "Frozen Roasted Eel — Packing: 5kg x 2"
-- Size options trên thùng: 30P / 40P / 50P✓ / 60P (50P là size được chọn theo lô)
-- Bảo quản -18°C trở xuống — ghi trên thùng
+- **Đơn vị tính:** Kg / gói theo size
+- **Quy cách:** ~400g/gói; 10 kg/thùng
+- **Chất liệu bao bì:** Bao bì nhựa PE, bên ngoài là thùng giấy
+- **Mô tả đóng gói:** Bao bì vàng hoa anh đào, đóng thùng carton đông lạnh
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Nâu caramel bóng — màu đặc trưng kabayaki nướng sốt tare
 - **Hình dạng:** Fillet nguyên miếng, dẹt, dài — đã bỏ xương
 - **Trạng thái:** Đông lạnh, đã nướng và tẩm sốt tare sẵn — hâm nóng là dùng được
+- **Thành phần chính:** Cá chình nuôi trong trang trại, nước tương, đường, mirin và tinh bột ngô
 - **Bao bì nổi bật:** Vàng với hoa anh đào đỏ — thẩm mỹ Nhật, dễ nhận diện trên shelf
+- **Đặc tính nổi bật:** Dòng lươn kabayaki sốt sẵn, phù hợp hâm nóng nhanh cho unadon/unaju
 
 ## Ứng dụng trong bếp Nhật
 

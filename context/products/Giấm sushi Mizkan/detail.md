@@ -2,24 +2,23 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Giấm Sushi Mizkan Suehiro (Mã 26104)
-- **Tên tiếng Nhật:** すし酢 (Sushi-zu) — giấm pha sẵn dùng trộn cơm sushi, đã cân bằng đường-muối-giấm
-- **Thương hiệu:** MIZKAN 末広 (Suehiro) — tập đoàn giấm lớn nhất Nhật Bản
-- **Danh mục:** Hàng khô – Gia vị / Giấm sushi
-- **Dạng sản phẩm:** Giấm gạo pha sẵn (đã có đường, muối) — dùng trực tiếp trộn cơm sushi, không cần pha thêm
-- **Bảo quản:** Nơi thoáng mát, tránh ánh nắng trực tiếp; sau khi mở bảo quản lạnh
-- **Hạn sử dụng:** (cần xác nhận theo lô)
-- **Đóng gói:** Thùng carton màu nâu-vàng với dây đai vàng đặc trưng Mizkan
+- **Tên đầy đủ:** Giấm Mizkan
+- **Xuất xứ:** Nhật Bản
+- **Thành phần:** Giấm chưng cất 99,3% (làm từ rượu với lúa mì, bánh sake, chiết xuất từ gạo và ngô), muối 0,7%
+- **Hạn sử dụng:** 12 tháng kể từ ngày sản xuất; ngày sản xuất xem "Production date" và hạn sử dụng xem "Expiry date" trên nhãn sản phẩm
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Thùng — 20L/thùng
-- **Mã sản phẩm:** 26104
-- Đóng thùng carton chắc chắn, dây đai vàng, nhãn Mizkan Suehiro rõ ràng
+- **Chất liệu bao bì:** Thùng/can nhựa PET
+- **Thể tích thực:** 20 L/thùng hoặc thể tích khác theo yêu cầu khách hàng và thể hiện trên bao bì
+- **Khối lượng tịnh:** 20,7 kg/thùng hoặc khối lượng khác theo yêu cầu khách hàng và thể hiện trên bao bì
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Bao bì:** Thùng carton nâu-vàng, nhãn trắng in tên "末広 SUEHIRO" và logo Mizkan
-- **Dạng lỏng:** Giấm trong, màu vàng nhạt đặc trưng giấm gạo
-- **Thành phần:** Giấm gạo + đường + muối — tỷ lệ chuẩn cho shari (cơm sushi)
-- **Đặc tính nổi bật:** 20L/thùng phù hợp bếp Nhật volume lớn; Mizkan là chuẩn mực giấm sushi tại Nhật
+- **Bao bì:** Thùng/can nhựa PET 20L, phù hợp bếp Nhật volume lớn
+- **Dạng sản phẩm:** Giấm nấu ăn dạng lỏng
+- **Màu sắc:** Vàng nhạt đến trong, đặc trưng giấm chưng cất
+- **Thành phần chính:** Giấm chưng cất 99,3% và muối 0,7%
+- **Nguồn nguyên liệu giấm:** Làm từ rượu với lúa mì, bánh sake, chiết xuất từ gạo và ngô
+- **Đặc tính nổi bật:** Quy cách 20L/thùng, phù hợp pha shari-su, nước chấm và sốt nền Nhật
 
 ## Ứng dụng trong bếp Nhật
 

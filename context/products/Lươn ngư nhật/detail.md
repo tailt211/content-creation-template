@@ -2,27 +2,22 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Lươn Ngư Nhật (Cá Chình Nướng Đông Lạnh)
-- **Tên tiếng Nhật:** うなぎ蒲焼 (Unagi Kabayaki) — lươn nướng sốt tare kiểu Nhật
-- **Xuất xứ:** (cần xác nhận)
-- **Thương hiệu:** Ngư Nhật (日の鰻) — logo đỏ viền vàng, nhận diện rõ trên bao bì đỏ
-- **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki
-- **Dạng sản phẩm:** Lươn nướng sốt tare (kabayaki) đông lạnh, nguyên miếng fillet, đóng gói chân không
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Từng miếng hút chân không, đóng thùng carton trắng 10kg/thùng
+- **Tên đầy đủ:** Cá chình nướng đông lạnh - Frozen Roasted Eel
+- **Xuất xứ:** Trung Quốc
+- **Thành phần:** Cá chình 90%, nước tương 10%
+- **Hạn sử dụng:** 2 năm kể từ ngày sản xuất; ngày sản xuất và hạn sử dụng xem trên bao bì sản phẩm
 
 ## Quy cách đóng gói
-- Bao bì: túi đỏ-vàng in logo Ngư Nhật (日の鰻) + うなぎ蒲焼
-- Sản phẩm đóng gói chân không (vacuum-sealed) từng miếng
-- Thùng carton trắng, khối lượng tịnh 10kg/thùng
-- Size 200gram/con
+- **Chất liệu bao bì:** Túi nhựa PA/LLDPE, bên ngoài là thùng giấy carton
+- **Quy cách:** 200 g/túi
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Nâu caramel sẫm bóng, đồng đều — lớp tare phủ kín bề mặt
 - **Hình dạng:** Fillet dài, rộng bản, dẹt, bỏ xương hoàn toàn
 - **Kết cấu:** Thịt mềm mại, bóng tare — nhìn thấy rõ từ bao bì trong
 - **Trạng thái:** Đông lạnh hút chân không — giữ độ ẩm và sốt tare tốt hơn so với bao PE thường
-- **Đặc tính nổi bật:** Fillet dài đẹp, lớp tare đều — thẩm mỹ cao khi trình bày
+- **Tỷ lệ thành phần:** Cá chình 90%, nước tương 10%
+- **Đặc tính nổi bật:** Fillet dài đẹp, lớp tare đều, thẩm mỹ cao khi trình bày
 
 ## Ứng dụng trong bếp Nhật
 

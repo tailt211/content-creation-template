@@ -2,30 +2,28 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Sò Điệp Nissi (NISSI Scallop Adductor)
-- **Tên tiếng Nhật:** 帆立貝柱 (Hotate Kaibashira) — Cồi sò điệp (phần thịt trắng tròn); in rõ trên hộp NISSI
-- **Xuất xứ:** (cần xác nhận — thường Nhật Bản, Canada hoặc Trung Quốc)
-- **Thương hiệu:** NISSI SEAFOODS — thương hiệu quen thuộc trong danh mục Bình Minh SG
-- **Danh mục:** Nhuyễn thể / Cồi sò điệp đông lạnh / Sashimi-grade
-- **Dạng sản phẩm:** Cồi sò điệp (adductor muscle) tách riêng, đông lạnh IQF
-- **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Hộp giấy trắng dài NISSI + túi PE trong suốt bên trong
+- **Tên đầy đủ:** Cồi sò điệp đông lạnh - Frozen Sea Scallop
+- **Tên tiếng Nhật:** 帆立貝柱 (Hotate Kaibashira) — Cồi sò điệp
+- **Xuất xứ:** Trung Quốc
+- **Thương hiệu:** NISSI SEAFOODS
+- **Danh mục:** Nhuyễn thể / Cồi sò điệp đông lạnh
+- **Dạng sản phẩm:** Cồi sò điệp đông lạnh
+- **Thành phần:** Cồi sò điệp 100%
+- **Bảo quản:** Đông lạnh ≤ -18°C
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất; ngày sản xuất và hạn sử dụng xem trên bao bì sản phẩm
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Hộp — 1 Kg/Hộp
-- **Size có sẵn:**
-  - HOTATE NISSI 1S: Size 20–25 con/kg
-  - HOTATE NISSI 2S: Size 30–35 con/kg
-- Hộp giấy trắng dài in logo **NISSI SEAFOODS + 帆立贝柱** + hình ảnh sò điệp vàng cam
-- Bên trong: túi PE NISSI chứa nhiều Cồi sò điệp IQF
-- Đóng thùng carton, nhiều hộp/thùng — số hộp/thùng cần xác nhận
+- **Đơn vị tính:** Hộp — 1 kg/hộp
+- **Khối lượng tịnh:** 1 kg/hộp
+- **Chất liệu bao bì:** Bao bì nhựa PE, bên ngoài là hộp giấy
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Trắng ngà đến trắng kem — màu tự nhiên Cồi sò điệp đông lạnh
-- **Hình dạng:** Hình trụ tròn dẹt, đường kính ước tính 3–5cm — cỡ trung đến lớn
-- **Kết cấu:** Chắc, đàn hồi — đặc tính Cồi sò điệp sashimi-grade
-- **Trạng thái:** IQF từng cái, không dính nhau — tiện lấy đúng số lượng cần dùng
-- **Đặc tính nổi bật:** Cồi tách riêng hoàn toàn — không có màng, không có phần cam (coral) — chuẩn nigiri và sashimi
+- **Màu sắc:** Trắng ngà đến trắng kem — màu tự nhiên của cồi sò điệp đông lạnh
+- **Hình dạng:** Cồi sò điệp tròn dẹt, tách riêng phần thịt cồi
+- **Kết cấu:** Chắc, đàn hồi; phù hợp cắt sashimi hoặc áp chảo
+- **Trạng thái:** Đông lạnh, đóng hộp 1 kg
+- **Thành phần:** Cồi sò điệp 100%
+- **Đặc tính nổi bật:** Cồi tách riêng, tiện định lượng cho nigiri, sashimi, butter yaki và món áp chảo
 
 ## Ứng dụng trong bếp Nhật
 

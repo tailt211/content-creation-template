@@ -2,32 +2,23 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Chả Cá Hồng (Kamaboko Red)
-- **Tên tiếng Nhật:** 赤かまぼこ (Aka Kamaboko) — chả cá hình trụ màu đỏ-hồng, chế biến từ surimi cá thịt trắng, đặc trưng trong ẩm thực Nhật Bản
-- **Xuất xứ:** Thái Lan (sản xuất) — phân phối bởi Wismettac Foods, Inc., Tokyo, Nhật Bản
-- **Thương hiệu:** Kibun (紀文) — thương hiệu kamaboko hàng đầu Nhật Bản, sản xuất tại Kibun (Thailand) Co., Ltd.
-- **Nhà phân phối:** Wismettac Foods, INC. — 3-2-1, Nihonbashi Muromachi, Chuo-ku, Tokyo 103-0022, Japan
-- **Nhà sản xuất:** Kibun (Thailand) Co., Ltd., Samut Sakhon, Thailand
-- **Danh mục:** Thực phẩm chế biến nhập khẩu / Surimi / Kamaboko đông lạnh
-- **Dạng sản phẩm:** Kamaboko hình trụ, đã hấp chín, đông lạnh, đóng gói từng cây túi PE
-- **Net weight:** 160g / cây
-- **Gross weight:** 165g / cây
-- **Bảo quản:** -18°C trở xuống
+- **Tên đầy đủ:** Chả cá đông lạnh Kamaboko Red
+- **Xuất xứ:** Thái Lan
+- **Thành phần:** Thịt cá 45,54% (cá đổng lượng), nước, tinh bột sắn biến tính, đường, muối, protein đậu nành, dầu đậu nành, chất điều vị (INS 621), bột lòng trắng trứng, hương ngọt tổng hợp [xi-rô glucose, nước, chất điều chỉnh độ acid (INS 270), chất bảo quản (INS 260), chiết xuất men, màu thực phẩm nhân tạo (INS 150c)], vị cua tổng hợp, màu thực phẩm nhân tạo (INS 127)
 - **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất
-- **Đóng gói thùng:** Thùng KONTOOR ~500 cây
 
 ## Quy cách đóng gói
-- Từng cây kamaboko bọc túi PE trong suốt, có nhãn thông tin đầy đủ (song ngữ Anh)
-- Net weight 160g/cây, gross weight 165g/cây
-- Đóng thùng carton vàng KONTOOR — ~500 cây/thùng (handwritten label trên thùng)
-- Nhãn ghi rõ: distributor Wismettac (Tokyo), manufacturer Kibun Thailand
+- **Chất liệu bao bì:** Túi PE
+- **Khối lượng tịnh:** 160 g/túi
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Hồng-đỏ đậm bên ngoài, lõi trắng ngà — đặc trưng kamaboko aka
+- **Màu sắc:** Hồng-đỏ bên ngoài, lõi trắng ngà — đặc trưng kamaboko aka
 - **Hình dạng:** Hình trụ tròn, hai đầu trắng, thân hồng đỏ đồng đều
 - **Kết cấu:** Đặc, dai, mịn — đặc tính surimi hấp chín
 - **Trạng thái:** Đông lạnh, hấp chín sẵn — rã đông là dùng được
-- **Thành phần chính:** Cá thịt trắng (Threadfin Bream / cá đù) 46.44%, tinh bột sắn, protein đậu nành, màu Caramel, Hibiscus Flavor, hương cua nhân tạo
-- **Đặc tính nổi bật:** Màu hồng từ Caramel Color (E150c) + Hibiscus — không dùng phẩm màu tổng hợp mạnh
+- **Thành phần chính:** Thịt cá 45,54%, tinh bột sắn biến tính, protein đậu nành, bột lòng trắng trứng và gia vị
+- **Màu sản phẩm:** Đỏ/hồng theo màu thực phẩm nhân tạo INS 127
+- **Đặc tính nổi bật:** Quy cách 160g/túi, phù hợp cắt lát làm topping mì, oden, bento và nabemono
 
 ## Ứng dụng trong bếp Nhật
 

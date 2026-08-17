@@ -2,25 +2,24 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Rong Biển Trộn Mè (Seasoned Seaweed with Sesame)
-- **Tên tiếng Nhật:** 味付け海藻 (Ajitsuke Kaisō) — rong biển đã tẩm gia vị; hoặc ごまわかめ (Goma Wakame) — wakame mè
-- **Xuất xứ:** (cần xác nhận — thường Trung Quốc hoặc Hàn Quốc)
-- **Thương hiệu:** (cần xác nhận)
-- **Danh mục:** Thực phẩm chế biến / Rong biển đông lạnh / Seasoned Seaweed
-- **Dạng sản phẩm:** Rong biển (wakame hoặc hỗn hợp) đã tẩm gia vị + mè rang, đông lạnh
-- **Bảo quản:** -18°C trở xuống (KEEP FROZEN — ghi trên thùng)
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Thùng carton trắng viền xanh — "SEASONED SEAWEED"
+- **Tên đầy đủ:** Rong biển tẩm gia vị đông lạnh - Frozen Seasoned Seaweed
+- **Xuất xứ:** Trung Quốc
+- **Thành phần:** Rong biển 82%, dầu mè, mè, chất điều chỉnh độ acid (INS 330), chất điều vị (INS 621), đường, ớt, chất làm dày (INS 406), chất tạo ngọt tổng hợp (INS 420(i)), nước tương (đậu nành, lúa mì, muối, nước), sốt giấm trắng, màu tổng hợp (INS 102, INS 133)
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Kg — 1kg/gói
-- **Thương hiệu:** NISSI (Chuka Wakame Nissi)
-- Thùng carton trắng viền xanh lá, ghi "SEASONED SEAWEED — KEEP FROZEN AT -18°C"
+- **Chất liệu bao bì:** Bao bì nhựa PE hoặc hộp nhựa PE/PET, bên ngoài là thùng giấy
+- **Khối lượng tịnh:** 500 g/hộp; 1 kg/gói
+- **Quy cách thùng:** 10 kg (1 kg x 10 hộp)/thùng; 12 kg (1 kg x 12 gói)/thùng
+- **Quy cách khác:** Theo yêu cầu khách hàng nếu được thể hiện trên bao bì
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** (cần xác nhận từ sản phẩm — thường xanh lá đậm khi rã đông)
-- **Thành phần chủ yếu:** Rong biển (wakame/hỗn hợp) + mè rang + gia vị (nước tương, dầu mè, đường, muối — tiêu chuẩn ngành)
+- **Màu sắc:** Xanh lá đậm sau rã đông; cần kiểm tra trực tiếp theo từng lô
 - **Trạng thái:** Đông lạnh — rã đông trong ngăn mát là dùng được, không cần nấu thêm
-- **Đặc tính nổi bật:** Gia vị sẵn, rã đông là phục vụ — tiết kiệm thời gian prep bếp
+- **Dạng sản phẩm:** Rong biển tẩm gia vị đông lạnh
+- **Thành phần chính:** Rong biển 82%, dầu mè, mè và gia vị
+- **Kết cấu:** Rong biển mềm, có độ bám gia vị và mè
+- **Đặc tính nổi bật:** Gia vị sẵn, rã đông là phục vụ, tiết kiệm thời gian prep bếp
 
 ## Ứng dụng trong bếp Nhật
 

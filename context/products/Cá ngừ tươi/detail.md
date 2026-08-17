@@ -2,29 +2,21 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Cá Ngừ Tươi
-- **Tên tiếng Nhật:** マグロ (Maguro) — cá ngừ; dạng cung cấp là block/loin nguyên khối (柵 — Saku)
-- **Loài:** (cần xác nhận — có thể là Yellowfin/Bigeye Tuna dựa trên màu thịt đỏ tươi)
-- **Xuất xứ:** (cần xác nhận)
-- **Thương hiệu:** (cần xác nhận)
-- **Danh mục:** Hải sản tươi / Cá ngừ dạng loin đông lạnh hoặc super-frozen / Sashimi-grade
-- **Dạng sản phẩm:** Block/loin nguyên khối tam giác (kakuuchi), bỏ da, bỏ xương — dạng saku sẵn sàng cắt sashimi
-- **Bảo quản:** -60°C (super-frozen) hoặc -18°C (đông lạnh thường) — cần xác nhận theo lô
-- **Hạn sử dụng:** (cần xác nhận)
-- **Đóng gói:** Túi PE hút chân không từng block, đóng thùng xốp với đá khô hoặc đá lạnh
+- **Tên đầy đủ:** Cá ngừ đại dương tươi
+- **Thành phần:** Thịt cá ngừ đại dương
+- **Cơ sở sản xuất:** Công ty TNHH Hải Sản Bình Minh
 
 ## Quy cách đóng gói
-- Block/loin tam giác nguyên khối — không cắt nhỏ
-- Cung cấp dạng saku (柵) — block đã xử lý sẵn, không cần sơ chế thêm trước khi cắt sashimi
-- Trọng lượng mỗi block: (cần xác nhận)
-- Đóng gói hút chân không từng miếng
+- **Đóng gói:** Theo yêu cầu của khách hàng
+- **Chất liệu bao bì:** PA hút chân không hoặc PE theo yêu cầu khách hàng
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
-- **Màu sắc:** Đỏ sẫm tươi sáng, đồng đều — đặc trưng akami (赤身) chất lượng cao
-- **Hình dạng:** Block tam giác lớn (kakuuchi/saku), mặt cắt thấy rõ vân thớ tròn đồng tâm
+- **Màu sắc:** Đỏ sẫm tươi sáng, đồng đều — đặc trưng akami chất lượng cao
+- **Hình dạng:** Block tam giác lớn hoặc saku, mặt cắt thấy rõ vân thớ tròn đồng tâm
 - **Kết cấu:** Thịt chắc, thớ mịn, bề mặt bóng ẩm — không bị khô hay thâm
-- **Trạng thái:** Tươi hoặc sau rã đông, không có dấu hiệu oxy hóa (browning)
-- **Phần thịt:** Akami (赤身 — thịt đỏ thuần) — phần loin chính, ít mỡ, vị umami thuần
-- **Đặc tính nổi bật:** Màu đỏ sẫm đẹp, thớ tròn đồng tâm rõ — dấu hiệu saku chất lượng, cắt ra đẹp tự nhiên
+- **Trạng thái:** Cá ngừ đại dương tươi; không có dấu hiệu oxy hóa rõ trên ảnh
+- **Phần thịt:** Akami — phần loin chính, ít mỡ, vị umami thuần
+- **Thành phần:** Thịt cá ngừ đại dương
 
 ## Ứng dụng trong bếp Nhật
 

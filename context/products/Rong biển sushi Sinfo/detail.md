@@ -2,24 +2,24 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** Rong Biển Sushi Sinfo (御燒海苔)
-- **Tên tiếng Nhật:** 御燒海苔 (Go-yaki Nori) — nori nướng thượng hạng
-- **Thương hiệu:** SINFO
-- **Danh mục:** Hàng khô – Gia vị / Nori cuốn sushi
-- **Dạng sản phẩm:** Lá nori khô nướng, ép vuông chuẩn — dùng cuốn sushi, maki, onigiri
-- **Bảo quản:** Nơi khô, thoáng, tránh ẩm; đậy kín sau khi mở
-- **Hạn sử dụng:** (cần xác nhận theo lô)
-- **Đóng gói:** Túi nhựa trong, lá nori xếp chồng bên trong
+- **Tên đầy đủ:** Rong biển khô - Roasted Seaweed
+- **Xuất xứ:** Trung Quốc
+- **Thành phần:** 100% rong biển
+- **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Gói — (cần xác nhận số lá/gói)
-- Túi nhựa trong, thấy rõ màu đen bóng của nori bên trong
-- Nhãn trắng in "SINFO 御燒海苔" theo kiểu chữ truyền thống
+- **Chất liệu bao bì:** Bao nhựa PE/PP, bên ngoài là thùng giấy
+- **Quy cách:** 90 túi/thùng
+- **Khối lượng tịnh:** 128 g/túi (50 miếng) hoặc khối lượng khác theo nhu cầu thị trường và ghi rõ trên nhãn sản phẩm
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Đen bóng đặc trưng nori nướng
 - **Hình dạng:** Lá vuông chuẩn sushi, xếp chồng gọn trong túi
-- **Đóng gói:** Túi nhựa trong — thấy rõ nori bên trong; nhãn giấy trắng "御燒海苔"
-- **Đặc tính nổi bật:** Chữ "御" (Go) trong tên — tiền tố kính ngữ Nhật, ngụ ý phẩm cấp cao; phân khúc khác so với ROHI
+- **Đóng gói:** Túi nhựa trong, nhãn giấy trắng "御燒海苔"
+- **Dạng sản phẩm:** Rong biển khô/roasted seaweed
+- **Thành phần:** 100% rong biển
+- **Định lượng:** 50 miếng/túi, 128 g/túi
+- **Đặc tính nổi bật:** Phân khúc nori sushi đóng túi, phù hợp dùng trực tiếp cho maki và gunkan
 
 ## Ứng dụng trong bếp Nhật
 

@@ -2,25 +2,23 @@
 
 ## Thông tin sản phẩm
 - **Tên sản phẩm:** An Ryorishu
-- **Tên tiếng Nhật:** 料理酒 (Ryōrishu) — rượu nấu ăn Nhật, dùng để khử mùi, làm mềm nguyên liệu và tăng vị umami trong quá trình nấu
-- **Xuất xứ:** Việt Nam (Wine Food Co., Ltd sản xuất tại TP.HCM — cần xác nhận theo chứng từ lô)
-- **Thương hiệu:** AN / Wine Food Co., Ltd
-- **Danh mục:** Hàng khô – Gia vị / Rượu nấu ăn Nhật
-- **Dạng sản phẩm:** Gia vị nấu ăn dạng lỏng, đóng thùng 18L cho bếp nhà hàng
-- **Bảo quản:** Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp; sau khi mở nên đậy kín và bảo quản theo hướng dẫn trên bao bì
-- **Hạn sử dụng:** (cần xác nhận theo lô)
-- **Đóng gói:** Thùng carton kraft, nhãn tròn viền xanh, dây đai trắng, thể tích thực ở 20°C: 18L
+- **Tên đầy đủ:** Gia vị nấu ăn An Ryorishu
+- **Xuất xứ:** Việt Nam
+- **Thành phần:** Nước, glucose, cồn thực phẩm tinh luyện, gạo, muối, chất bảo quản (INS 202), chất điều vị (INS 640), chất tạo ngọt tổng hợp (INS 950), chất xử lý bột (INS 1100i)
+- **Hạn sử dụng:** 01 năm kể từ ngày sản xuất
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Thùng — 18L/thùng
-- **Mô tả đóng gói:** Thùng carton lớn dùng cho bếp nhà hàng, nhãn "GIA VỊ NẤU ĂN AN RYORISHU" in trực tiếp trên mặt thùng
-- **Thông tin nhận diện:** Viền nhãn màu xanh giúp phân biệt với AN Mirin viền đỏ
+- **Thể tích thực ở 20°C:** 18 L
+- **Quy cách khác:** Theo yêu cầu khách hàng và thể hiện rõ trên nhãn hàng hóa
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc bao bì:** Carton nâu kraft, nhãn xanh-trắng, chữ đen lớn
-- **Hình dạng:** Thùng carton vuông/chữ nhật, có dây đai cố định
-- **Kết cấu:** Sản phẩm dạng lỏng bên trong túi/hộp thùng lớn (cần xác nhận cấu trúc túi trong thùng)
-- **Trạng thái:** Rượu/gia vị nấu ăn dạng lỏng, không phải hàng đông lạnh
+- **Hình dạng bao bì:** Thùng carton vuông/chữ nhật, có dây đai cố định
+- **Trạng thái sản phẩm:** Rượu/gia vị nấu ăn dạng lỏng, trong suốt, không phải hàng đông lạnh
+- **Màu sắc sản phẩm:** Màu vàng nhạt do quá trình lên men
+- **Mùi vị:** Mùi hơi nồng, vị ngọt
+- **Hàm lượng ethanol:** 14 ± 2%
+- **Độ Brix 20°C:** 11 ± 2%
 - **Đặc tính nổi bật:** Quy cách 18L phù hợp bếp Nhật dùng ryorishu hằng ngày cho món kho, nướng, nước dùng và sơ chế nguyên liệu
 
 ## Ứng dụng trong bếp Nhật

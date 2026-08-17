@@ -7,7 +7,6 @@
 - **Danh mục:** Nhuyễn thể / Sò điệp mini đông lạnh / IQF
 - **Dạng sản phẩm:** Cơ trụ sò điệp nhỏ, đông lạnh IQF từng cái
 - **Bảo quản:** -18°C trở xuống
-- **Hạn sử dụng:** (cần xác nhận)
 - **Đóng gói:** Túi PE trong hút chân không
 
 ## Quy cách đóng gói
