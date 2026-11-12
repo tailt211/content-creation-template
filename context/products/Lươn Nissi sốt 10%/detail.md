@@ -8,8 +8,8 @@
 
 ## Quy cách đóng gói
 - **Chất liệu bao bì:** Gói nhựa PP/PE, thùng carton
-- **Quy cách:** Đóng gói kín
-- **Khối lượng tịnh:** 200 g/gói; 5 kg (200 g x 25 gói); 10 kg (200 g x 50 gói)
+- **Quy cách:** 200g/gói | 10kg/thùng
+- **Khối lượng tịnh:** 200g/gói; 10kg/thùng
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Nâu đỏ đến nâu caramel, bề mặt phủ sốt bóng
@@ -17,7 +17,7 @@
 - **Kết cấu:** Thịt đã nướng chín; độ mềm thực tế cần kiểm tra sau khi rã đông và gia nhiệt
 - **Trạng thái:** Đông lạnh, đóng hút chân không từng miếng
 - **Tỷ lệ thành phần:** Cá chình 90%; phần sốt/gia vị gồm nước tương, đường, tinh bột
-- **Đặc tính nổi bật:** Tỷ lệ sốt 10%, phù hợp hâm nóng nhanh cho unagi don, sushi và set cơm Nhật
+- **Đặc tính nổi bật:** Tỷ lệ sốt 10%, quy cách 200g/gói | 10kg/thùng, phù hợp hâm nóng nhanh cho unagi don, sushi và set cơm Nhật
 
 ## Ứng dụng trong bếp Nhật
 

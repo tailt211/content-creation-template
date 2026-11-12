@@ -10,6 +10,8 @@
 ## Tổng quan thương hiệu
 - **Tên:** Hải Sản Bình Minh Sài Gòn
 - **Tên viết tắt:** Bình Minh SG
+- **Zalo/Hotline mặc định:** 078.530.8386
+- **Quy tắc liên hệ:** Từ ngày 17/10/2026, dùng 078.530.8386 cho mọi nội dung có Zalo/Hotline, trừ khi người dùng cung cấp số thay thế. Số đã được người dùng xác nhận; không cần hỏi lại cho từng bài.
 - **Tagline:** *Chuẩn chất — Đúng giờ — Đủ số lượng.*
 - **Định vị:** Nhà cung cấp hải sản đông lạnh & thực phẩm Nhật Bản uy tín, ổn định cho ngành F&B chuyên nghiệp
 - **Sản phẩm:** Hải sản đông lạnh (IQF, block frozen), hải sản sơ chế đóng gói, thực phẩm Nhật Bản (nhập khẩu và phân phối) — bán sỉ và lẻ

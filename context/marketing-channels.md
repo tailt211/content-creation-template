@@ -108,7 +108,7 @@
 
 #### Dạng 4: Multi-Product Post — Tổng hợp / Theo mùa / Theo dịp
 
-**Khi nào dùng:**
+**Khi nào dùng:**[$post-multiple-products-writer](C:\\My folder\\work\\prompt\\content-creation-template\\.codex\\skills\\post-multiple-products-writer\\SKILL.md) 
 - Mùa cao điểm (Tết, cuối năm, lễ hội), dịp nhà hàng cần lên menu theo chủ đề, hoặc khi muốn giới thiệu nhiều sản phẩm cùng lúc mà không "tốn slot" từng bài riêng
 - Phù hợp làm bài Chủ nhật (theo lịch content) hoặc bài đặc biệt ngoài lịch khi có dịp
 
@@ -149,7 +149,7 @@ Mỗi block sản phẩm gồm:
 **[5] CTA + LIÊN HỆ — nhất quán theo mẫu chuẩn**
 ```
 📦 Đặt hàng & báo giá sỉ:
-📱 Zalo/Hotline: [SỐ ĐIỆN THOẠI]
+📱 Zalo/Hotline: 078.530.8386
 📍 TP.HCM | Giao hàng toàn quốc
 ```
 
@@ -342,8 +342,8 @@ Mời thử, mời hỏi — không ép mua, không tạo khan hiếm giả. Ví
 
 ```
 📦 Đặt hàng & báo giá sỉ:
-📱 Zalo/Hotline: [SỐ ĐIỆN THOẠI]
+📱 Zalo/Hotline: 078.530.8386
 📍 TP.HCM | Giao hàng toàn quốc
 ```
 
-> Lưu ý: Điền số điện thoại thực tế vào trước khi đăng. Không để placeholder trong bài thật.
+> Số Zalo/Hotline mặc định đã được người dùng xác nhận ngày 17/10/2026: 078.530.8386. Dùng cho mọi bài sau này, không cần hỏi lại, trừ khi người dùng cung cấp số thay thế.

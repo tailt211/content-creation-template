@@ -10,10 +10,10 @@
 - **Bảo quản:** -18°C trở xuống
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Kg — 200g/con
+- **Đơn vị tính:** Gói 200g / thùng 10kg
+- **Quy cách:** 200g/gói | 10kg/thùng
 - Thùng carton trắng viền xanh lá, in **うなぎ蒲焼 FROZEN ROASTED EEL — PREMIUM QUALITY**
 - Net Weight: 10kg/thùng
-- Size options: 20P / 25P / 30P / 35P / 40P / 45P / 50P✓ / 60P / 70P (50P là size theo lô)
 - Lot number: 25102401HN2024071034
 - Allergen: Soybean and Wheat
 
@@ -21,7 +21,7 @@
 - **Màu sắc:** Nâu caramel bóng sáng — lớp tare phủ đều, hấp dẫn
 - **Hình dạng:** Fillet nguyên miếng, dẹt, bỏ xương
 - **Trạng thái:** Đông lạnh, đã nướng và tẩm sốt tare sẵn
-- **Đặc tính nổi bật:** Thùng nhỏ 5kg phù hợp đặt lẻ, linh hoạt cho bếp cần số lượng vừa phải
+- **Đặc tính nổi bật:** Quy cách 200g/gói | 10kg/thùng, phù hợp chia portion cố định cho unadon/unaju
 
 ## Ứng dụng trong bếp Nhật
 
@@ -40,7 +40,7 @@
 - Topping ramen hoặc udon
 
 ## Hình ảnh sản phẩm
-- z7801767334477_f5922648857af77564b22d9acc168e45.jpg _(thùng mở — nhãn đầy đủ: tên, net weight 5kg, ngày sản xuất, dinh dưỡng)_ ⭐
+- z7801767334477_f5922648857af77564b22d9acc168e45.jpg _(thùng mở — nhãn đầy đủ: tên, net weight, ngày sản xuất, dinh dưỡng)_ ⭐
 - z7801767360479_544be9dbac1a87d2a3eda58c382aa6da.jpg _(cận thùng — thấy rõ chữ うなぎ蒲焼 và FROZEN ROASTED EEL)_
 - z7801767345441_a81ade3910984e67c5dab5cd0fa4e8aa.jpg _(ảnh bổ sung)_
 - z7801767351087_25be7190d107e3df0ca4e5337bc5c33d.jpg _(ảnh bổ sung)_

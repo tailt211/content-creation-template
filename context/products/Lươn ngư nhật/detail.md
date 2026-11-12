@@ -9,7 +9,7 @@
 
 ## Quy cách đóng gói
 - **Chất liệu bao bì:** Túi nhựa PA/LLDPE, bên ngoài là thùng giấy carton
-- **Quy cách:** 200 g/túi
+- **Quy cách:** 200g/gói | 10kg/thùng
 
 ## Thông số kỹ thuật (quan sát từ ảnh thực tế)
 - **Màu sắc:** Nâu caramel sẫm bóng, đồng đều — lớp tare phủ kín bề mặt
@@ -17,7 +17,7 @@
 - **Kết cấu:** Thịt mềm mại, bóng tare — nhìn thấy rõ từ bao bì trong
 - **Trạng thái:** Đông lạnh hút chân không — giữ độ ẩm và sốt tare tốt hơn so với bao PE thường
 - **Tỷ lệ thành phần:** Cá chình 90%, nước tương 10%
-- **Đặc tính nổi bật:** Fillet dài đẹp, lớp tare đều, thẩm mỹ cao khi trình bày
+- **Đặc tính nổi bật:** Fillet dài đẹp, lớp tare đều, quy cách 200g/gói | 10kg/thùng, thẩm mỹ cao khi trình bày
 
 ## Ứng dụng trong bếp Nhật
 

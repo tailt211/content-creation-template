@@ -13,8 +13,8 @@
 - **Hạn sử dụng:** 24 tháng kể từ ngày sản xuất;
 
 ## Quy cách đóng gói
-- **Đơn vị tính:** Kg / gói theo size
-- **Quy cách:** ~400g/gói; 10 kg/thùng
+- **Đơn vị tính:** Gói 200g / thùng 10kg
+- **Quy cách:** 200g/gói | 10kg/thùng
 - **Chất liệu bao bì:** Bao bì nhựa PE, bên ngoài là thùng giấy
 - **Mô tả đóng gói:** Bao bì vàng hoa anh đào, đóng thùng carton đông lạnh
 
@@ -24,7 +24,7 @@
 - **Trạng thái:** Đông lạnh, đã nướng và tẩm sốt tare sẵn — hâm nóng là dùng được
 - **Thành phần chính:** Cá chình nuôi trong trang trại, nước tương, đường, mirin và tinh bột ngô
 - **Bao bì nổi bật:** Vàng với hoa anh đào đỏ — thẩm mỹ Nhật, dễ nhận diện trên shelf
-- **Đặc tính nổi bật:** Dòng lươn kabayaki sốt sẵn, phù hợp hâm nóng nhanh cho unadon/unaju
+- **Đặc tính nổi bật:** Dòng lươn kabayaki sốt sẵn, quy cách 200g/gói | 10kg/thùng, phù hợp hâm nóng nhanh cho unadon/unaju
 
 ## Ứng dụng trong bếp Nhật
 

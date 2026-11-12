@@ -91,7 +91,7 @@
 
 - **Detail:** [products/Lươn hoa anh đào/detail.md](products/L%C6%B0%E1%BB%A1n%20hoa%20anh%20%C4%91%C3%A0o/detail.md)
 - **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki
-- **USP:** Bao bì vàng hoa anh đào đặc trưng, đóng thùng 5kg x 2 — lươn nướng tare sẵn, hâm nóng là dùng, chuẩn unadon và unaju phục vụ nhanh
+- **USP:** Bao bì vàng hoa anh đào đặc trưng, quy cách 200g/gói | 10kg/thùng — lươn nướng tare sẵn, hâm nóng là dùng, chuẩn unadon và unaju phục vụ nhanh
 - **Số ảnh đề xuất mỗi bài:** 4–6 ảnh
 
 ---
@@ -100,7 +100,7 @@
 
 - **Detail:** [products/Lươn ngư nhật/detail.md](products/L%C6%B0%E1%BB%A1n%20ng%C6%B0%20nh%E1%BA%ADt/detail.md)
 - **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki
-- **USP:** Thương hiệu Ngư Nhật (日の鰻) bao đỏ-vàng đặc trưng, đóng gói chân không 10kg/thùng, range size 20P–100P linh hoạt — chuẩn unadon và unaju cho bếp Nhật lượng lớn
+- **USP:** Thương hiệu Ngư Nhật (日の鰻) bao đỏ-vàng đặc trưng, quy cách 200g/gói | 10kg/thùng — chuẩn unadon và unaju cho bếp Nhật lượng lớn
 - **Số ảnh đề xuất mỗi bài:** 4–6 ảnh
 
 ---
@@ -109,7 +109,7 @@
 
 - **Detail:** [products/Lươn Nissi bao xanh/detail.md](products/L%C6%B0%E1%BB%A1n%20Nissi%20bao%20xanh/detail.md)
 - **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki nhập khẩu
-- **USP:** NISSI SEAFOODS bao xanh-đỏ PREMIUM QUALITY — thương hiệu NISSI quen thuộc, nhập khẩu bởi FISHY Vietnam, size 20P–60P, chuẩn unadon và sushi roll lươn
+- **USP:** NISSI SEAFOODS bao xanh-đỏ PREMIUM QUALITY — thương hiệu NISSI quen thuộc, quy cách 200g/gói | 10kg/thùng, phù hợp unadon và sushi roll lươn
 - **Số ảnh đề xuất mỗi bài:** 4–6 ảnh
 
 ---
@@ -118,7 +118,7 @@
 
 - **Detail:** [products/Lươn vàng/detail.md](products/L%C6%B0%E1%BB%A1n%20v%C3%A0ng/detail.md)
 - **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki nhập khẩu
-- **USP:** Frozen Roasted Eel thùng 5kg linh hoạt, đóng gói nhỏ phù hợp đặt lẻ — protein 17g/100g, sản xuất tại Fujian China, nhập khẩu bởi CLAMS Vietnam; chuẩn unadon và unaju
+- **USP:** Frozen Roasted Eel quy cách 200g/gói | 10kg/thùng — protein 17g/100g, sản xuất tại Fujian China, nhập khẩu bởi CLAMS Vietnam; chuẩn unadon và unaju
 - **Số ảnh đề xuất mỗi bài:** 4–5 ảnh
 
 ---
@@ -433,7 +433,7 @@
 
 - **Detail:** [products/Lươn Nissi sốt 10%/detail.md](products/L%C6%B0%E1%BB%A1n%20Nissi%20s%E1%BB%91t%2010%25/detail.md)
 - **Danh mục:** Thực phẩm chế biến đông lạnh / Unagi Kabayaki nhập khẩu
-- **USP:** NISSI Frozen Roasted Eel thùng 10 kg, tỷ lệ sốt 10%, từng fillet hút chân không; lô ảnh hiện tại size 50P khoảng 200 g/miếng, phù hợp unadon, unaju và sushi lươn
+- **USP:** NISSI Frozen Roasted Eel quy cách 200g/gói | 10kg/thùng, tỷ lệ sốt 10%, từng fillet hút chân không, phù hợp unadon, unaju và sushi lươn
 - **Số ảnh đề xuất mỗi bài:** 4-5 ảnh
 
 ---
@@ -444,6 +444,24 @@
 - **Danh mục:** Hàng khô – Gia vị / Mirin nấu ăn
 - **USP:** HUE FOODS no Mirin sản xuất tại Việt Nam, 18 L/thùng, cồn 8%, thành phần gạo và men Koji — quy cách lớn cho teriyaki tare, unagi tare, nimono và mentsuyu
 - **Số ảnh đề xuất mỗi bài:** 4-5 ảnh
+
+---
+
+## 50. Cồi Sò Điệp Hấp Nissi (ボイルホタテ — Boiru Hotate)
+
+- **Detail:** [products/Cồi sò điệp hấp/detail.md](products/Cồi%20sò%20điệp%20hấp/detail.md)
+- **Danh mục:** Nhuyễn thể / Thịt sò điệp đã xử lý nhiệt đông lạnh
+- **USP:** NISSI SEAFOODS, size 80–100 con/kg, 1 kg/túi, 10 kg/thùng — thịt sò điệp bỏ vỏ đã luộc theo nhãn, tiện định lượng cho món áp chảo bơ–shoyu và cơm Nhật; chế biến trước khi dùng
+- **Số ảnh đề xuất mỗi bài:** 4-5 ảnh
+
+---
+
+## 51. Cá Trích Ép Trứng Chugai (板前造りにしん — Itamae-zukuri Nishin)
+
+- **Detail:** [products/Cá trích chugai/detail.md](products/Cá%20trích%20chugai/detail.md)
+- **Danh mục:** Thực phẩm Nhật Bản / Cá trích ép trứng tẩm gia vị đông lạnh
+- **USP:** Chugai Foods sản xuất tại Nhật Bản, cá trích nguyên liệu Na Uy kết hợp trứng capelin tẩm giấm ngọt; hai dòng đỏ/vàng, 6 miếng/túi × 2 túi/hộp × 4 hộp/thùng — cắt lát linh hoạt cho nigiri, chirashi và khai vị lạnh
+- **Số ảnh đề xuất mỗi bài:** 4-6 ảnh
 
 ---
 
